@@ -3,6 +3,7 @@
 **Data** | **Versão** | **Descrição** | **Autor(es)**
 ---------|------------|---------------|---------------
 18/08/2018| 1.0| Elaboração do modelo do termo de abertura do projeto | Gabriel Choptian
+23/08/2018| 1.0.1| Revisão gramatical da versão 1.0 | Gabriel Choptian / Caio C.H. Nakai
 
 ## Sumário
  
@@ -62,11 +63,11 @@ As restrições do projeto são:
 
 **Riscos** | **Plano de Ação** 
 -----------|------------|
-O fato da tecnologia ser nova para a maioria dos membros | Realizar treinamentos com a equipe de desenvolvimento sobre as tecnologias a serem utilizadas e buscar pessoas capacitadas que possam ajudar a sanar dúvidas
+O fato de a tecnologia ser nova para a maioria dos membros | Realizar treinamentos com a equipe de desenvolvimento sobre as tecnologias a serem utilizadas e buscar pessoas capacitadas que possam ajudar a sanar dúvidas
 
 # 8. Cronograma e Marcos
 
-<p align = "justify"> O cronograma do projeto se dá início ao semestre letivo da disciplina Engenharia de software 2, de maneira que teve seu marco inicial no dia 15/08/2018 e a data de finalização dia 29/11/2018. Entre essas datas acontece tres entregas parcial, onde devem ser apresentados os casos de uso priorizados, além de 30% de cobertura de testes sobre o sistema e a entrega final, com uma cobertura de testes maior ou igual a 90%, como segue o quadro: </p>
+<p align = "justify"> O cronograma do projeto se dá início ao semestre letivo da disciplina Engenharia de software 2, de maneira que teve seu marco inicial no dia 15/08/2018 e a data de finalização dia 29/11/2018. Entre essas datas acontece três entregas parcial, onde devem ser apresentados os casos de uso priorizados, além de 30% de cobertura de testes sobre o sistema e a entrega final, com uma cobertura de testes maior ou igual a 90%, como segue o quadro: </p>
 
  **Pontos de Controles**     | **Data**          |  **Resumo** 
 -----------------------------|-------------------|-----------
@@ -79,7 +80,7 @@ Release 02                   | 19/10/2018 | Entrega NV3
 
 <p align = "justify"> O custo existente no projeto relativo aos recursos humanos refere-se ao valor gasto com toda equipe presente em seu desenvolvimento e gestão.</p>
 
-<p align = "justify"> A equipe conta com 3 membros. O valor custo médio de um membro da equipe, os qual será medido em hora, sopondo que cada participante reserver em média 5h por semana, extra-aula para realizar as atividades do projeto, teremos o custo:</p>
+<p align = "justify"> A equipe conta com 3 membros. O valor custo médio de um membro da equipe, o qual será medido em hora, supondo que cada participante reserve em média 5h por semana, extra aula para realizar as atividades do projeto, teremos o custo:</p>
 
 
 |            | **Quantidade de Pessoas** | **Horas Por Semana** | **Semanas** | Preço Por Pessoa | Custo Final     |
@@ -87,7 +88,7 @@ Release 02                   | 19/10/2018 | Entrega NV3
 Membro |   3    |          5h          |      14      |      -    |   219h  |
 ## 9.2. Equipamentos e Serviços
 
-<p align = "justify"> O custo existente no projeto relativo aos equipamentos e serviços refere-se à todo e qualquer equipamento ou serviço utilizado para o desenvolvimento do mesmo. </p>
+<p align = "justify"> O custo existente no projeto relativo aos equipamentos e serviços refere-se a todo e qualquer equipamento ou serviço utilizado para o desenvolvimento do mesmo. </p>
 
 <p align = "justify"> Fora estimado que cada membro irá utilizar um Notebook com todas as ferramentas necessárias para o desenvolvimento do projeto. Fora estimado também que haveria um plano de Banda Larga por integrante durante 14 semanas (4 meses).</p>
 
@@ -122,9 +123,9 @@ Custo Estimado          |              |                | R$ 39,58 |
 
 ## 10.2.  Equipe de Gerência
 
-<p align = "justify"> Os alunos da disciplina de engenharia de software tem o objetivo de planejar, controlar e tomar decisões importantes para que o projeto seja concluído com êxito. </p>
+<p align = "justify"> Os alunos da disciplina de engenharia de software têm o objetivo de planejar, controlar e tomar decisões importantes para que o projeto seja concluído com êxito. </p>
 
-| Nome  |  E-mail  |   Github  |  
+| Nome | E-mail |   GitHub |  
 |---|---|--- |
 |Caio Cesar Hideo Nakai|caionakai2015@gmail.com|[@caionakai](https://github.com/caionakai)|  
 |Eduardo Yuzo Nakai|yuzonakai@gmail.com|[@tabsnospaces](https://github.com/tabsnospaces)|  
@@ -132,10 +133,10 @@ Custo Estimado          |              |                | R$ 39,58 |
 
 ## 10.3. Equipe de Desenvolvimento
 
-<p align = "justify"> A equipe de desenvolvimento são os membros da equipe de gerência, considerando que o objettivo do projeto é a aprendizagem de gerencia de projetos.  </p>
+<p align = "justify"> A equipe de desenvolvimento são os membros da equipe de gerência, considerando que o objetivo do projeto é a aprendizagem de gerência de projetos.  </p>
 
 # 11. Referência Bibliográfica
 
-* PMI. *Um guia do conhecimento em gerenciamento de projetos.* Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013
+* PMI. *Um guia do conhecimento em gerenciamento de projetos. * Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013
 
 * **¹** MONTES, Eduardo. **TERMO DE ABERTURA DO PROJETO**. Disponível em <[https://escritoriodeprojetos.com.br/termo-de-abertura-do-projeto](https://escritoriodeprojetos.com.br/termo-de-abertura-do-projeto)> Acesso em 18/08/2018
