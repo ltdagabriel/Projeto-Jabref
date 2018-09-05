@@ -7,7 +7,7 @@
 
 ## Sumário
  
-1. [Introdução](#1-introdu%C3%A7%C3%A3o)
+1. [Objetivos deste documento](#1-Objetivos-deste-documento)
 2. [Descrição do Projeto](#2-descri%C3%A7%C3%A3o-do-projeto)
 3. [Justificativa](#3-justificativa)
 4. [Objetivo do Projeto (SMART)](#4-objetivo-do-projeto-smart)
@@ -25,12 +25,29 @@
   10.3. [Equipe de Desenvolvimento](#103-equipe-de-desenvolvimento)    
 11. [Referência Bibliográfica](#11-refer%C3%AAncia-bibliogr%C3%A1fica)
 
-# 1. Introdução
-<p align = "justify"> O Termo de Abertura de Projeto (TAP) objetiva formalizar o início do projeto Jabref, onde ocorrerá o planejamento inicial de custos, restrições, riscos, tempo, cronograma e marcos.  O TAP concede ao gerente a capacidade de utilizar os recursos organizacionais que foram planejados para o projeto</p>
+# 1. Objetivos deste documento
+<p align = "justify">Autorizar o início do projeto, atribuir principais responsáveis e documentar requisitos iniciais, principais entregas, premissas e restrições.</p>
 
 # 2. Descrição do Projeto
 
-<p align = "justify"> O projeto Jabref consiste em criar ou melhorar uma funcionalidade do Jabref, a ser definida </p>
+<p align = "justify"> O sistema em questão é aplicado à pesquisas em Ecologia de ambientes
+aquáticos continentais, as quais têm o objetivo de investigar padrões
+biogeográficos de macrófitas aquáticas (plantas que vivem permanentemente ou
+por alguns períodos do ano, com a parte fotossintetizante em contato com a água)
+na América do Sul. Com base em dados ocorrência dessas plantas, pretendemos
+identificar áreas de maior diversidade, famílias e táxons amplamente distribuídas,
+famílias e táxons com áreas restritas de ocorrência, entre outros. Em adição, dados
+de ocorrência das espécies serão correlacionados à variáveis ambientais para a
+predição da área de distribuição geográfica das espécies no presente e no futuro,
+considerando o efeito das mudanças climáticas. Para isso foram selecionados 40
+artigos científicos que forneceram uma lista de cerca de 1900 espécies de
+macrófitas aquáticas com ocorrência na América do Sul. Desta forma, o produto
+pretendido é um sistema capaz i) de validar os nomes das espécies de macrófitas
+em online databases, trazendo também informações acerca da
+taxonomia/ecologia/biologia referentes aos nomes aceitos, ii) de congregar
+informações de registros ocorrências dessas espécies de macrófitas no continente,
+corrigindo erros e indicando padrões e tendências considerando as bacias
+hidrográficas Sul-Americanas.  </p>
 
 # 3. Justificativa
 
@@ -59,7 +76,7 @@ As restrições do projeto são:
 
 # 7. Riscos Iniciais
 
-<p align = "justify"> Os principais riscos do projeto envolvem a equipe e a tecnologia a ser utilizada. Esses riscos exigem um plano de ação para se obter o sucesso do projeto, que são: </p>
+<p align = "justify"> Os principais riscos do projeto envolvem a equipe e a técnologia a ser utilizada. Esses riscos exigem um plano de ação para se obter o sucesso do projeto, que são: </p>
 
 **Riscos** | **Plano de Ação** 
 -----------|------------|
@@ -117,9 +134,13 @@ Custo Estimado          |              |                | R$ 39,58 |
 
 # 10. Stakeholders (Partes interessadas)
 
-## 10.1. Cliente
+## 10.1. Clientes
 
-<p align = "justify"> Turma de engenharia de software, professor Reginaldo Re. </p>
+| Nome | Ocupação | E-mail |
+| --- | --- | --- |
+|Tania | Aluna |taniacrivelari@hotmail.com |
+|Karina | Professora |  karina.fidanza@gmail.com |
+|Dayani Bailly| Aluna de PhD | dayanibailly@gmail.com |
 
 ## 10.2.  Equipe de Gerência
 
