@@ -32,6 +32,7 @@ Além de servir como guia para a equipe durante todo o projeto.
 ## 2.3 Definir Escopo
 
 ## 2.4 Criar a EAP
+![EAP](https://raw.githubusercontent.com/ltdagabriel/Database-Macrophytes/master/PMO/EAP.png)
 
 ## 2.5 Validar Escopo
 Todas as entregas definidas serão validadas por Tania. 

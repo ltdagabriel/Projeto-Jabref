@@ -4,6 +4,7 @@
 ---------|------------|---------------|---------------
 18/08/2018| 1.0| Elaboração do modelo do termo de abertura do projeto | Gabriel Choptian
 23/08/2018| 1.0.1| Revisão gramatical da versão 1.0 | Gabriel Choptian / Caio C.H. Nakai
+05/09/2018| 1.0.2| Atualização dos tópicos 2, 3, 4 e 5 | Gabriel Choptian / Eduardo Yuzo Nakai
 
 ## Sumário
  
@@ -30,37 +31,35 @@
 
 # 2. Descrição do Projeto
 
-<p align = "justify"> O sistema em questão é aplicado à pesquisas em Ecologia de ambientes
-aquáticos continentais, as quais têm o objetivo de investigar padrões
-biogeográficos de macrófitas aquáticas (plantas que vivem permanentemente ou
-por alguns períodos do ano, com a parte fotossintetizante em contato com a água)
-na América do Sul. Com base em dados ocorrência dessas plantas, pretendemos
-identificar áreas de maior diversidade, famílias e táxons amplamente distribuídas,
-famílias e táxons com áreas restritas de ocorrência, entre outros. Em adição, dados
-de ocorrência das espécies serão correlacionados à variáveis ambientais para a
-predição da área de distribuição geográfica das espécies no presente e no futuro,
-considerando o efeito das mudanças climáticas. Para isso foram selecionados 40
-artigos científicos que forneceram uma lista de cerca de 1900 espécies de
-macrófitas aquáticas com ocorrência na América do Sul. Desta forma, o produto
-pretendido é um sistema capaz i) de validar os nomes das espécies de macrófitas
-em online databases, trazendo também informações acerca da
-taxonomia/ecologia/biologia referentes aos nomes aceitos, ii) de congregar
-informações de registros ocorrências dessas espécies de macrófitas no continente,
-corrigindo erros e indicando padrões e tendências considerando as bacias
-hidrográficas Sul-Americanas.  </p>
+<p align = "justify"> 
+  Com base em dados de ocorrência dessas plantas, os quais serão correlacionados à varáveis ambientais para a predição da área de distribuição geográfica da espécies no presente e no futuro, pretendemos
+  identificar os seguintes fatores: 
+  
+  - Áreas de maior diversidade;
+  - Famílias e táxons amplamente distribuídas;
+  - Famílias e táxons com áreas restritas de ocorrência. 
+</p>
 
 # 3. Justificativa
 
-<p align = "justify"> A definir</p>
+<p align = "justify">  O projeto entra no contexto da elaboração de um sistema para aplicação de pesquisas em ecologia de ambientes aquáticos com a finalidade de investigar padrões biogeográficos de macrófitas aquáticas na América do Sul.</p>
 
 # 4. Objetivo do Projeto (SMART)
 
-<p align = "justify">A definir </p>
+<p align = "justify">
+  Elaborar um sistema capaz de: 
+
+  1) Validar os nomes das espécies de macrófitas em banco de dados disponíveis online (Specieslink e GBIF), trazendo também informações relacionadas à Taxonomia; Ecologia; Biologia.
+  2) Congregar informações de registros de ocorrências dessas espécies de macrófitas no continente da seguinte forma: Correção de erros (como??); Indicação de padrões e tendências considerando as bacias hidrográficas Sul-Americanas. 
+</p>
 
 # 5. Produto do Projeto
 A. **Escopo**
-- A definir
-
+  - Validar o nome da espécies, fornecendo nome atualmente aceito e autor.
+  - Extração de dados categoricos da espécie apartir do nome da espécie 
+  - Listar os dados de ocorrência de cada espécie apartir das plataformas Specieslink e GBIF. 
+  - Executar processo triagem dos dados e correção de inconsistências.
+  - Visualização de dados
 B. **Não Escopo**
 - A definir
 
@@ -90,7 +89,7 @@ O fato de a tecnologia ser nova para a maioria dos membros | Realizar treinament
 -----------------------------|-------------------|-----------
 Release 01                   | 14/09/2018 | Entrega NV1
 Release 02                   | 28/09/2018 | Entrega NV2
-Release 02                   | 19/10/2018 | Entrega NV3
+Release 03                   | 19/10/2018 | Entrega NV3
 
 # 9. Custo estimado do projeto
 ## 9.1. Recursos Humanos
@@ -140,7 +139,7 @@ Custo Estimado          |              |                | R$ 39,58 |
 | --- | --- | --- |
 |Tania | Aluna |taniacrivelari@hotmail.com |
 |Karina | Professora |  karina.fidanza@gmail.com |
-|Dayani Bailly| Aluna de PhD | dayanibailly@gmail.com |
+|Dayani Bailly | Aluna de pós-doutorado | dayanibailly@gmail.com |
 
 ## 10.2.  Equipe de Gerência
 
