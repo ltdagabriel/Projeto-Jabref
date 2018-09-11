@@ -5,6 +5,7 @@
 18/08/2018| 1.0| Elaboração do modelo do termo de abertura do projeto | Gabriel Choptian
 23/08/2018| 1.0.1| Revisão gramatical da versão 1.0 | Gabriel Choptian / Caio C.H. Nakai
 05/09/2018| 1.0.2| Atualização dos tópicos 2, 3, 4 e 5 | Gabriel Choptian / Eduardo Yuzo Nakai
+11/09/2018| 1.0.3| Correção e adição de novas informações | Caio Nakai / Eduardo Nakai
 
 ## Sumário
  
@@ -32,7 +33,7 @@
 # 2. Descrição do Projeto
 
 <p align = "justify"> 
-  Com base em dados de ocorrência dessas plantas, os quais serão correlacionados à varáveis ambientais para a predição da área de distribuição geográfica da espécies no presente e no futuro, pretendemos
+  Com base em dados de ocorrências das plantas, os quais serão correlacionados a variáveis ambientais para a predição da área de distribuição geográfica das espécies no presente e no futuro, pretendemos
   identificar os seguintes fatores: 
   
   - Áreas de maior diversidade;
@@ -50,32 +51,33 @@
   Elaborar um sistema capaz de: 
 
   1) Validar os nomes das espécies de macrófitas em banco de dados disponíveis online (Specieslink e GBIF), trazendo também informações relacionadas à Taxonomia; Ecologia; Biologia.
-  2) Congregar informações de registros de ocorrências dessas espécies de macrófitas no continente da seguinte forma: Correção de erros (como??); Indicação de padrões e tendências considerando as bacias hidrográficas Sul-Americanas. 
+  2) Congregar informações de registros de ocorrências dessas espécies de macrófitas no continente da seguinte forma: Correção de erros através da comparação entre os dados de diferentes bases; Indicação de padrões e tendências considerando as bacias hidrográficas Sul-Americanas. 
 </p>
 
 # 5. Produto do Projeto
 A. **Escopo**
-  - Validar o nome da espécies, fornecendo nome atualmente aceito e autor.
-  - Extração de dados categoricos da espécie apartir do nome da espécie 
+  - Validar o nome da espécies, fornecendo o nome atualmente aceito e autor.
+  - Extração de dados categóricos da espécie apartir do nome da espécie 
   - Listar os dados de ocorrência de cada espécie apartir das plataformas Specieslink e GBIF. 
   - Executar processo triagem dos dados e correção de inconsistências.
   - Visualização de dados
 B. **Não Escopo**
-- A definir
+- Não serão coletados dados que não estejam nas bases especificadas.
 
 C. **Requisitos de alto nível**
 
 Os requisitos de maior prioridade ao cliente são:
-- A definir
+- Sistema funcionando corretamente.
 
 # 6. Restrições
 
 As restrições do projeto são:
-- A definir
+- O projeto deverá ser concluído até o final da disciplina 29/11/2018.
+
 
 # 7. Riscos Iniciais
 
-<p align = "justify"> Os principais riscos do projeto envolvem a equipe e a técnologia a ser utilizada. Esses riscos exigem um plano de ação para se obter o sucesso do projeto, que são: </p>
+<p align = "justify"> Os principais riscos do projeto envolvem a equipe e a tecnologia a ser utilizada. Esses riscos exigem um plano de ação para se obter o sucesso do projeto, que são: </p>
 
 **Riscos** | **Plano de Ação** 
 -----------|------------|
@@ -83,11 +85,11 @@ O fato de a tecnologia ser nova para a maioria dos membros | Realizar treinament
 
 # 8. Cronograma e Marcos
 
-<p align = "justify"> O cronograma do projeto se dá início ao semestre letivo da disciplina Engenharia de software 2, de maneira que teve seu marco inicial no dia 15/08/2018 e a data de finalização dia 29/11/2018. Entre essas datas acontece três entregas parcial, onde devem ser apresentados os casos de uso priorizados, além de 30% de cobertura de testes sobre o sistema e a entrega final, com uma cobertura de testes maior ou igual a 90%, como segue o quadro: </p>
+<p align = "justify"> O cronograma do projeto se dá início ao semestre letivo da disciplina Engenharia de software 2, de maneira que teve seu marco inicial no dia 15/08/2018 e a data de finalização dia 29/11/2018. Entre essas datas acontecerão três entregas parciais, onde devem ser apresentados os casos de uso priorizados, além de 30% de cobertura de testes sobre o sistema e a entrega final, com uma cobertura de testes maior ou igual a 90%, como segue o quadro: </p>
 
  **Pontos de Controles**     | **Data**          |  **Resumo** 
 -----------------------------|-------------------|-----------
-Release 01                   | 14/09/2018 | Entrega NV1
+Release 01                   | 21/09/2018 | Entrega NV1
 Release 02                   | 28/09/2018 | Entrega NV2
 Release 03                   | 19/10/2018 | Entrega NV3
 
