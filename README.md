@@ -13,4 +13,5 @@ Desta forma, o produto pretendido é definido por um sistema capaz de:
       - Biologia.
   2) Congregar informações de registros de ocorrências dessas espécies de macrófitas no continente da seguinte forma:
       - Correção de erros (como??);
+      - Ok
       - Indicação de padrões e tendências considerando as bacias hidrográficas Sul-Americanas. 
