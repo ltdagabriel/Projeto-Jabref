@@ -33,7 +33,6 @@ Além de servir como guia para a equipe durante todo o projeto.
 2. O que?(Escopo do Produto)
 
   2.1 Requisitos Obrigatórios
-  
     - Validar o nome da espécies, fornecendo o nome atualmente aceito e autor.
     - Extração de dados categóricos da espécie apartir do nome da espécie 
     - Listar os dados de ocorrência de cada espécie apartir das plataformas Specieslink e GBIF. 
@@ -47,6 +46,9 @@ Além de servir como guia para a equipe durante todo o projeto.
 Release 01                   | 21/09/2018 | Entrega NV1
 Release 02                   | 28/09/2018 | Entrega NV2
 Release 03                   | 19/10/2018 | Entrega NV3
+
+3. Como?(Escopo do Projeto)
+ Identifique a melhor forma de estruturar suas entregas (EAP - Estrutura Analítica do Projeto)
 
 
 ## 2.1 Planejar o Gerenciamento do Projeto
