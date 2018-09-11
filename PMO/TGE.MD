@@ -38,7 +38,7 @@ Além de servir como guia para a equipe durante todo o projeto.
         - Visualização de dados
     2. Entregas Necessárias
   
-   **Pontos de Controles**     | **Data**          |  **Resumo** 
+**Pontos de Controles**     | **Data**          |  **Resumo** 
 -----------------------------|-------------------|-----------
 Release 01                   | 21/09/2018 | Entrega NV1
 Release 02                   | 28/09/2018 | Entrega NV2
