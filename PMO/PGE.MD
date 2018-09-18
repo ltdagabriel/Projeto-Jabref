@@ -23,28 +23,32 @@
 Descrever junto com seus planos auxiliares, como o projeto será executado, controlado, monitorado e encerrado.
 Além de servir como guia para a equipe durante todo o projeto.
 
-# 2. Processo de Gerenciamento do Escopo
-
-
-## 2.1 Planejar o Gerenciamento do Escopo
+# 2. Planejamento e Gerenciamento do Escopo
 As questões relacionadas ao gerenciamento do escopo serão
 abordadas e controladas através de reuniões entre os gerentes
 da equipe.
 
-## 2.2 Coletar os Requisitos
+# 3. Requisitos do Sistema
 A coleta de requisitos será feita através de uma entrevista com o cliente a resultará
 em uma lista com os requisitos coletados.
 
-## 2.3 Definir Escopo
-Reunião dos integrantes da equipe para discussão do escopo. 
+# 3.1 Processo de Alteração dos Requisitos
 
-## 2.4 Criar a EAP
+# 3.2 Ferramentas Utilizadas
+Ex: zenhub
+# 3.3 Forma de Utilização do GitHub
+
+# 4. EAP
 A EAP é um dos documentos de saída deste macroprocesso.
 
-## 2.5 Validar Escopo
-Todas as entregas definidas serão validadas por Tania. 
-## 2.6 Controlar Escopo
-A equipe de gerência como a responsável por monitorar o progresso do escopo do projeto e do escopo do produto, além do gerenciamento das mudanças feitas na linha da base do escopo.
-# 3. Referências Bibliográficas
+# 5. Definição do Escopo
+Reunião dos integrantes da equipe para discussão do escopo. 
 
+## 5.1 Validação Escopo
+Todas as entregas definidas serão validadas por Tania.
+
+## 5.2 Controle do Escopo
+A equipe de gerência como a responsável por monitorar o progresso do escopo do projeto e do escopo do produto, além do gerenciamento das mudanças feitas na linha da base do escopo.
+
+# 3. Referências Bibliográficas
 * PMI. *Um guia do conhecimento em gerenciamento de projetos.* Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013

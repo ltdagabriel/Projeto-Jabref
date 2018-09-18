@@ -45,35 +45,48 @@
 
 <p align = "justify">  O projeto entra no contexto da elaboração de um sistema para aplicação de pesquisas em ecologia de ambientes aquáticos com a finalidade de investigar padrões biogeográficos de macrófitas aquáticas na América do Sul.</p>
 
-# 4. Objetivo do Projeto (SMART)
+# 4. Objetivo do Projeto
 
 <p align = "justify">
-  Elaborar um sistema capaz de: 
+  O objetivo deste projeto envolve a elaboração de um sistema capaz de: 
 
-  1) Validar os nomes das espécies de macrófitas em banco de dados disponíveis online (Specieslink e GBIF), trazendo também informações relacionadas à Taxonomia; Ecologia; Biologia.
-  2) Congregar informações de registros de ocorrências dessas espécies de macrófitas no continente da seguinte forma: Correção de erros através da comparação entre os dados de diferentes bases; Indicação de padrões e tendências considerando as bacias hidrográficas Sul-Americanas. 
+  1) Validar os nomes das espécies de macrófitas em banco de dados disponíveis online, trazendo também informações relacionadas à Taxonomia, Ecologia e Biologia. Com relação às bases de dados disponíveis online: SpeciesLink, GBIF, The Plant List, , 
+  2) Congregar informações de registros de ocorrências dessas espécies de macrófitas no continente da seguinte forma. Correção de erros através da comparação entre os dados de diferentes bases; indicação de padrões e tendências considerando as bacias hidrográficas Sul-Americanas.
 </p>
 
 # 5. Produto do Projeto
 A. **Escopo**
   - Validar o nome da espécies, fornecendo o nome atualmente aceito e autor.
   - Extração de dados categóricos da espécie apartir do nome da espécie 
-  - Listar os dados de ocorrência de cada espécie apartir das plataformas Specieslink e GBIF. 
+  - Listar os dados de ocorrência de cada espécie a partir das plataformas SpeciesLink e GBIF. 
   - Executar processo triagem dos dados e correção de inconsistências.
-  - Visualização de dados
+  - Visualização dos dados correlacionados.
+
 B. **Não Escopo**
 - Não serão coletados dados que não estejam nas bases especificadas.
 
 C. **Requisitos de alto nível**
 
 Os requisitos de maior prioridade ao cliente são:
-- Sistema funcionando corretamente.
+- Sistema funcionando corretamente: extração, correção e correlação das informações obtidas, de forma consistente e correta.
+
+C. **Requisitos do Sistema**
+  - [RF1] O sistema deve aceitar e processar os dados de espécies num formato específico.
+  - [RF2] O sistema deve extrair dados de espécies de bases de dados online.
+	  - Flora do Brasil
+    - The Plant List
+  - [RF3] O sistema deve extrair dados de ocorrência na América do Sul de espécies de bases de dados online.
+	  - SpeciesLink.
+	  - GBIF.
+  - [RF4] O sistema deve corrigir os dados de espécies de entrada com base nos dados coletados online [RF2]: nomes duplicados, errados.
+  - [RF5] O sistema deve corrigir os dados coletados online [RF3]: nomes errados, duplicados.
+  - [RF6] O sistema deve relacionar os dados de ocorrências das espécies no Brasil com base nos dados obtidos de [RF2], [RF4].
+  - [RF7] O sistema deve gerar uma tabela com as seguintes informações: data, autor, nome de espécie válida, coordenadas, país.
 
 # 6. Restrições
 
 As restrições do projeto são:
 - O projeto deverá ser concluído até o final da disciplina 29/11/2018.
-
 
 # 7. Riscos Iniciais
 
@@ -81,17 +94,19 @@ As restrições do projeto são:
 
 **Riscos** | **Plano de Ação** 
 -----------|------------|
-O fato de a tecnologia ser nova para a maioria dos membros | Realizar treinamentos com a equipe de desenvolvimento sobre as tecnologias a serem utilizadas e buscar pessoas capacitadas que possam ajudar a sanar dúvidas
+Complicações na extração dos dados | Estudar tecnologias necessárias para extração dos dados
+Correção dos dados | Estudar técnicas para correção dos dados
+Cronograma do projeto | Modificar a documentação para refletir as mudanças necessárias
 
 # 8. Cronograma e Marcos
 
-<p align = "justify"> O cronograma do projeto se dá início ao semestre letivo da disciplina Engenharia de software 2, de maneira que teve seu marco inicial no dia 15/08/2018 e a data de finalização dia 29/11/2018. Entre essas datas acontecerão três entregas parciais, onde devem ser apresentados os casos de uso priorizados, além de 30% de cobertura de testes sobre o sistema e a entrega final, com uma cobertura de testes maior ou igual a 90%, como segue o quadro: </p>
+<p align = "justify"> O cronograma do projeto se dá início ao semestre letivo da disciplina Engenharia de software 2, de maneira que teve seu marco inicial no dia 15/08/2018 e a data de finalização dia 29/11/2018. Entre essas datas acontecerão três entregas parciais: </p>
 
  **Pontos de Controles**     | **Data**          |  **Resumo** 
 -----------------------------|-------------------|-----------
-Release 01                   | 21/09/2018 | Entrega NV1
-Release 02                   | 28/09/2018 | Entrega NV2
-Release 03                   | 19/10/2018 | Entrega NV3
+Release 01                   | 21/09/2018 | Gerenciamento do projeto e estudo das tecnologias
+Release 02                   | 05/10/2018 | Extração dos dados
+Release 03                   | 19/11/2018 | Visualização e correlação dos dados
 
 # 9. Custo estimado do projeto
 ## 9.1. Recursos Humanos
@@ -100,17 +115,17 @@ Release 03                   | 19/10/2018 | Entrega NV3
 
 <p align = "justify"> A equipe conta com 3 membros. O valor custo médio de um membro da equipe, o qual será medido em hora, supondo que cada participante reserve em média 5h por semana, extra aula para realizar as atividades do projeto, teremos o custo:</p>
 
-
 |            | **Quantidade de Pessoas** | **Horas Por Semana** | **Semanas** | Preço Por Pessoa | Custo Final     |
 |---|:---:|:---:|:---:|:---:|-----------------|
-Membro |   3    |          5h          |      14      |      -    |   219h  |
+Membro |   3    |          5h          |      15      |      -    |   225h  |
+
 ## 9.2. Equipamentos e Serviços
 
 <p align = "justify"> O custo existente no projeto relativo aos equipamentos e serviços refere-se a todo e qualquer equipamento ou serviço utilizado para o desenvolvimento do mesmo. </p>
 
-<p align = "justify"> Fora estimado que cada membro irá utilizar um Notebook com todas as ferramentas necessárias para o desenvolvimento do projeto. Fora estimado também que haveria um plano de Banda Larga por integrante durante 14 semanas (4 meses).</p>
+<p align = "justify"> Fora estimado que cada membro irá utilizar um Notebook com todas as ferramentas necessárias para o desenvolvimento do projeto.</p>
 
-<p align = "justify"> Há também o custo mensal de energia elétrica gasta. Para o seu cálculo foi considerado que o preço do kWh seria de aproximadamente R$ 0,589. Como cada Notebook tem potência em torno de 80W e cada integrante irá trabalhar por 5 horas semanais, o gasto individual com energia elétrica mensal fica da seguinte forma:</p>
+<!--<p align = "justify"> Há também o custo mensal de energia elétrica gasta. Para o seu cálculo foi considerado que o preço do kWh seria de aproximadamente R$ 0,589. Como cada Notebook tem potência em torno de 80W e cada integrante irá trabalhar por 5 horas semanais, o gasto individual com energia elétrica mensal fica da seguinte forma:</p>
 
 (1 Notebook * 80W *  5 horas/semana * 14 semanas) / 1000 = 0,056 kWh/mês
  
@@ -124,15 +139,15 @@ Notebook Dell | -  |          3 |    - |
 Banda Larga        | -     | 3 por 4 meses | -  |      
 Energia Elétrica        | R$ 2,45024   | 3 por 4 meses | R$ 39,58    | 
 Custo Estimado          |              |                | R$ 39,58 |
-
-## 9.3. Custo Total
+-->
+<!--## 9.3. Custo Total
 
 <p align = "justify"> O custo total é representado pela soma dos custos de Recursos Humanos e o custo total dos equipamentos e serviços: </p>
 
  **Custo de Recursos Humanos**| **Custo de Equipamentos e Serviços** | **Custo Total Estimado** |  
 ------------------------------|--------------------------------------|--------------------------|
 219h                  |              R$ 39,58            |       219h e R$ 39,58       |
-
+-->
 # 10. Stakeholders (Partes interessadas)
 
 ## 10.1. Clientes
