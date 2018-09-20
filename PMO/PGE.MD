@@ -38,10 +38,12 @@ A alteração dos requisitos será decidida através de reuniões com os membros
 
 # 3.2 Ferramentas Utilizadas
 As atividades serão controladas através do [ZenHub](https://www.zenhub.com/) uma ferramenta para atualização e rastreamento de tarefas, além disso também será utilizada a ferramenta [TeamGantt](https://www.teamgantt.com/) como outra forma de gerenciamento das atividades.
+
 # 3.3 Forma de Utilização do GitHub
+As entregas serão divididas em quatro releases distintas. Cada uma das releases estarão separadas em branches distinstas. 
 
 # 4. EAP
-A EAP é um dos documentos de saída deste macroprocesso.
+colocar imagenzinea akii
 
 # 5. Definição do Escopo
 Reunião dos integrantes da equipe para discussão do escopo. 
