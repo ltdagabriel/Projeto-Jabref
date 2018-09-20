@@ -5,6 +5,7 @@
 | 04/09/2018 | 1.0 | Inicio do Documento | Eduardo / Caio / Gabriel|
 | 11/09/2018 | 1.0.1 | Adição de novas informações e correções. | Caio Nakai / Eduardo Nakai|
 | 13/09/2018 | 1.0.2 | Revisão | Caio Nakai / Gabriel Choptian|
+| 20/09/2018 | 1.0.3 | Acréscimo de Informações | Caio Nakai
 ## Sumário
 
 1. [Objetivo deste documento](#1-Objetivo-deste-documento)
@@ -33,9 +34,10 @@ A coleta de requisitos será feita através de uma entrevista com o cliente a re
 em uma lista com os requisitos coletados.
 
 # 3.1 Processo de Alteração dos Requisitos
+A alteração dos requisitos será decidida através de reuniões com os membros da equipe e resultarão na modificação do plano de gerenciamento de escopo.
 
 # 3.2 Ferramentas Utilizadas
-Ex: zenhub
+As atividades serão controladas através do [ZenHub](https://www.zenhub.com/) uma ferramenta para atualização e rastreamento de tarefas, além disso também será utilizada a ferramenta [TeamGantt](https://www.teamgantt.com/) como outra forma de gerenciamento das atividades.
 # 3.3 Forma de Utilização do GitHub
 
 # 4. EAP
