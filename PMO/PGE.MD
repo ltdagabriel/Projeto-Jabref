@@ -6,18 +6,19 @@
 | 11/09/2018 | 1.0.1 | Adição de novas informações e correções. | Caio Nakai / Eduardo Nakai|
 | 13/09/2018 | 1.0.2 | Revisão | Caio Nakai / Gabriel Choptian|
 | 20/09/2018 | 1.0.3 | Acréscimo de Informações | Caio Nakai
+| 21/09/2018 | 1.0.4 | Atualização do Sumário | Gabriel
 ## Sumário
 
 1. [Objetivo deste documento](#1-Objetivo-deste-documento)
-2. [Processo de Gerenciamento de Escopo](#2-processo-de-gerenciamento-do-escopo)    
-  2.1. [Planejar o Gerenciamento do Projeto](#21-planejar-o-gerenciamento-do-projeto)    
-  2.2. [Coletar os Requisitos](#22-coletar-os-requisitos)      
-&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 [Matriz de Rastreabilidade dos Requisitos](#221-matriz-de-rastreabilidade-dos-requisitos)    
-  2.3 [Definir Escopo](#23-definir-escopo)    
-  2.4 [Validar Escopo](#25-validar-escopo)    
-  2.5 [Criar EAP](#24-criar-a-eap)    
-  2.6 [Controlar Escopo](#26-controlar-escopo)   
-3. [Referências Bibliográficas](#3-refer%C3%AAncias-bibliogr%C3%A1ficas)  
+2. [Planejamento e Gerenciamento do Escopo](#2-planejamento-e-gerenciamento-do-escopo)    
+3. [Requisitos do Sistema](#3-requisitos-do-sistema)    
+  3.1. [Ferramentas Utilizadas](#31-processo-de-alteração-dos-requisitos)      
+  3.2. [Matriz de Rastreabilidade dos Requisitos](#33-forma-de-utilização-do-github)    
+4. [EAP](#4-eap)    
+5. [Definição do escopo](#5-definição-do-escopo)    
+  5.1 [Validação do escopo](#51-validação-escopo)    
+  2.6 [Controle do escopo](#52-controle-do-escopo)   
+6. [Referências Bibliográficas](#3-referências-bibliográficas)  
 
 
 # 1. Objetivo deste documento
@@ -54,5 +55,5 @@ As três entregas definidas serão validadas pelos stakeholders do projeto.
 ## 5.2 Controle do Escopo
 A equipe de gerência como a responsável por monitorar o progresso do escopo do projeto e do escopo do produto, além do gerenciamento das mudanças feitas na linha da base do escopo.
 
-# 3. Referências Bibliográficas
+# 6. Referências Bibliográficas
 * PMI. *Um guia do conhecimento em gerenciamento de projetos.* Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013
