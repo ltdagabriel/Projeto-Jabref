@@ -6,6 +6,7 @@
 23/08/2018| 1.0.1| Revisão gramatical da versão 1.0 | Gabriel Choptian / Caio C.H. Nakai
 05/09/2018| 1.0.2| Atualização dos tópicos 2, 3, 4 e 5 | Gabriel Choptian / Eduardo Yuzo Nakai
 11/09/2018| 1.0.3| Correção e adição de novas informações | Caio Nakai / Eduardo Nakai
+20/09/2018| 1.0.4| Revisão final | Caio Nakai / Eduardo Nakai / Gabriel Choptian
 
 ## Sumário
  
@@ -19,10 +20,9 @@
 8. [Cronograma e Marcos](#8-cronograma-e-marcos)
 9. [Custo Estimado do Projeto](#9-custo-estimado-do-projeto)    
   9.1. [Recursos Humanos](#91-recursos-humanos)    
-  9.2. [Equipamentos e Serviços](#92-equipamentos-e-serviços)    
-  9.3. [Custo Total](#93-custo-total)    
+  9.2. [Equipamentos e Serviços](#92-equipamentos-e-serviços)       
 10. [Stakeholders (Partes interessadas)](#10-stakeholders-partes-interessadas)    
-  10.1. [Cliente](#101-cliente)    
+  10.1. [Clientes](#101-cliente)    
   10.2. [Equipe de Gerência](#102-equipe-de-gerencia)    
   10.3. [Equipe de Desenvolvimento](#103-equipe-de-desenvolvimento)    
 11. [Referência Bibliográfica](#11-refer%C3%AAncia-bibliogr%C3%A1fica)
@@ -45,7 +45,7 @@
 
 <p align = "justify">  O projeto entra no contexto da elaboração de um sistema para aplicação de pesquisas em ecologia de ambientes aquáticos com a finalidade de investigar padrões biogeográficos de macrófitas aquáticas na América do Sul.</p>
 
-# 4. Objetivo do Projeto
+# 4. Objetivo do Projeto (SMART)
 
 <p align = "justify">
   O objetivo deste projeto envolve a elaboração de um sistema capaz de: 
