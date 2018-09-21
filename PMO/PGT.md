@@ -5,14 +5,14 @@
 | 20/09/2018 | 1.0 | Desenvolvimento do Plano de Tempo | Eduardo / Caio / Gabriel|
 ## Sumário
 
-1. [Objetivo deste documento](#1-Objetivo-deste-documento)
+1. [Objetivo deste documento](#1-Objetivo-deste-d#22-associação-aos-membrosocumento)
 2. [Atividades do Projeto](#2-Atividades-do-Projeto)    
-  2.1. [Estimativa de Tempo (PERT)](#21-Estimativa-de-Tempo-(PERT))    
-  2.2. [Associação aos Membros](#22-Associação-aos-Membros)    
-3. [Ferramentas Utilizadas](#3-Ferramentas-Utilizadas)    
-  3.1. [Diagrama de Gantt](#31-Diagrama-de-Gantt)    
-  3.2. [Sequenciamento de Atividades](#32-Sequenciamento-de-Atividades)    
-  3.3. [Issues](#33-Issues)    
+  2.1. [Estimativa de Tempo (PERT)](#21-estimativa-de-tempo-pert)    
+  2.2. [Associação aos Membros](#22-associação-aos-membros)    
+3. [Ferramentas Utilizadas](#3-ferramentas-utilizadas)    
+  3.1. [Diagrama de Gantt](#31-diagrama-de-gantt)    
+  3.2. [Sequenciamento de Atividades](#32-sequenciamento-de-atividades)    
+  3.3. [Issues](#33-issues)    
 
 # 1. Objetivo deste documento
 O objetivo deste documento baseia-se na definição e alocação do tempo e recursos (desenvolvedores) às atividades, assim como a descrição dos softwares e ferramentas utilizadas para ajudar na construção do cronograma.
