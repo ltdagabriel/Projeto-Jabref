@@ -45,7 +45,7 @@ A EAP é um dos documentos de saída deste macroprocesso.
 Reunião dos integrantes da equipe para discussão do escopo. 
 
 ## 5.1 Validação Escopo
-Todas as entregas definidas serão validadas por Tania.
+As três entregas definidas serão validadas pelos stakeholders do projeto.
 
 ## 5.2 Controle do Escopo
 A equipe de gerência como a responsável por monitorar o progresso do escopo do projeto e do escopo do produto, além do gerenciamento das mudanças feitas na linha da base do escopo.
