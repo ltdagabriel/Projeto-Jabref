@@ -43,7 +43,7 @@ As atividades serão controladas através do [ZenHub](https://www.zenhub.com/) u
 As entregas serão divididas em quatro releases distintas. Cada uma das releases estarão separadas em branches distinstas. 
 
 # 4. EAP
-colocar imagenzinea akii
+![EAP](updated_EAP.png)
 
 # 5. Definição do Escopo
 Reunião dos integrantes da equipe para discussão do escopo. 
