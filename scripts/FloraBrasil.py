@@ -1,5 +1,7 @@
 import csv
 import json
+from pathlib import Path
+
 import requests
 
 
@@ -8,8 +10,17 @@ class FloraBrasil:
         self.accepted_name = None
         self.scientific_name = None
         self.result = None
-        self.f = open('FloraBrasil_log.csv', 'a+')
+        self.path = Path('.')
+        exists = False
+        if len(list(self.path.glob('FloraBrasil_log.csv'))) > 0:
+            exists = True
+            with open('FloraBrasil_log.csv', 'r', encoding='utf-8') as f:
+                self.last = list(csv.reader(f))[-1]
+        self.f = open('FloraBrasil_log.csv', 'a+', encoding='utf-8')
+
         self.log = csv.writer(self.f, lineterminator="\n")
+        if not exists:
+            self.log.writerow(["linha", "entrada", "Corridido", "Sucesso"])
 
     def close(self):
         self.f.close()
@@ -32,9 +43,10 @@ class FloraBrasil:
 
         return None
 
-    def run(self, query):
+    def run(self, query, index=None):
         name = self.search(query)
-        self.log.writerow([query, name is not None])
+        self.log.writerow([index, query, name, name is not None])
+        self.f.flush()
         return name
 
     def get_corrected_specie_name(self, specie_json):  # called when result is not empty

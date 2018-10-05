@@ -26,18 +26,18 @@ class Main:
             # close Windows
             janela.close()
 
-            self.path = Path('.')
+            self.path = Path('output')
             file = self.path / 'MAIN_log.csv'
             exists = False
             if file.exists():
                 exists = True
-                with open('MAIN_log.csv', 'r') as f:
+                with open('MAIN_log.csv', 'r', encoding='utf-8') as f:
                     self.last = list(csv.reader(f))[-1]
-            self.f = open('MAIN_log.csv', 'a+')
+            self.f = open('MAIN_log.csv', 'a+', encoding='utf-8')
 
             self.log = csv.writer(self.f, lineterminator="\n")
             if not exists:
-                self.log.writerow(["linha","entrada", "Corridido", "baixado", 'comentario'])
+                self.log.writerow(["linha", "entrada", "Corridido", "baixado", 'comentario'])
         except OSError as e:
             print(e)
 
@@ -57,33 +57,39 @@ class Main:
             try:
                 if self.find_file(sp):
                     print("Skip", sp)
+                    self.log.writerow([i, sp, sp, True, 'Arquivo ja em output'])
+                    self.f.flush()
                     continue
-                name = self.florabrasil.run(sp)
+                name = self.florabrasil.run(sp,i)
 
                 if not name:
                     print("FloraBrasil error:", sp)
-                    self.log.writerow([i,sp, name, False, 'Falha'])
-                    self.gbif.run(sp)
+                    self.log.writerow([i, sp, name, False, 'FloraBrasil'])
+                    (a,status) = self.gbif.run(sp,i)
+                    if status: print("BBIF:", sp, "->",a)
+                    self.log.writerow([i, sp, a, status, 'GBIF'])
+                    self.f.flush()
                     continue
 
                 if self.find_file(name):
                     print("Skip", sp)
-                    self.log.writerow([i,sp, name, True, 'Ja adicionado por outro elemento'])
+                    self.log.writerow([i, sp, name, True, 'Ja adicionado por outro elemento'])
                     continue
 
-                self.log.writerow([i,sp, name, True])
-                self.gbif.run(name)
+                (a, status) = self.gbif.run(name,i)
+                self.log.writerow([i, sp, a, status, 'GBIF'])
+                self.f.flush()
             except ConnectionError as e:
+                time.sleep(2)
                 print(e)
             except OSError as e:
                 print(e)
             except MaxRetryError as e:
+                time.sleep(2)
                 print(e)
-
-            time.sleep(.3)
 
 
 if __name__ == "__main__":
     main = Main()
-    # main.run()
-    # main.close()
+    main.run()
+    main.close()

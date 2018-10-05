@@ -1,10 +1,12 @@
 import csv
 from json import JSONDecodeError
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
 import json
 import pandas as pd
+
 
 class GBIF:
 
@@ -14,9 +16,20 @@ class GBIF:
         self.result = None
         self.soup_occ = None
         self.file = ""
-        self.f = open('GBIF_log.csv', 'a+')
+        self.path = Path('.')
+        exists = False
+        if len(list(self.path.glob('GBIF_log.csv'))) > 0:
+            exists = True
+            with open('GBIF_log.csv', 'r', encoding='utf-8') as f:
+                self.last = list(csv.reader(f))[-1]
+        self.f = open('GBIF_log.csv', 'a+', encoding='utf-8')
+
         self.log = csv.writer(self.f, lineterminator="\n")
+        if not exists:
+            self.log.writerow(["linha", "entrada","Corridido", "Encontrado"])
+
         self.plant = None
+        self.index = None
 
     def close(self):
         self.f.close()
@@ -63,6 +76,7 @@ class GBIF:
         count = 1
         self.result_occ = []
         accept = False
+        name = None
         for x in self.result:
             if 'status' not in x or x['status'] != 'ACCEPTED':
                 continue
@@ -72,6 +86,7 @@ class GBIF:
                 continue
 
             accept = True
+            name = x["scientificName"]
             while count > offset:
                 params = [
                     ("country", "BR"), ("taxon_key", x["usageKey"],), ("offset", offset), ("limit", 200)
@@ -83,9 +98,7 @@ class GBIF:
                 a = json.loads(self.soup_occ.text)
                 count = a["count"]
                 self.result_occ = self.result_occ + a["results"]
-        if not accept:
-            self.log.writerow([self.plant, False])
-        return self.result_occ
+        return (name, accept)
 
     def print_occ(self, index=None):
         value = self.result_occ
@@ -98,7 +111,7 @@ class GBIF:
     def save_json(self):
         try:
             if not len(self.result_occ): return
-            with open(self.file + '.json', 'w') as f:
+            with open("output/"+self.file + '.json', 'w') as f:
                 json.dump(self.result_occ, f, indent=2, separators=(',', ': '))
         except JSONDecodeError as e:
             print(e)
@@ -123,7 +136,7 @@ class GBIF:
             'genus': x['genus'],
             'species': x['species']
         }
-        with open(self.file + '.csv', 'w', encoding='utf-8') as f:
+        with open("output/"+self.file + '.csv', 'w', encoding='utf-8') as f:
             output = csv.DictWriter(f, fieldnames=y.keys(), lineterminator="\n")
             output.writeheader()
 
@@ -154,14 +167,14 @@ class GBIF:
                 except UnboundLocalError as e:
                     print(e)
 
-    def run(self, query):
+    def run(self, query,index):
         self.search(query)
-        occ = self.occurrence()
-        self.log.writerow([query, len(occ) is not None])
-        if len(occ) is not None:
+        name,accept = self.occurrence()
+        self.log.writerow([index, query,name, accept])
+        self.f.flush()
+        if accept:
             self.save_json()
             self.save_csv()
-
         # Clear Memória
         del self.result
         del self.result_occ
@@ -173,3 +186,5 @@ class GBIF:
         self.result_occ = None
         self.soup = None
         self.soup_occ = None
+
+        return name, accept
