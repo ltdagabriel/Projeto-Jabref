@@ -26,10 +26,18 @@ class Main:
             # close Windows
             janela.close()
 
-            self.f = open('MAIN_log.csv', 'a+')
-            self.log = csv.writer(self.f, lineterminator="\n")
-            self.log.writerow(["entrada", "Corridido", "baixado", 'comentario'])
             self.path = Path('.')
+            file = self.path / 'MAIN_log.csv'
+            exists = False
+            if file.exists():
+                exists = True
+                with open('MAIN_log.csv', 'r') as f:
+                    self.last = list(csv.reader(f))[-1]
+            self.f = open('MAIN_log.csv', 'a+')
+
+            self.log = csv.writer(self.f, lineterminator="\n")
+            if not exists:
+                self.log.writerow(["linha","entrada", "Corridido", "baixado", 'comentario'])
         except OSError as e:
             print(e)
 
@@ -44,7 +52,8 @@ class Main:
         self.florabrasil.close()
 
     def run(self):
-        for sp in self.species:
+        for i in range(len(self.species)):
+            sp = self.species[i]
             try:
                 if self.find_file(sp):
                     print("Skip", sp)
@@ -53,16 +62,16 @@ class Main:
 
                 if not name:
                     print("FloraBrasil error:", sp)
-                    self.log.writerow([sp, name, False, 'Falha'])
+                    self.log.writerow([i,sp, name, False, 'Falha'])
                     self.gbif.run(sp)
                     continue
 
                 if self.find_file(name):
                     print("Skip", sp)
-                    self.log.writerow([sp, name, True, 'Ja adicionado por outro elemento'])
+                    self.log.writerow([i,sp, name, True, 'Ja adicionado por outro elemento'])
                     continue
 
-                self.log.writerow([sp, name, True])
+                self.log.writerow([i,sp, name, True])
                 self.gbif.run(name)
             except ConnectionError as e:
                 print(e)
@@ -76,5 +85,5 @@ class Main:
 
 if __name__ == "__main__":
     main = Main()
-    main.run()
-    main.close()
+    # main.run()
+    # main.close()

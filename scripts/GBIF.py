@@ -4,7 +4,7 @@ from json import JSONDecodeError
 import requests
 from bs4 import BeautifulSoup
 import json
-
+import pandas as pd
 
 class GBIF:
 
@@ -123,7 +123,7 @@ class GBIF:
             'genus': x['genus'],
             'species': x['species']
         }
-        with open(self.file + '.csv', 'w') as f:
+        with open(self.file + '.csv', 'w', encoding='utf-8') as f:
             output = csv.DictWriter(f, fieldnames=y.keys(), lineterminator="\n")
             output.writeheader()
 
@@ -145,7 +145,14 @@ class GBIF:
                     'genus': x['genus'],
                     'species': x['species'],
                 }
-                output.writerow(y)
+                try:
+                    output.writerow(y)
+                except UnicodeEncodeError as e:
+                    print(e)
+                except UnicodeDecodeError as e:
+                    print(e)
+                except UnboundLocalError as e:
+                    print(e)
 
     def run(self, query):
         self.search(query)
