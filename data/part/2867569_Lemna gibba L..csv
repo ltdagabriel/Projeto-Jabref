@@ -1,0 +1,6 @@
+key,country,decimalLatitude,decimalLongitude,month,year,basisOfRecord,datasetName,kingdom,phylum,class,order,family,genus,species
+1095506501,Brazil,0,0,7,1992,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Lemna,Lemna gibba
+1090917965,Brazil,,,8,1961,PRESERVED_SPECIMEN,HST - Herbário Sérgio Tavares,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Lemna,Lemna gibba
+1420314014,Brazil,0,0,8,1961,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Lemna,Lemna gibba
+1259775473,Brazil,,,,1896,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Lemna,Lemna gibba
+416966039,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Lemna,Lemna gibba

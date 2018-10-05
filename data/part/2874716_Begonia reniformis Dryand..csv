@@ -1,0 +1,627 @@
+key,country,decimalLatitude,decimalLongitude,month,year,basisOfRecord,datasetName,kingdom,phylum,class,order,family,genus,species
+1901020802,Brazil,-20.139444,-40.513333,7,2018,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585334049,Brazil,,,4,2017,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585208910,Brazil,-24.442083,-51.844694,7,2017,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1844431999,Brazil,,,10,2017,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1806554176,Brazil,-13.657222,-39.811944,10,2017,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1801178834,Brazil,,,10,2017,PRESERVED_SPECIMEN,HURB - Herbário do Recôncavo da Bahia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1806874725,Brazil,,,10,2017,PRESERVED_SPECIMEN,HURB - Herbário do Recôncavo da Bahia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1837840557,Brazil,,,3,2016,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1576154654,Brazil,-20.643889,-41.386389,5,2016,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1440663756,Brazil,-20.643889,-41.386389,5,2016,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1313793964,Brazil,-20.1775,-40.919722,7,2016,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1423925558,Brazil,,,8,2016,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1420315570,Brazil,-20.709997,-42.408614,9,2016,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1503029822,Brazil,-11.5,-39.2,10,2016,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1324591673,Brazil,,,10,2016,PRESERVED_SPECIMEN,HURB - Herbário do Recôncavo da Bahia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1449783403,Brazil,,,11,2016,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095811316,Brazil,-10.4215,-37.467,2,2015,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1275068001,Brazil,-4.208056,-38.974167,5,2015,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1837840375,Brazil,,,6,2015,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1837840534,Brazil,,,9,2015,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1837840580,Brazil,,,9,2015,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1837840501,Brazil,,,9,2015,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1837840607,Brazil,,,9,2015,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1213530455,Brazil,0,0,11,2015,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090916794,Brazil,-8.44275,-36.96475,2,2014,PRESERVED_SPECIMEN,HVASF - Herbário Vale do São Francisco,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1142077724,Brazil,-19.651389,-40.835556,6,2014,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1135818969,Brazil,-3.888056,-38.716111,9,2014,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087696057,Brazil,-10.435868,-37.095629,10,2014,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087696029,Brazil,-10.68851,-37.1353,10,2014,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094931030,Brazil,-11.625556,-40.998889,10,2014,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089260846,Brazil,-3.766667,-38.766667,11,2014,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123829304,Brazil,,,1,2013,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1099617976,Brazil,-11.625556,-40.998056,1,2013,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123829316,Brazil,,,2,2013,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090867342,Brazil,,,3,2013,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1252599080,Brazil,-35.688889,-38.718889,4,2013,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1144974839,Brazil,-3.903333,-38.718889,4,2013,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1099618028,Brazil,-13.164722,-39.658611,5,2013,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123828932,Brazil,,,5,2013,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1099617984,Brazil,-16.989722,-39.577778,5,2013,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1099618032,Brazil,-13.686944,-39.479444,5,2013,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090885337,Brazil,,,6,2013,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424484575,Brazil,-14.358611,-40.261111,8,2013,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123829334,Brazil,-22.146389,-42.049722,8,2013,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424463386,Brazil,-20.938611,-41.544444,8,2013,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424484574,Brazil,-14.358611,-40.261111,8,2013,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090886955,Brazil,,,8,2013,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1848886828,Brazil,-20.938611,-41.544444,8,2013,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1829083917,Brazil,-8.205833,-34.985556,10,2013,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1587331523,Brazil,-8.205833,-34.985556,10,2013,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1135431434,Brazil,-19.716944,-40.568333,10,2013,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424484543,Brazil,-21.164722,-43.599722,12,2013,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077478560,Brazil,-24.405806,-52.038222,12,2013,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123829749,Brazil,-8.581778,-37.240417,1,2012,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090862779,Brazil,,,1,2012,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090908860,Brazil,-8.581778,-37.240417,1,2012,PRESERVED_SPECIMEN,HVASF - Herbário Vale do São Francisco,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1213645711,Brazil,-15.509722,-47.960556,3,2012,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1323873369,Brazil,-22.10775,-47.768278,5,2012,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123828238,Brazil,-20.295917,-40.454806,6,2012,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1569229998,Brazil,-18.373306,-40.876639,7,2012,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077240396,Brazil,-4.213611,-38.979167,8,2012,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123827658,Brazil,,,9,2012,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1417452360,Brazil,-19.826944,-40.739722,9,2012,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094904900,Brazil,-11.5,-39.2,9,2012,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123831124,Brazil,,,9,2012,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1096933245,Brazil,,,9,2012,PRESERVED_SPECIMEN,CVRD - Herbário da Reserva Natural Vale,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1417452369,Brazil,-19.849444,-40.776667,9,2012,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1423905878,Brazil,,,10,2012,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090883918,Brazil,,,10,2012,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123830693,Brazil,,,10,2012,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123825119,Brazil,-20.681944,-41.355,1,2011,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123831110,Brazil,-13.736944,-39.166667,2,2011,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123823839,Brazil,-20.1675,-40.308333,3,2011,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090863900,Brazil,,,4,2011,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123825112,Brazil,-20.455222,-40.991797,4,2011,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123830696,Brazil,-20.613056,-41.791944,6,2011,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123827322,Brazil,,,7,2011,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090875338,Brazil,,,7,2011,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090874104,Brazil,,,7,2011,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123824719,Brazil,,,8,2011,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123826066,Brazil,,,9,2011,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424421812,Brazil,-22.975278,-43.044444,10,2011,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090907836,Brazil,-9.88,-39.920558,10,2011,PRESERVED_SPECIMEN,HVASF - Herbário Vale do São Francisco,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090907666,Brazil,-9.931167,-39.971639,10,2011,PRESERVED_SPECIMEN,HVASF - Herbário Vale do São Francisco,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090907776,Brazil,-10.359278,-40.199917,10,2011,PRESERVED_SPECIMEN,HVASF - Herbário Vale do São Francisco,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123825751,Brazil,,,10,2011,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1096932916,Brazil,-20.297056,-40.336944,11,2011,PRESERVED_SPECIMEN,CVRD - Herbário da Reserva Natural Vale,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424423868,Brazil,-23.05,-43.209167,11,2011,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089180012,Brazil,-9.255139,-36.460444,2,2010,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123822498,Brazil,-16.278611,-40.127778,3,2010,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1213599983,Brazil,0,0,5,2010,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1135819639,Brazil,,,6,2010,PRESERVED_SPECIMEN,JOI - Herbário Joinvillea,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1135819633,Brazil,,,6,2010,PRESERVED_SPECIMEN,JOI - Herbário Joinvillea,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090903998,Brazil,-7.868278,-38.053722,7,2010,PRESERVED_SPECIMEN,HVASF - Herbário Vale do São Francisco,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090864598,Brazil,-20.303333,-40.520556,7,2010,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077236308,Brazil,-13.383611,-39.33,7,2010,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123823087,Brazil,,,7,2010,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077236165,Brazil,-13.905278,-39.207778,7,2010,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123823095,Brazil,,,7,2010,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090887166,Brazil,,,7,2010,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090864744,Brazil,-20.302778,-40.506389,8,2010,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123823693,Brazil,-8.651944,-38.023333,8,2010,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087703566,Brazil,-8.235639,-36.191472,8,2010,PRESERVED_SPECIMEN,HURB - Herbário do Recôncavo da Bahia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090904046,Brazil,-8.65175,-38.027567,8,2010,PRESERVED_SPECIMEN,HVASF - Herbário Vale do São Francisco,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1417452379,Brazil,-19.826944,-40.739722,8,2010,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087683528,Brazil,-9.5853,-37.5207,8,2010,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090864734,Brazil,-20.302778,-40.506389,8,2010,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090863868,Brazil,,,8,2010,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123825122,Brazil,-19.983333,-40.816667,8,2010,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089182506,Brazil,-8.658333,-35.9,9,2010,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077551698,Brazil,0,0,9,2010,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1417452341,Brazil,,,9,2010,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123825080,Brazil,,,9,2010,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1417452419,Brazil,-20.001842,-40.613944,9,2010,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087683606,Brazil,-9.5853,-37.5207,9,2010,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087681499,Brazil,-10.868528,-37.983889,9,2010,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087683634,Brazil,-9.5853,-37.5207,10,2010,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123825118,Brazil,-20.186944,-41.027222,11,2010,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090863931,Brazil,,,11,2010,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094907463,Brazil,-16.989722,-39.577778,12,2010,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123823999,Brazil,-16.989722,-39.577778,12,2010,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094175195,Brazil,-14.8,-39.166667,3,2009,PRESERVED_SPECIMEN,UESC - Herbário Universidade Estadual de Santa Cruz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123827467,Brazil,-16.279444,-39.983333,4,2009,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1587308835,Brazil,0,0,4,2009,PRESERVED_SPECIMEN,MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123827459,Brazil,-16.273889,-39.798444,4,2009,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585194154,Brazil,-22.8375,-46.511111,5,2009,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123820555,Brazil,-20.976111,-41.218889,5,2009,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123820541,Brazil,-20.6575,-41.389167,6,2009,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123820572,Brazil,-20.328333,-41.476944,6,2009,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123830843,Brazil,,,7,2009,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1587310752,Brazil,0,0,8,2009,PRESERVED_SPECIMEN,MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090900558,Brazil,-8.649722,-38.015556,9,2009,PRESERVED_SPECIMEN,HVASF - Herbário Vale do São Francisco,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087679615,Brazil,-9.805278,-37.684167,9,2009,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123822717,Brazil,-8.649722,-38.015556,9,2009,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087679452,Brazil,-9.5853,-37.5207,10,2009,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090873062,Brazil,,,11,2009,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123818572,Brazil,-20.681111,-41.398611,1,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1211325151,Brazil,-20.673889,-41.385,2,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090702471,Brazil,,,3,2008,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123817522,Brazil,-18.566111,-40.985,4,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123816892,Brazil,-20.082778,-40.574722,4,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123816205,Brazil,-20.095833,-40.593167,4,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123817853,Brazil,-20.516111,-41.083611,5,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424246297,Brazil,-20.516111,-41.083611,5,2008,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123821868,Brazil,,,6,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123824217,Brazil,,,6,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089254733,Brazil,0,0,6,2008,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123820411,Brazil,-20.274444,-40.478333,7,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095637189,Brazil,-20.3025,-40.481944,7,2008,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424249677,Brazil,-20.516111,-41.083611,7,2008,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424249138,Brazil,-20.516111,-41.111389,7,2008,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123819012,Brazil,-20.516111,-41.111389,7,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424264383,Brazil,-20.274444,-40.478333,7,2008,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123818250,Brazil,-20.3025,-40.481944,7,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123819572,Brazil,-20.516111,-41.083611,7,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424248960,Brazil,-20.3025,-40.481944,7,2008,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077481607,Brazil,-20.3025,-40.481944,8,2008,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123821920,Brazil,,,8,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123820874,Brazil,,,8,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1587306548,Brazil,0,0,8,2008,PRESERVED_SPECIMEN,MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123819197,Brazil,-20.763611,-41.532778,9,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090872459,Brazil,,,9,2008,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123819523,Brazil,-20.763611,-41.532778,9,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094870633,Brazil,-10.648333,-40.376111,10,2008,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424259752,Brazil,-20.278889,-40.478333,10,2008,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123819040,Brazil,-20.278889,-40.478333,10,2008,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077230171,Brazil,-12.966667,-38.5,10,2008,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094865332,Brazil,-12.258889,-30.096111,11,2008,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094861661,Brazil,,,11,2008,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123811605,Brazil,-20.272778,-40.479167,1,2007,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1848241792,Brazil,0,0,3,2007,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087488018,Brazil,,,5,2007,PRESERVED_SPECIMEN,HPBR - Herbário Padre Balduino Rambo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123813232,Brazil,-20.074444,-41.123889,5,2007,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123829649,Brazil,-19.740833,-40.941667,6,2007,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077574974,Brazil,0,0,6,2007,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123822324,Brazil,,,7,2007,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123813906,Brazil,-19.741389,-40.981111,7,2007,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1853956673,Brazil,-8.586944,-36.896111,8,2007,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094841023,Brazil,-13.164722,-39.658611,8,2007,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424312782,Brazil,-8.465833,-36.104444,8,2007,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123814174,Brazil,-20.106111,-40.434861,8,2007,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1853956776,Brazil,-8.383333,-36,8,2007,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1455706657,Brazil,,,9,2007,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123814579,Brazil,-19.988333,-40.632778,9,2007,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094846162,Brazil,-11.625556,-40.998056,10,2007,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094846151,Brazil,-11.625556,-40.998056,10,2007,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123814834,Brazil,-18.975556,-40.769444,10,2007,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123815355,Brazil,-19.6525,-40.696944,11,2007,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094889660,Brazil,-13.116667,-39.651389,11,2007,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1587305624,Brazil,0,0,11,2007,PRESERVED_SPECIMEN,MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123815325,Brazil,-19.806111,-40.772222,11,2007,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123815116,Brazil,-19.354444,-40.516,12,2007,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123809020,Brazil,-19.348333,-40.551111,1,2006,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123810877,Brazil,-19.748333,-40.964167,2,2006,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1853956614,Brazil,0,0,3,2006,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123809199,Brazil,-19.3325,-40.534722,5,2006,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424151275,Brazil,-20.354167,-45.673333,7,2006,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424151291,Brazil,-20.366389,-45.669722,7,2006,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424150495,Brazil,-20.366389,-45.669722,7,2006,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094843609,Brazil,-12.033333,-40.483333,8,2006,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077237262,Brazil,,,8,2006,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087679871,Brazil,-9.5853,-37.5207,8,2006,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087673634,Brazil,-9.981389,-37.87,8,2006,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077570218,Brazil,-8.418611,-37.010278,9,2006,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123811008,Brazil,-20.097222,-40.387778,9,2006,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123815681,Brazil,-19.351944,-40.514167,9,2006,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123815385,Brazil,-18.892222,-40.73,9,2006,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123811711,Brazil,-19.887222,-40.575556,9,2006,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1848252727,Brazil,0,0,9,2006,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077569868,Brazil,-8.5,-37,9,2006,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424293153,Brazil,,,9,2006,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087672931,Brazil,-10.4107,-37.253,9,2006,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123811695,Brazil,-19.702222,-40.614167,10,2006,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123822513,Brazil,,,10,2006,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094831249,Brazil,-12.166389,-39.184722,10,2006,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077225383,Brazil,-11.671667,-41.020833,12,2006,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094809799,Brazil,-12.309167,-40.489444,2,2005,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095241846,Brazil,,,4,2005,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1675143330,Brazil,,,4,2005,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1086955925,Brazil,-12.232778,-39.076389,5,2005,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094813308,Brazil,-12.232778,-39.076389,5,2005,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123807268,Brazil,-19.874167,-40.875278,6,2005,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123807596,Brazil,-20.526389,-41.12,7,2005,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094817027,Brazil,-12.412222,-40.536667,8,2005,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123817237,Brazil,-19.847222,-40.548333,8,2005,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123817213,Brazil,-19.950278,-40.581667,8,2005,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094816980,Brazil,-12.300833,-40.478333,8,2005,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1423902625,Brazil,-12.412222,-40.536667,8,2005,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123807730,Brazil,-19.797222,-40.775,9,2005,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077569178,Brazil,0,0,9,2005,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123826704,Brazil,,,11,2005,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123826697,Brazil,,,11,2005,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123820565,Brazil,,,11,2005,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1503378993,Brazil,,,12,2005,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123804733,Brazil,-20.519167,-41.100556,1,2004,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094795730,Brazil,-16.120556,-40.106389,1,2004,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123805871,Brazil,-19.741389,-40.981111,4,2004,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123805110,Brazil,-20.519167,-41.100556,6,2004,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123805265,Brazil,-20.519167,-41.100556,6,2004,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424241507,Brazil,,,6,2004,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089240364,Brazil,0,0,7,2004,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123805263,Brazil,-20.939444,-41.550556,7,2004,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089240365,Brazil,0,0,7,2004,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089171620,Brazil,0,0,8,2004,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123806384,Brazil,-19.725,-40.608333,8,2004,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094809867,Brazil,-12.231667,-39.076389,9,2004,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094806715,Brazil,-11.092778,-40.67,9,2004,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094827792,Brazil,-10.366667,-40.2,9,2004,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089176317,Brazil,-14.705833,-39.603333,9,2004,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123805627,Brazil,-19.725,-40.608333,10,2004,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123805594,Brazil,-19.725,-40.608333,10,2004,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123805825,Brazil,-19.725,-40.608333,10,2004,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1135877738,Brazil,,,11,2004,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094809078,Brazil,-12.313056,-40.483611,12,2004,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095604318,Brazil,0,0,2,2003,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123803292,Brazil,-20.176944,-40.924167,4,2003,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094792201,Brazil,-11.684444,-40.027222,8,2003,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087630252,Brazil,-16.038333,-40.057528,8,2003,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1853956576,Brazil,0,0,8,2003,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087631038,Brazil,-15.817,-40.115972,10,2003,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424383394,Brazil,,,10,2003,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094775710,Brazil,,,10,2003,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095616700,Brazil,-15.805194,-40.516611,10,2003,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424383417,Brazil,,,10,2003,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089254764,Brazil,-4.206028,-38.971167,11,2003,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424265037,Brazil,,,11,2003,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087376464,Brazil,-15.640278,-48.715556,3,2002,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077565832,Brazil,0,0,5,2002,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1675143334,Brazil,-16.220556,-47.324167,6,2002,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095225235,Brazil,-16.22056,-47.32417,6,2002,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077565281,Brazil,-8.231667,-35.920278,7,2002,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094782129,Brazil,-11.624722,-40.999167,9,2002,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089254766,Brazil,-4.194722,-38.946056,9,2002,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123801110,Brazil,-20.176944,-40.924167,10,2002,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087378568,Brazil,-14.2298,-40.1117,1,2001,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094906575,Brazil,,,1,2001,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094775553,Brazil,-11.4075,-40.554444,4,2001,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077213161,Brazil,-11.4075,-40.554444,4,2001,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123796576,Brazil,-20.100556,-40.529444,6,2001,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123796605,Brazil,-19.981944,-40.645833,7,2001,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123796619,Brazil,-19.938889,-40.609167,7,2001,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123797615,Brazil,-19.910833,-40.806944,8,2001,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123797626,Brazil,-20.074444,-41.123889,8,2001,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123797425,Brazil,-19.938889,-40.609167,8,2001,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123797398,Brazil,-19.941111,-40.587222,8,2001,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424265017,Brazil,,,10,2001,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1449783384,Brazil,,,2,2000,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1135886523,Brazil,,,2,2000,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1880807806,Brazil,,,6,2000,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123795874,Brazil,-15.784444,-40.565278,7,2000,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123796089,Brazil,-19.805556,-40.681389,8,2000,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123796079,Brazil,-19.805556,-40.681389,8,2000,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123796274,Brazil,-19.805556,-40.681389,9,2000,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090932322,Brazil,,,9,2000,PRESERVED_SPECIMEN,HST - Herbário Sérgio Tavares,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094851749,Brazil,-9.217222,-37.268056,9,2000,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252788,Brazil,,,9,2000,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123796300,Brazil,-19.805556,-40.681389,9,2000,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123796281,Brazil,-19.805556,-40.681389,9,2000,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1099322499,Brazil,-9.217222,-37.268056,9,2000,PRESERVED_SPECIMEN,MOSS - Herbário Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123796304,Brazil,-20.519167,-41.100556,10,2000,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1848240997,Brazil,0,0,11,2000,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424264973,Brazil,,,11,2000,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1853956464,Brazil,0,0,1,1999,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123792583,Brazil,-19.861111,-40.615,4,1999,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585193700,Brazil,0,0,4,1999,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424425330,Brazil,,,5,1999,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1313793982,Brazil,,,5,1999,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094756661,Brazil,-11.089167,-40.389722,6,1999,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1853956496,Brazil,-8.31,-36,9,1999,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123793992,Brazil,-19.861111,-40.615,10,1999,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089233260,Brazil,0,0,4,1998,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585193679,Brazil,0,0,5,1998,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095211410,Brazil,,,5,1998,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123791118,Brazil,-19.931111,-40.683611,8,1998,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087243109,Brazil,-13.3983,-46.3183,8,1998,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123795412,Brazil,-20.264167,-40.419722,9,1998,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077565314,Brazil,0,0,9,1998,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087671197,Brazil,-10.4107,-37.253,11,1998,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087671219,Brazil,-10.4107,-37.253,11,1998,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1135923845,Brazil,,,7,1997,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087367451,Brazil,0,0,7,1997,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094748046,Brazil,-12.753889,-39.7825,7,1997,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087375526,Brazil,-12.753889,-39.7825,7,1997,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1135902943,Brazil,,,7,1997,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087367749,Brazil,0,0,8,1997,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1587322015,Brazil,-7.833333,-35.033333,8,1997,PRESERVED_SPECIMEN,HURB - Herbário do Recôncavo da Bahia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1700733362,Brazil,-7.833333,-35.033333,8,1997,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1853956520,Brazil,-7.833333,-35.333333,8,1997,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089231604,Brazil,0,0,8,1997,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089231582,Brazil,0,0,8,1997,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094747805,Brazil,-12.739722,-39.794722,8,1997,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087375530,Brazil,-12.739722,-39.794722,8,1997,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1455706647,Brazil,,,9,1997,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585193549,Brazil,-18.283333,-44.183333,4,1996,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1438492076,Brazil,-11.681667,-41.016389,6,1996,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095541709,Brazil,0,0,7,1996,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1438492069,Brazil,-11.086944,-40.6725,7,1996,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094775711,Brazil,,,7,1996,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094779638,Brazil,-11.086944,-40.6725,7,1996,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087367733,Brazil,0,0,8,1996,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094845435,Brazil,,,8,1996,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090923697,Brazil,,,8,1996,PRESERVED_SPECIMEN,HST - Herbário Sérgio Tavares,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424425719,Brazil,,,8,1996,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1880807758,Brazil,,,8,1996,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424425388,Brazil,,,9,1996,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087367716,Brazil,0,0,10,1996,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094742619,Brazil,-12.716667,-39.7,11,1996,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095569624,Brazil,0,0,12,1996,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094169626,Brazil,-12.733333,-39.783333,12,1996,PRESERVED_SPECIMEN,UESC - Herbário Universidade Estadual de Santa Cruz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094743351,Brazil,-12.733333,-39.783333,12,1996,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123795504,Brazil,-20.403889,-41.019167,5,1995,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090922673,Brazil,,,7,1995,PRESERVED_SPECIMEN,HST - Herbário Sérgio Tavares,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1676470106,Brazil,,,7,1995,PRESERVED_SPECIMEN,PEUFR - Herbário Professor Vasconcelos Sobrinho,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094902203,Brazil,,,7,1995,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094906618,Brazil,,,8,1995,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087348829,Brazil,0,0,8,1995,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077557786,Brazil,0,0,12,1995,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1455706642,Brazil,,,4,1994,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1676470096,Brazil,,,8,1994,PRESERVED_SPECIMEN,PEUFR - Herbário Professor Vasconcelos Sobrinho,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1676470088,Brazil,,,8,1994,PRESERVED_SPECIMEN,PEUFR - Herbário Professor Vasconcelos Sobrinho,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1676470095,Brazil,,,8,1994,PRESERVED_SPECIMEN,PEUFR - Herbário Professor Vasconcelos Sobrinho,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585193308,Brazil,0,0,7,1993,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+438858644,Brazil,-20.75,-41,7,1993,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1135923765,Brazil,,,7,1993,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094729265,Brazil,-13.283333,-41.716667,7,1992,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1318693487,Brazil,-13.2833,-41.7167,7,1992,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090860407,Brazil,,,7,1992,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585193397,Brazil,-13.283333,-41.716667,7,1992,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1675143326,Brazil,,,7,1992,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095207354,Brazil,-14.63333,-48.96667,7,1992,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087371820,Brazil,0,0,7,1992,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089225567,Brazil,0,0,9,1992,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090921686,Brazil,,,10,1992,PRESERVED_SPECIMEN,HST - Herbário Sérgio Tavares,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094767601,Brazil,-13.25,-41.7,12,1992,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585193414,Brazil,-13.25,-41.7,12,1992,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077554451,Brazil,0,0,,1992,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1320585844,Brazil,,,6,1991,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095492934,Brazil,0,0,6,1991,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095534549,Brazil,0,0,8,1991,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094169356,Brazil,,,8,1991,PRESERVED_SPECIMEN,UESC - Herbário Universidade Estadual de Santa Cruz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585193410,Brazil,-13.3,-41.8,12,1991,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087335614,Brazil,0,0,1,1990,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095222857,Brazil,,,7,1990,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1675143320,Brazil,,,7,1990,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077266256,Brazil,0,0,4,1989,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1086926337,Brazil,0,0,5,1989,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089223711,Brazil,0,0,6,1989,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252114,Brazil,,,8,1989,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1322201658,Brazil,,,10,1989,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1880807819,Brazil,-21.083333,-44.166667,10,1989,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1853956502,Brazil,0,0,5,1988,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090856541,Brazil,,,6,1988,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094775692,Brazil,,,7,1988,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095479094,Brazil,0,0,7,1988,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424251975,Brazil,,,8,1988,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1135832329,Brazil,,,10,1988,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089222523,Brazil,0,0,10,1988,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077265898,Brazil,0,0,11,1988,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077265858,Brazil,0,0,11,1988,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077266004,Brazil,0,0,12,1988,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1880807798,Brazil,-21.083333,-44.166667,3,1987,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585193169,Brazil,0,0,6,1987,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1135932766,Brazil,,,6,1987,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424253091,Brazil,,,6,1987,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1086933273,Brazil,0,0,6,1987,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089012874,Brazil,-21.416667,-46.25,9,1987,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077191230,Brazil,-12.533333,-39.083333,7,1986,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094724198,Brazil,-12.366667,-38.683333,10,1986,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1270110305,Brazil,-12.366667,-38.683333,10,1986,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1676470234,Brazil,-12.366667,-38.683333,10,1986,PRESERVED_SPECIMEN,PEUFR - Herbário Professor Vasconcelos Sobrinho,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424241414,Brazil,,,10,1986,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123784576,Brazil,-19.935833,-40.616667,6,1985,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1853956296,Brazil,0,0,7,1985,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123784578,Brazil,-19.915556,-40.65,8,1985,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077551667,Brazil,0,0,8,1985,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094723572,Brazil,-12.2,-39.616667,10,1985,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123784597,Brazil,-19.937778,-40.6275,4,1984,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1123784593,Brazil,-19.922222,-40.589167,5,1984,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090853995,Brazil,,,6,1984,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1270109661,Brazil,-16.383333,-39.133333,10,1984,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090436007,Brazil,-16.383333,-39.133333,10,1984,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095456554,Brazil,0,0,10,1984,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095442553,Brazil,0,0,1,1983,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089001699,Brazil,-21.838889,-46.564722,3,1983,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1086931095,Brazil,0,0,3,1983,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087361822,Brazil,-15.516667,-47.966667,6,1983,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1213610204,Brazil,-15.516667,-47.966667,6,1983,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077540033,Brazil,0,0,11,1983,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087243147,Brazil,-15.516667,-47.95,4,1981,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089217382,Brazil,0,0,6,1981,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077536415,Brazil,0,0,9,1981,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077539186,Brazil,0,0,9,1981,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094902611,Brazil,,,9,1981,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087665798,Brazil,-10.3258,-37.3203,9,1981,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585193090,Brazil,0,0,10,1981,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087243116,Brazil,-15.516667,-47.95,,1981,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077185223,Brazil,-12.533333,-39.083333,7,1980,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090436563,Brazil,-12.533333,-39.083333,7,1980,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585193703,Brazil,-12.533333,-39.05,7,1980,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094718486,Brazil,-12.533333,-39.05,7,1980,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077535524,Brazil,-12.533333,-39.083333,8,1980,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1094718374,Brazil,-12.25,-38.966667,9,1980,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087243107,Brazil,-15.516667,-47.95,10,1980,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077532845,Brazil,-4.316667,-39.016667,8,1979,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077261536,Brazil,0,0,9,1979,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089213995,Brazil,0,0,10,1979,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089214037,Brazil,0,0,10,1979,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089210967,Brazil,0,0,7,1978,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090416637,Brazil,,,11,1978,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1097413913,Brazil,-16.372109,-39.18158,11,1978,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077260546,Brazil,0,0,9,1977,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095418922,Brazil,0,0,9,1977,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1088981583,Brazil,0,0,9,1977,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077260591,Brazil,0,0,9,1977,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077537454,Brazil,0,0,10,1972,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077258211,Brazil,0,0,,1972,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095625526,Brazil,0,0,,1972,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585194136,Brazil,0,0,,1972,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087666300,Brazil,-8.2509,-37.0314,9,1971,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077533789,Brazil,0,0,9,1971,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090409805,Brazil,,,9,1971,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077536914,Brazil,0,0,11,1971,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1853956385,Brazil,0,0,8,1970,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1853956393,Brazil,0,0,8,1970,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077256416,Brazil,0,0,9,1970,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090408452,Brazil,,,9,1970,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077256628,Brazil,0,0,10,1970,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1853956281,Brazil,0,0,9,1969,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1095386385,Brazil,0,0,12,1969,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077181574,Brazil,-12.866667,-39.85,12,1969,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1098128863,Brazil,-15.57,-48.6,1,1968,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087243124,Brazil,0,0,1,1968,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087243125,Brazil,0,0,1,1968,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1257551069,Brazil,,,1,1968,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1097126346,Brazil,-15.57,-48.6,1,1968,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077526577,Brazil,0,0,4,1968,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087243119,Brazil,0,0,5,1967,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252301,Brazil,,,12,1967,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1097805385,Brazil,-15.55738,-47.9167,1,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1098112895,Brazil,-15.5575,-47.916667,3,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087314060,Brazil,0,0,5,1966,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1260535801,Brazil,,,5,1966,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1098360710,Brazil,-15.6555,-47.784722,5,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1228273258,Brazil,-15.75,-47.75,7,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1097095077,Brazil,-15.575,-47.892,7,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1257551091,Brazil,,,7,1966,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087243101,Brazil,0,0,6,1964,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424240499,Brazil,,,4,1963,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087301209,Brazil,0,0,4,1963,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252203,Brazil,,,9,1958,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077518455,Brazil,0,0,6,1957,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087292338,Brazil,0,0,6,1957,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077181554,Brazil,0,0,7,1956,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1098349621,Brazil,0,0,9,1956,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087384469,Brazil,0,0,9,1956,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252599,Brazil,,,9,1956,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077184414,Brazil,-12.833333,-39.083333,6,1954,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077512902,Brazil,0,0,1,1952,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077515721,Brazil,0,0,7,1952,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252531,Brazil,,,10,1951,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252902,Brazil,,,6,1949,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424059005,Brazil,,,8,1948,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252574,Brazil,,,,1947,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424059052,Brazil,,,5,1946,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252539,Brazil,,,5,1946,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252587,Brazil,,,5,1946,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252685,Brazil,,,5,1946,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089207970,Brazil,0,0,6,1946,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424059022,Brazil,,,,1946,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252583,Brazil,,,4,1945,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252613,Brazil,,,4,1945,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252612,Brazil,,,6,1945,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252671,Brazil,,,9,1945,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090538251,Brazil,-22.9056,-47.0608,10,1945,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1086871226,Brazil,,,9,1944,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424059016,Brazil,,,9,1944,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087290367,Brazil,0,0,8,1943,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087285757,Brazil,0,0,10,1943,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1585193336,Brazil,0,0,12,1943,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424059011,Brazil,,,,1943,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089144633,Brazil,-7.115,-34.863056,11,1942,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089144085,Brazil,0,0,11,1941,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1089144141,Brazil,-6.820278,-35.632778,12,1941,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1802879514,Brazil,,,7,1936,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077514742,Brazil,0,0,8,1932,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1839837807,Brazil,,,,1932,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087281596,Brazil,0,0,8,1931,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1260535630,Brazil,,,10,1930,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087278952,Brazil,0,0,6,1927,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252655,Brazil,,,11,1922,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087278001,Brazil,0,0,10,1920,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077514739,Brazil,0,0,,1920,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1424252643,Brazil,,,,1918,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+144841796,Brazil,,,10,1912,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1228354791,Brazil,-10.8339,-52.8731,9,1910,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1314914347,Brazil,,,9,1908,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087272338,Brazil,0,0,12,1899,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+144841797,Brazil,,,12,1899,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1228420881,Brazil,-10.8339,-52.8731,9,1892,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087000853,Brazil,,,7,1878,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087000873,Brazil,,,10,1875,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+731312229,Brazil,,,10,1873,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1096343331,Brazil,,,5,1870,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1839837755,Brazil,,,11,1854,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1839837771,Brazil,,,,1845,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+730947800,Brazil,,,8,1836,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1097315257,Brazil,0,0,,1831,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+731312232,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+731312235,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+731312233,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1230510053,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090447467,Brazil,,,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+731312237,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1839837814,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1098046804,Brazil,-22.50885340515154,-43.17846605015609,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1077543998,Brazil,0,0,,,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1230512091,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1230511647,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090508009,Brazil,-12.412222,-40.536667,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1230511403,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1098974217,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090477398,Brazil,-12.716667,-39.7,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090410681,Brazil,,,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1228313241,Brazil,-10.8339,-52.8731,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+144842325,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1230511932,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1230511992,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+912445034,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087586232,Brazil,0,0,,,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+731312231,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087596602,Brazil,0,0,,,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+731312228,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090511712,Brazil,-13.164722,-39.658611,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090486132,Brazil,-11.624722,-40.999167,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1097476598,Brazil,-22.50885340515154,-43.17846605015609,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1839837809,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+731345809,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090419970,Brazil,-17.016667,-39.55,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1230509994,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+237341409,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1230510042,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1230510133,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1097223336,Brazil,-22.656955955509694,-43.04075673618083,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090476866,Brazil,,,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087614388,Brazil,0,0,,,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1449782362,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1839837781,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090492896,Brazil,,,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1228380209,Brazil,-10.8339,-52.8731,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090482377,Brazil,,,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090479952,Brazil,-13.25,-41.7,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1098974218,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1230509983,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1449782350,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+912445005,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1087614402,Brazil,0,0,,,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+575126378,Brazil,,,,,PRESERVED_SPECIMEN,Royal Botanic Garden Edinburgh Herbarium,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1098974266,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090464549,Brazil,,,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+912444980,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1211534160,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+67008857,Brazil,,,,,FOSSIL_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1211533959,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090491010,Brazil,-14.125833,-42.434167,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1839837784,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1230510094,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090430293,Brazil,-17.05,-39.533333,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090505925,Brazil,-16.990556,-39.603056,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090491669,Brazil,-11.4075,-40.554444,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1319062200,Brazil,,,,,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1230510095,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1228622006,Brazil,-10.8339,-52.8731,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+731312238,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090921722,Brazil,,,,,PRESERVED_SPECIMEN,HST - Herbário Sérgio Tavares,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1098974221,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1449782293,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1318218775,Brazil,,,,,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+731312234,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090467550,Brazil,-11.086944,-40.6725,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1098974232,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090481968,Brazil,-14.383333,-40.183333,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1097907483,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1098974271,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1090433493,Brazil,-12.25,-38.966667,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+1098974230,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
+731312230,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Begoniaceae,Begonia,Begonia reniformis
