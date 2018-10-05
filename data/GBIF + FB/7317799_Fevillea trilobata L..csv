@@ -1,0 +1,460 @@
+key,country,decimalLatitude,decimalLongitude,month,year,basisOfRecord,datasetName,kingdom,phylum,class,order,family,genus,species
+1699872237,Brazil,-23.176944,-44.710556,1,2017,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1801097392,Brazil,-16.906389,-41.912778,3,2017,PRESERVED_SPECIMEN,HDJF - Herbário Dendrológico Jeanine Felfili,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1586074985,Brazil,-22.914722,-45.996944,6,2017,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1801097461,Brazil,-16.703056,-41.977778,7,2016,PRESERVED_SPECIMEN,HDJF - Herbário Dendrológico Jeanine Felfili,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1455393397,Brazil,-15.076389,-42.164444,12,2016,PRESERVED_SPECIMEN,HURB - Herbário do Recôncavo da Bahia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1585337191,Brazil,-22.975556,-43.013611,9,2015,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1585194525,Brazil,-15.25,-39.418056,10,2015,PRESERVED_SPECIMEN,UESC - Herbário Universidade Estadual de Santa Cruz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1089195791,Brazil,-8.376667,-35.096944,1,2014,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424502676,Brazil,,,2,2014,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1089195758,Brazil,-7.1375,-34.846381,6,2014,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1077480214,Brazil,-23.8815,-51.98,9,2014,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1837389128,Brazil,-9.559167,-36.809167,9,2014,PRESERVED_SPECIMEN,MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1324592439,Brazil,0,0,2,2013,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1135939278,Brazil,,,3,2012,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424462819,Brazil,-9.457778,-64.817222,6,2012,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1840923668,Brazil,,,6,2012,PRESERVED_SPECIMEN,MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095632299,Brazil,-24.100556,-50.706944,8,2012,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265933210,Brazil,,,8,2012,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095638404,Brazil,-24.100556,-50.706944,8,2012,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1587316508,Brazil,0,0,3,2011,PRESERVED_SPECIMEN,MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1587316443,Brazil,0,0,3,2011,PRESERVED_SPECIMEN,MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096932848,Brazil,-19.171198,-39.912081,8,2011,PRESERVED_SPECIMEN,CVRD - Herbário da Reserva Natural Vale,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094897085,Brazil,-6.78,-35.553611,12,2011,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1086732614,Brazil,-7.3,-35.926667,12,2011,PRESERVED_SPECIMEN,HTSA - Herbário do Trópico Semiárido,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094917735,Brazil,-9.457778,-64.817222,6,2010,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095252564,Brazil,-9.457778,-64.817222,6,2010,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1077288908,Brazil,0,0,2,2009,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097122015,Brazil,-15.27,-39.42,1,2008,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090694412,Brazil,-15.266667,-39.416667,1,2008,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424239379,Brazil,-22.936389,-42.293889,3,2008,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090626419,Brazil,-22.937222,-42.291389,3,2008,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424239396,Brazil,-22.937222,-42.291389,3,2008,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501198,Brazil,,,3,2008,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090626408,Brazil,-22.936389,-42.293889,3,2008,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090626381,Brazil,-22.937778,-42.2875,4,2008,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424240724,Brazil,-22.937778,-42.2875,4,2008,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1086667969,Brazil,-24.033333,-50.7,9,2008,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094833401,Brazil,-12.258889,-39.096389,1,2007,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1585194150,Brazil,-16.132778,-39.279167,5,2007,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424306873,Brazil,-16.132778,-39.279167,5,2007,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1123808843,Brazil,-19.836944,-40.573056,5,2006,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094843600,Brazil,-12.033333,-40.483333,5,2006,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087701406,Brazil,-12.049722,-40.495278,6,2006,PRESERVED_SPECIMEN,HURB - Herbário do Recôncavo da Bahia,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1123815503,Brazil,-19.351944,-40.514167,9,2006,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094831202,Brazil,-12.166389,-39.184722,10,2006,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1098072934,Brazil,-12.1664,-39.1847,10,2006,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094831799,Brazil,-12.166944,-39.187778,11,2006,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094831857,Brazil,-12.183333,-39.15,11,2006,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094831831,Brazil,-12.166944,-39.187778,11,2006,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1135915608,Brazil,-14.772333,-39.221889,6,2005,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1099308324,Brazil,,,6,2005,PRESERVED_SPECIMEN,HPL - Herbário do Jardim Botânico Plantarum,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097491073,Brazil,-15.7033,-39.5753,6,2004,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1585193978,Brazil,-15.703333,-39.575278,6,2004,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424399956,Brazil,-15.703333,-39.575278,6,2004,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1260454490,Brazil,-15.70333,-39.57527,6,2004,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1585193941,Brazil,-15.158056,-39.528611,10,2003,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097703643,Brazil,-15.1581,-39.5286,10,2003,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230739275,Brazil,,,12,2003,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095606451,Brazil,0,0,12,2003,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095310152,Brazil,0,0,11,2002,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424424802,Brazil,,,4,2001,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1089164269,Brazil,0,0,4,2001,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1089163969,Brazil,-7.114167,-34.978056,5,2001,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096926371,Brazil,,,7,2001,PRESERVED_SPECIMEN,CVRD - Herbário da Reserva Natural Vale,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1123794200,Brazil,-19.887222,-40.795833,1,2000,PRESERVED_SPECIMEN,MBML-Herbario - Herbário Mello Leitão,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424424766,Brazil,,,1,2000,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090896172,Brazil,-8.700278,-35.833611,2,2000,PRESERVED_SPECIMEN,HVASF - Herbário Vale do São Francisco,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424306365,Brazil,,,3,2000,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090885950,Brazil,,,8,2000,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1086905096,Brazil,,,4,1999,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424306369,Brazil,,,8,1999,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1086643500,Brazil,,,2,1998,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097772503,Brazil,-23.92,-51.97,2,1998,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424309143,Brazil,,,10,1998,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1585193789,Brazil,0,0,2,1997,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1585193727,Brazil,0,0,2,1997,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094743449,Brazil,,,2,1997,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433417,Brazil,,,7,1997,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097975556,Brazil,-14.78,-39.04,9,1997,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1260816069,Brazil,,,9,1997,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095535297,Brazil,0,0,4,1996,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1077277885,Brazil,0,0,5,1996,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095566225,Brazil,0,0,5,1996,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087242620,Brazil,0,0,5,1996,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090715827,Brazil,0,0,5,1996,PRESERVED_SPECIMEN,UFG - Herbário da Universidade Federal de Goiás,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090715828,Brazil,0,0,5,1996,PRESERVED_SPECIMEN,UFG - Herbário da Universidade Federal de Goiás,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1086638968,Brazil,,,5,1996,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1077277864,Brazil,0,0,5,1996,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094796743,Brazil,,,5,1996,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424432993,Brazil,,,6,1996,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424424714,Brazil,,,9,1996,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424424676,Brazil,,,10,1996,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1089159545,Brazil,-7.95,-34.883333,1,1995,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1089101820,Brazil,-22.488889,-45.033333,4,1995,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501225,Brazil,,,8,1995,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095524112,Brazil,0,0,8,1995,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090921925,Brazil,,,2,1994,PRESERVED_SPECIMEN,HST - Herbário Sérgio Tavares,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1423836858,Brazil,0,0,3,1994,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424427102,Brazil,,,3,1993,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1089044518,Brazil,-23.333333,-44.65,11,1993,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1423836819,Brazil,0,0,1,1992,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1042479988,Brazil,,,1,1992,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094172493,Brazil,,,1,1992,PRESERVED_SPECIMEN,UESC - Herbário Universidade Estadual de Santa Cruz,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433656,Brazil,,,1,1992,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095592313,Brazil,0,0,1,1992,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424432963,Brazil,,,3,1992,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096923535,Brazil,,,10,1992,PRESERVED_SPECIMEN,CVRD - Herbário da Reserva Natural Vale,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1098408871,Brazil,-19.39490022365429,-40.07185301144597,10,1992,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433472,Brazil,,,8,1991,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090592726,Brazil,0,0,11,1991,PRESERVED_SPECIMEN,FCAB - Herbário Friburguense,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090923710,Brazil,,,11,1991,PRESERVED_SPECIMEN,HST - Herbário Sérgio Tavares,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1086950981,Brazil,0,0,11,1991,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090858388,Brazil,,,6,1990,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095592319,Brazil,0,0,8,1990,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1089156820,Brazil,-7.95,-34.883333,8,1990,PRESERVED_SPECIMEN,JPB - Herbário Lauro Pires Xavier,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501214,Brazil,,,8,1990,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1042521889,Brazil,,,8,1990,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097093976,Brazil,-19.39490022365429,-40.07185301144597,8,1990,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096922276,Brazil,,,8,1990,PRESERVED_SPECIMEN,CVRD - Herbário da Reserva Natural Vale,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1260820287,Brazil,,,8,1990,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087595250,Brazil,0,0,10,1990,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433405,Brazil,,,10,1990,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424427125,Brazil,,,7,1989,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433698,Brazil,,,9,1989,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424427124,Brazil,,,11,1989,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433446,Brazil,,,10,1988,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424432771,Brazil,,,12,1988,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1089221493,Brazil,0,0,1,1987,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096920791,Brazil,,,7,1986,PRESERVED_SPECIMEN,CVRD - Herbário da Reserva Natural Vale,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1098128761,Brazil,-19.39490022365429,-40.07185301144597,7,1986,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501172,Brazil,,,3,1985,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094722616,Brazil,-12.716667,-40.116667,3,1985,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1423836734,Brazil,-12.716667,-40.116667,3,1985,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090591150,Brazil,0,0,4,1985,PRESERVED_SPECIMEN,FCAB - Herbário Friburguense,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1077263894,Brazil,0,0,6,1984,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424434008,Brazil,,,8,1982,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094718404,Brazil,-12.25,-38.966667,9,1980,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501195,Brazil,,,9,1980,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501183,Brazil,,,9,1980,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1423836735,Brazil,-12.25,-38.966667,9,1980,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433969,Brazil,,,9,1980,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501201,Brazil,,,9,1980,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433934,Brazil,,,12,1980,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097631987,Brazil,-14.149292854240159,-40.24246548664863,2,1979,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090417175,Brazil,,,2,1979,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501248,Brazil,,,2,1979,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433121,Brazil,,,3,1979,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501205,Brazil,,,3,1979,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097614555,Brazil,-15.24871714105688,-40.62419050695018,3,1979,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090418055,Brazil,,,7,1979,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433038,Brazil,-17.2,-39.4,7,1979,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095283788,Brazil,0,0,7,1979,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501207,Brazil,,,7,1979,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501220,Brazil,,,10,1979,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501239,Brazil,,,3,1978,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090415119,Brazil,,,3,1978,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424432855,Brazil,,,3,1978,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1098246091,Brazil,0,0,3,1978,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+731133906,Brazil,,,4,1978,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501249,Brazil,,,8,1978,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097139816,Brazil,-24.827473986577985,-49.26139349682345,8,1978,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095423824,Brazil,0,0,8,1978,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1228542039,Brazil,-24,-51,8,1978,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802887365,Brazil,,,1,1977,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802940993,Brazil,,,1,1977,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1585194006,Brazil,0,0,1,1977,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230739508,Brazil,,,1,1977,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095327980,Brazil,0,0,10,1977,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095335181,Brazil,0,0,10,1977,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1077259147,Brazil,0,0,8,1973,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1585336756,Brazil,,,8,1973,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097063387,Brazil,-24.827473986577985,-49.26139349682345,10,1973,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095398570,Brazil,0,0,10,1973,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501217,Brazil,,,10,1973,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1260659983,Brazil,,,10,1973,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1088995062,Brazil,0,0,10,1973,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1042533118,Brazil,,,10,1973,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433336,Brazil,,,10,1971,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501199,Brazil,,,5,1970,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090408169,Brazil,,,5,1970,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090408229,Brazil,,,7,1970,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501215,Brazil,,,7,1970,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090408372,Brazil,,,9,1970,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501232,Brazil,,,9,1970,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1077527319,Brazil,0,0,9,1970,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433875,Brazil,,,7,1969,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1837436725,Brazil,0,0,7,1969,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087630800,Brazil,0,0,10,1969,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1585193905,Brazil,0,0,10,1969,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095380259,Brazil,0,0,6,1968,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1088982744,Brazil,0,0,7,1968,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501216,Brazil,,,11,1967,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+144861517,Brazil,,,4,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1823454208,Brazil,-10.8339,-52.8731,6,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097299265,Brazil,0,0,6,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095379803,Brazil,0,0,6,1966,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095558706,Brazil,0,0,6,1966,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501224,Brazil,,,6,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1140889304,Brazil,,,6,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1140122151,Brazil,,,8,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433517,Brazil,,,8,1966,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501182,Brazil,,,8,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501213,Brazil,,,8,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095379813,Brazil,0,0,8,1966,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095379810,Brazil,0,0,11,1966,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1138702834,Brazil,,,11,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1260821762,Brazil,,,,1966,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1098333818,Brazil,-18.996963,-40.10894,8,1965,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087242617,Brazil,0,0,8,1965,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087242607,Brazil,0,0,8,1965,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090403821,Brazil,,,8,1965,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097678564,Brazil,-18.996963,-40.10894,8,1965,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090403839,Brazil,,,8,1965,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097490515,Brazil,-18.996963,-40.10894,8,1965,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097954504,Brazil,-18.996963,-40.10894,8,1965,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433872,Brazil,,,7,1962,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095345315,Brazil,0,0,8,1962,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090918379,Brazil,,,11,1962,PRESERVED_SPECIMEN,HST - Herbário Sérgio Tavares,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802598229,Brazil,,,11,1962,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087242626,Brazil,0,0,5,1961,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433291,Brazil,,,8,1961,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087242615,Brazil,0,0,4,1958,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433839,Brazil,,,10,1958,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087242630,Brazil,0,0,5,1956,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095345305,Brazil,0,0,12,1956,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433768,Brazil,,,12,1956,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1086874539,Brazil,,,10,1954,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802566080,Brazil,,,9,1952,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095399828,Brazil,0,0,9,1952,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501156,Brazil,,,9,1952,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433736,Brazil,,,9,1950,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433869,Brazil,,,7,1949,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433220,Brazil,,,5,1946,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087600062,Brazil,0,0,6,1945,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433180,Brazil,,,2,1944,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433009,Brazil,,,8,1944,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095345306,Brazil,0,0,11,1944,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1585193003,Brazil,0,0,11,1944,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087629962,Brazil,0,0,9,1943,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424434066,Brazil,,,11,1941,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090532433,Brazil,-22.870251,-47.077171,8,1939,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424434054,Brazil,,,8,1939,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096730793,Brazil,,,8,1938,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802560298,Brazil,,,8,1938,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802898437,Brazil,,,1,1937,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1086607125,Brazil,,,1,1937,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095594531,Brazil,0,0,1,1937,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890946,Brazil,,,10,1933,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802558425,Brazil,,,10,1933,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090833081,Brazil,0,0,1,1930,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802568330,Brazil,,,6,1930,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1137882370,Brazil,,,6,1930,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501193,Brazil,,,6,1930,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097782777,Brazil,-20.75802403856797,-42.88184388263433,6,1930,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1260659637,Brazil,,,6,1930,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1823454122,Brazil,-10.8339,-52.8731,6,1930,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096730784,Brazil,,,6,1930,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1138167243,Brazil,,,12,1930,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1228273908,Brazil,-18,-44,12,1930,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1098029340,Brazil,-20.75802403856797,-42.88184388263433,12,1930,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501200,Brazil,,,12,1930,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1260660500,Brazil,,,12,1930,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090833280,Brazil,0,0,12,1930,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802558224,Brazil,,,12,1930,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096730773,Brazil,,,12,1930,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890954,Brazil,,,12,1930,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433195,Brazil,,,3,1929,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802594316,Brazil,,,11,1928,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433729,Brazil,,,2,1925,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095345309,Brazil,0,0,11,1923,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1077515344,Brazil,0,0,11,1923,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802565713,Brazil,,,8,1918,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433173,Brazil,,,7,1916,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087273413,Brazil,0,0,9,1895,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+144861518,Brazil,,,9,1895,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388392,Brazil,,,9,1893,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+731800744,Brazil,,,4,1892,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388439,Brazil,,,11,1891,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388458,Brazil,,,6,1888,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433277,Brazil,,,7,1888,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890952,Brazil,,,7,1888,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388436,Brazil,,,5,1887,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388398,Brazil,,,5,1887,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890981,Brazil,,,12,1887,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890983,Brazil,,,9,1884,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890984,Brazil,,,9,1884,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839456647,Brazil,,,,1883,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890937,Brazil,,,10,1882,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890991,Brazil,,,10,1882,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890993,Brazil,,,10,1882,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087001065,Brazil,,,10,1882,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1098198895,Brazil,0,0,10,1882,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1803096301,Brazil,,,3,1879,PRESERVED_SPECIMEN,R-Tipos - Herbário do Museu Nacional - Tipos,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890923,Brazil,,,3,1879,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890934,Brazil,,,1,1878,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095345282,Brazil,0,0,7,1878,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087001071,Brazil,,,5,1877,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890930,Brazil,,,5,1877,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1098348014,Brazil,-22.41605209531295,-42.965751303478314,5,1877,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096730766,Brazil,,,6,1875,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501208,Brazil,,,7,1869,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096730797,Brazil,,,7,1869,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1095010362,Brazil,,,7,1869,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388434,Brazil,,,7,1869,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890915,Brazil,,,7,1869,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1139518223,Brazil,,,7,1869,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890979,Brazil,,,7,1869,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096636069,Brazil,,,7,1869,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890943,Brazil,,,9,1869,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388407,Brazil,,,,1869,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388427,Brazil,,,,1867,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388446,Brazil,,,,1867,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802596086,Brazil,,,,1867,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096730769,Brazil,,,,1867,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388449,Brazil,,,,1867,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1823454206,Brazil,-10.8339,-52.8731,,1861,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388412,Brazil,,,,1859,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388438,Brazil,,,,1859,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388487,Brazil,,,,1859,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388452,Brazil,,,,1859,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096730789,Brazil,,,2,1847,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802561570,Brazil,,,,1845,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096730778,Brazil,,,,1845,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1094997573,Brazil,,,,1845,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388432,Brazil,,,,1845,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096730777,Brazil,,,,1845,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+731800746,Brazil,,,1,1841,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890959,Brazil,,,1,1838,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1055845860,Brazil,,,3,1837,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1228186591,Brazil,-10.8339,-52.8731,,1836,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890982,Brazil,,,7,1829,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890950,Brazil,,,1,1821,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1099013080,Brazil,-10,-55,7,1818,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890957,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890941,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890948,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839455406,Brazil,,,4,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501161,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1099013072,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501185,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+416927561,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501240,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090469978,Brazil,,,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1228424324,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1211537675,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230721342,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230720989,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1086952850,Brazil,-23.540833,-50.975556,,,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096730762,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839456723,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230721302,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890970,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090436776,Brazil,-12.716667,-40.116667,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1144682028,Brazil,-12.18306,-41.99722,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890916,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+416927531,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+416927530,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+731800748,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890909,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+997616438,Brazil,,,,,PRESERVED_SPECIMEN,"Real Jardín Botánico (Madrid), Vascular Plant Herbarium (MA)",Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890995,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+731800745,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388420,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1099013076,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096730805,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1141668109,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388423,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230720878,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230720912,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501222,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388379,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388429,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+731800747,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890939,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1449751560,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839456608,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+731800749,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1099013082,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501243,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1228576243,Brazil,-10.8339,-52.8731,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097949755,Brazil,-15.159747,-39.039072,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1099013075,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+912313536,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388445,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1449751603,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090488544,Brazil,-15.158056,-39.528611,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890911,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1144682026,Brazil,-22.48222,-42.9125,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1228369821,Brazil,-10.8339,-52.8731,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090439882,Brazil,-12.25,-38.966667,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1098892901,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501226,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433575,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890913,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890985,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890974,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388462,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097615550,Brazil,-22.5309,-43.0084,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1449751567,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+416927537,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802560361,Brazil,,,,,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501180,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890968,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+912313558,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230720803,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1099013088,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501218,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230720808,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1144682029,Brazil,-12.18306,-41.99722,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090469526,Brazil,,,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501236,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839388447,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230721151,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230720929,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839456751,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890918,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090420028,Brazil,-17.016667,-39.55,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890907,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501197,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1077543958,Brazil,0,0,,,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802573810,Brazil,,,,,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501203,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501191,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501206,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090492874,Brazil,-15.703333,-39.575278,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1138020088,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1086606819,Brazil,,,,,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+912313542,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230720920,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890987,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1099013078,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1802584028,Brazil,,,,,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1087563324,Brazil,0,0,,,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+912313541,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1449751605,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1099013081,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+912502467,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501187,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1096730781,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+912502439,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1265501210,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1230721524,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1823454207,Brazil,-10.8339,-52.8731,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1139992419,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839456662,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1449751694,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890961,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1139207163,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1839456707,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1449751557,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890976,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+912313557,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1424433903,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090433535,Brazil,-12.25,-38.966667,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1097467635,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890972,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890964,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+1090417602,Brazil,,,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata
+730890989,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Fevillea,Fevillea trilobata

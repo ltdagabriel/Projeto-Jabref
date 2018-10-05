@@ -1,0 +1,58 @@
+key,country,decimalLatitude,decimalLongitude,month,year,basisOfRecord,datasetName,kingdom,phylum,class,order,family,genus,species
+1837381352,Brazil,-26.361667,-49.274167,2,2018,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1570755828,Brazil,-24.036389,-52.387056,5,2017,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1585209063,Brazil,-0.756331,-48.515453,5,2017,PRESERVED_SPECIMEN,MFS - Herbário Profª. Drª. Marlene Freitas da Silva,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1913587362,Brazil,-20.383889,-43.493611,8,2017,PRESERVED_SPECIMEN,"OUPR - Herbário ""Professor José Badini""",Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1275058161,Brazil,-26.896111,-49.385555,2,2016,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1455753314,Brazil,-12.966667,-38.5,3,2016,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1837385773,Brazil,-28.104722,-48.680833,1,2014,PRESERVED_SPECIMEN,"EAFM - Herbário do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1095271328,Brazil,0,0,2,2013,PRESERVED_SPECIMEN,"EAFM - Herbário do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1087705168,Brazil,,,2,2013,PRESERVED_SPECIMEN,HURB - Herbário do Recôncavo da Bahia,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1077298315,Brazil,0,0,5,2013,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1077373552,Brazil,-27.611667,-48.525278,6,2013,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1423900500,Brazil,,,6,2012,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1913587096,Brazil,-20.385556,-43.508056,7,2012,PRESERVED_SPECIMEN,"OUPR - Herbário ""Professor José Badini""",Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1095266905,Brazil,0,0,2,2011,PRESERVED_SPECIMEN,"EAFM - Herbário do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1095268619,Brazil,0,0,3,2011,PRESERVED_SPECIMEN,"EAFM - Herbário do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1302651315,Brazil,-27.449722,-49.14,4,2010,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1077403723,Brazil,-27.449722,-49.14,4,2010,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1086981665,Brazil,-4.883317,-42.17945,4,2009,PRESERVED_SPECIMEN,TEPB - Herbário Graziela Barroso,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1587309980,Brazil,0,0,6,2009,PRESERVED_SPECIMEN,MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1587310949,Brazil,0,0,8,2009,PRESERVED_SPECIMEN,MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1090745416,Brazil,,,10,2009,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1087506253,Brazil,-23.416667,-45.25,3,2005,PRESERVED_SPECIMEN,BOTU - Herbário Irina Delanova Gemtchújnicov,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1095315976,Brazil,0,0,3,2004,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1077465610,Brazil,,,7,2003,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1094779726,Brazil,-12.25,-38.966667,7,2002,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1913586935,Brazil,-20.3,-43.5,5,2001,PRESERVED_SPECIMEN,"OUPR - Herbário ""Professor José Badini""",Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1089266835,Brazil,0,0,12,2000,PRESERVED_SPECIMEN,HUEM - Herbário UEM,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1089266841,Brazil,0,0,12,2000,PRESERVED_SPECIMEN,HUEM - Herbário UEM,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1087484703,Brazil,,,7,1999,PRESERVED_SPECIMEN,HPBR - Herbário Padre Balduino Rambo,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1587299550,Brazil,,,4,1992,PRESERVED_SPECIMEN,PEUFR - Herbário Professor Vasconcelos Sobrinho,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1097888431,Brazil,-2.72,-46.43,11,1986,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1304607753,Brazil,-2.716667,-46.433333,11,1986,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1087471835,Brazil,0,0,4,1982,PRESERVED_SPECIMEN,"OUPR - Herbário ""Professor José Badini""",Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1087471830,Brazil,0,0,9,1982,PRESERVED_SPECIMEN,"OUPR - Herbário ""Professor José Badini""",Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1889171740,Brazil,0,0,5,1968,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1802922906,Brazil,,,3,1958,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1802920047,Brazil,,,4,1956,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1456125880,Brazil,-14.5,-47.5,4,1956,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1802919168,Brazil,,,9,1956,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1456379545,Brazil,,,3,1948,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1090536643,Brazil,-22.870251,-47.077171,3,1941,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1302651360,Brazil,-22.9056,-47.0608,3,1941,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1077519017,Brazil,0,0,5,1940,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1889171412,Brazil,0,0,5,1940,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1077519030,Brazil,0,0,6,1939,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1802879211,Brazil,,,11,1935,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1077518329,Brazil,0,0,6,1928,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1302670373,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1302676338,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1305048342,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1305048236,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1089291507,Brazil,2.316667,-51.6,,,PRESERVED_SPECIMEN,HAMAB - Herbário Amapaense,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1424200788,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1456175371,Brazil,,,,,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1302670357,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1305048312,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta
+1302670342,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Araceae,Colocasia,Colocasia esculenta

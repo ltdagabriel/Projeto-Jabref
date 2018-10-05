@@ -1,0 +1,888 @@
+key,country,decimalLatitude,decimalLongitude,month,year,basisOfRecord,datasetName,kingdom,phylum,class,order,family,genus,species
+1853954399,Brazil,-28.548055,-49.445555,3,2018,PRESERVED_SPECIMEN,CRI - Herbário Pe. Dr. Raulino Reitz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1848251757,Brazil,-25.443611,-49.2375,2,2017,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1455751660,Brazil,0,0,2,2017,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1848245270,Brazil,-25.545,-49.236111,2,2016,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1585207871,Brazil,,,4,2016,PRESERVED_SPECIMEN,HAS - Herbário Alarich Rudolf Holger Schultz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1853941240,Brazil,,,11,2016,PRESERVED_SPECIMEN,MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1143412559,Brazil,-15.734444,-47.928889,1,2015,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1265928803,Brazil,-15.734166,-47.932222,1,2015,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424512611,Brazil,-22.378889,-44.810278,3,2015,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077425991,Brazil,-26.645,-50.751389,3,2015,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213677326,Brazil,-29.177003,-50.027497,3,2015,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424512545,Brazil,-22.378889,-44.810278,3,2015,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424514040,Brazil,-26.633333,-50.75,3,2015,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291010220,Brazil,0,0,3,2015,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291010087,Brazil,0,0,4,2015,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1585200796,Brazil,-25.2365,-48.8396,4,2015,PRESERVED_SPECIMEN,EFC - Herbário Escola de Florestas Curitiba,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291010110,Brazil,0,0,4,2015,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1455401202,Brazil,-20.140556,-43.925,4,2015,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1275058538,Brazil,-26.039167,-48.954444,5,2015,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1226940014,Brazil,-28.438055,-49.858889,11,2015,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1840912242,Brazil,-26.278889,-50.495555,12,2015,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1264698687,Brazil,-26.55,-49.68,12,2015,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1264698698,Brazil,-26.278889,-50.495555,12,2015,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1840912268,Brazil,-26.55,-49.68,12,2015,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1840930100,Brazil,-26.55,-49.68,12,2015,PRESERVED_SPECIMEN,CRI - Herbário Pe. Dr. Raulino Reitz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1585201391,Brazil,,,2,2014,PRESERVED_SPECIMEN,EFC - Herbário Escola de Florestas Curitiba,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1658216345,Brazil,-23.460278,-46.768056,3,2014,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1699426436,Brazil,-23.460278,-46.768056,3,2014,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1423837933,Brazil,-22.353611,-42.586944,4,2014,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424504482,Brazil,-22.343889,-42.722778,4,2014,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424504525,Brazil,-22.353611,-42.586944,4,2014,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087185597,Brazil,-20.44,-43.801944,7,2014,PRESERVED_SPECIMEN,BHZB - Herbário do Jardim Botânico da Fundação Zoo-Botânica de Belo Horizonte,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213677091,Brazil,-24.630131,-49.964264,1,2013,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1234554741,Brazil,0,0,1,2013,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1829095333,Brazil,-23.413861,-46.547444,2,2013,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424731282,Brazil,,,2,2013,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135947681,Brazil,-22.6413,-44.9766,2,2013,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1829095219,Brazil,-23.392306,-46.373333,2,2013,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135947692,Brazil,-22.4854,-44.6299,2,2013,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135947702,Brazil,-22.4887,-44.3278,2,2013,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095634038,Brazil,0,0,3,2013,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095634184,Brazil,0,0,3,2013,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087659941,Brazil,0,0,3,2013,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424731349,Brazil,,,3,2013,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135947699,Brazil,-22.5087,-44.8187,3,2013,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1143413496,Brazil,,,3,2013,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424467147,Brazil,,,5,2013,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413722371,Brazil,0,0,5,2013,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087711623,Brazil,,,3,2012,PRESERVED_SPECIMEN,LUSC - Herbário de Lages da Universidade do Estado de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213676277,Brazil,-25.241944,-50.008056,3,2012,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1265933504,Brazil,,,3,2012,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090629367,Brazil,-22.454167,-43.011111,3,2012,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1094909767,Brazil,,,4,2012,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1096899923,Brazil,,,4,2012,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077243896,Brazil,-18.577778,-43.461667,4,2012,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1094909742,Brazil,-18.577778,-43.461667,4,2012,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213636920,Brazil,-22.508333,-45.152778,5,2012,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087657801,Brazil,0,0,5,2012,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087657773,Brazil,0,0,5,2012,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424512358,Brazil,-22.766667,-44.133333,5,2012,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691042,Brazil,,,5,2012,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213636898,Brazil,-20.402778,-43.394167,5,2012,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1848249469,Brazil,0,0,7,2012,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077371432,Brazil,-28.057222,-49.365556,12,2012,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089104720,Brazil,-22.37875,-44.825889,1,2011,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424439661,Brazil,-22.366667,-44.8,1,2011,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424481605,Brazil,,,2,2011,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291009285,Brazil,0,0,2,2011,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135941183,Brazil,,,2,2011,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087656683,Brazil,0,0,2,2011,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090161473,Brazil,-25.231889,-48.845472,3,2011,PRESERVED_SPECIMEN,IRAI - Herbário do Parque da Ciência Newton Freire Maia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087528441,Brazil,,,3,2011,PRESERVED_SPECIMEN,JOI - Herbário Joinvillea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077476262,Brazil,,,3,2011,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087653316,Brazil,-22.5765,-45.324028,3,2011,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1675531425,Brazil,0,0,3,2011,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1275065968,Brazil,,,3,2011,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090697051,Brazil,-22.416667,-42.983333,4,2011,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1675531497,Brazil,0,0,4,2011,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424446040,Brazil,,,1,2010,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1658209380,Brazil,0,0,1,2010,PRESERVED_SPECIMEN,DVPR - Herbário da Universidade Tecnológica Federal do Paraná - Dois Vizinhos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095366661,Brazil,0,0,1,2010,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1438030115,Brazil,,,1,2010,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077294596,Brazil,0,0,1,2010,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077580888,Brazil,0,0,1,2010,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213644519,Brazil,0,0,1,2010,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424325543,Brazil,,,1,2010,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1143430869,Brazil,,,1,2010,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095366715,Brazil,0,0,1,2010,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087648432,Brazil,0,0,2,2010,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090157536,Brazil,-25.345667,-48.936917,2,2010,PRESERVED_SPECIMEN,IRAI - Herbário do Parque da Ciência Newton Freire Maia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086963801,Brazil,0,0,2,2010,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087648491,Brazil,-14.161722,-47.610111,2,2010,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095363631,Brazil,0,0,2,2010,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077503338,Brazil,0,0,2,2010,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077406750,Brazil,-27.630278,-49.049444,2,2010,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090157482,Brazil,-25.370722,-49.084833,2,2010,PRESERVED_SPECIMEN,IRAI - Herbário do Parque da Ciência Newton Freire Maia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077406677,Brazil,-26.91,-50.220278,2,2010,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087648487,Brazil,-28.533056,-49.758333,3,2010,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087648513,Brazil,-28.319453,-50.804747,3,2010,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087648499,Brazil,-27.895303,-49.79945,3,2010,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090828804,Brazil,-27.895556,-49.799444,3,2010,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291009364,Brazil,-28.533056,-49.758333,3,2010,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077243570,Brazil,0,0,4,2010,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090823746,Brazil,0,0,4,2010,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1563169632,Brazil,-25.099167,-50.147222,7,2010,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1585964248,Brazil,-25.099167,-50.147222,7,2010,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086909888,Brazil,-24.073889,-49.081111,1,2009,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087650218,Brazil,-20.109444,-43.450833,4,2009,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095448762,Brazil,0,0,4,2009,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086912525,Brazil,,,4,2009,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086669539,Brazil,,,4,2009,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095366017,Brazil,0,0,5,2009,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087529287,Brazil,-24.187222,-49.140833,11,2009,PRESERVED_SPECIMEN,JOI - Herbário Joinvillea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077389173,Brazil,-26.46,-51.03,1,2008,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086908847,Brazil,-23.452778,-46.765833,1,2008,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1099310519,Brazil,,,1,2008,PRESERVED_SPECIMEN,HPL - Herbário do Jardim Botânico Plantarum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095366052,Brazil,0,0,1,2008,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086961244,Brazil,0,0,2,2008,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077388305,Brazil,-26.278056,-49.228333,2,2008,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090694481,Brazil,-23.230444,-46.935778,2,2008,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213675617,Brazil,-23.230278,-46.935556,2,2008,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1094895723,Brazil,-23.230556,-46.935833,2,2008,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1450909566,Brazil,0,0,2,2008,PRESERVED_SPECIMEN,UFG - Herbário da Universidade Federal de Goiás,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1563168064,Brazil,-23.230458,-46.935783,2,2008,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090694560,Brazil,-23.230444,-46.935778,3,2008,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213639170,Brazil,-15.930833,-47.9,3,2008,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213639551,Brazil,-15.930833,-47.9,3,2008,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090826072,Brazil,-15.930833,-47.9,3,2008,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090843358,Brazil,0,0,3,2008,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095351853,Brazil,-28.221667,-54.980833,11,2008,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090580108,Brazil,-22.8858,-48.445,12,2008,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095259967,Brazil,,,1,2007,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1324595502,Brazil,,,2,2007,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095616394,Brazil,0,0,2,2007,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095617066,Brazil,0,0,2,2007,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1320356014,Brazil,,,2,2007,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424304510,Brazil,,,3,2007,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090846621,Brazil,0,0,3,2007,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077245505,Brazil,0,0,3,2007,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1701216044,Brazil,0,0,3,2007,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086912668,Brazil,,,3,2007,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291048376,Brazil,-22.450917,-44.907833,3,2007,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291048374,Brazil,-22.450917,-44.907833,3,2007,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077405455,Brazil,,,3,2007,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077294790,Brazil,0,0,3,2007,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090813097,Brazil,0,0,3,2007,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1675530485,Brazil,0,0,3,2007,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090846584,Brazil,0,0,4,2007,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090820849,Brazil,0,0,4,2007,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424251853,Brazil,,,4,2007,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291048463,Brazil,-27.916667,-49.879167,4,2007,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090820465,Brazil,-21.975278,-43.891389,4,2007,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087640984,Brazil,-27.916667,-49.879167,4,2007,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135880235,Brazil,,,4,2007,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077288388,Brazil,0,0,4,2007,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095340532,Brazil,0,0,11,2007,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077445928,Brazil,,,11,2007,PRESERVED_SPECIMEN,HAS - Herbário Alarich Rudolf Holger Schultz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095340529,Brazil,0,0,12,2007,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086661060,Brazil,-25.483333,-48.983333,1,2006,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090810084,Brazil,0,0,2,2006,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095614139,Brazil,0,0,2,2006,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095366633,Brazil,0,0,2,2006,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090810090,Brazil,0,0,2,2006,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090846597,Brazil,0,0,3,2006,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090846593,Brazil,0,0,3,2006,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424269944,Brazil,-22.432222,-43.242222,3,2006,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424270011,Brazil,-22.409722,-43.230833,3,2006,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090846602,Brazil,0,0,4,2006,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1098152328,Brazil,-21.7167,-43.8833,5,2006,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135924780,Brazil,,,5,2006,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424265941,Brazil,-21.716667,-43.883333,5,2006,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095260209,Brazil,,,12,2006,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095328196,Brazil,-29.382778,-49.837778,1,2005,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087241954,Brazil,-14.163333,-47.593056,1,2005,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090810621,Brazil,-14.163333,-47.593056,1,2005,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086903785,Brazil,-23.456944,-46.766111,3,2005,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319097192,Brazil,,,3,2005,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086955538,Brazil,0,0,3,2005,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077499732,Brazil,0,0,3,2005,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089092679,Brazil,0,0,3,2005,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077499588,Brazil,0,0,3,2005,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090762226,Brazil,,,3,2005,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090843123,Brazil,0,0,3,2005,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077281315,Brazil,0,0,4,2005,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090843130,Brazil,0,0,4,2005,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090843096,Brazil,0,0,4,2005,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095331505,Brazil,0,0,4,2005,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291048373,Brazil,-22.402778,-44.848889,5,2005,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095332221,Brazil,0,0,10,2005,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291048103,Brazil,-22.374167,-44.816944,2,2004,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086655486,Brazil,-26.416667,-51.6,2,2004,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424266860,Brazil,-21.696667,-43.878889,3,2004,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089077058,Brazil,-21.825,-46.954167,3,2004,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090842857,Brazil,0,0,3,2004,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1275057437,Brazil,-22.959444,-48.522222,3,2004,PRESERVED_SPECIMEN,BOTU - Herbário Irina Delanova Gemtchújnicov,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090847299,Brazil,0,0,4,2004,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137948,Brazil,,,5,2004,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087522827,Brazil,,,11,2004,PRESERVED_SPECIMEN,JOI - Herbário Joinvillea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1094710973,Brazil,-28.598333,-49.424722,1,2003,PRESERVED_SPECIMEN,CRI - Herbário Pe. Dr. Raulino Reitz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086951144,Brazil,0,0,2,2003,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291048109,Brazil,0,0,2,2003,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086655257,Brazil,-25.233333,-49.983333,2,2003,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087637305,Brazil,0,0,2,2003,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077278052,Brazil,0,0,2,2003,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318876870,Brazil,,,2,2003,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089080688,Brazil,0,0,3,2003,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319956997,Brazil,,,2,2002,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213579330,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090733556,Brazil,,,2,2002,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077496041,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137990,Brazil,,,2,2002,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802966191,Brazil,,,2,2002,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086898108,Brazil,,,2,2002,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095592651,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1094785691,Brazil,,,2,2002,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095592623,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138016,Brazil,,,2,2002,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086957279,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090799031,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077495724,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+188382220,Brazil,,,3,2002,PRESERVED_SPECIMEN,"Colección de plantas vasculares de Brasil del Herbario ""Jaime Andrés Rodríguez"". LEB-Brasil",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095592637,Brazil,0,0,3,2002,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087178494,Brazil,,,3,2002,PRESERVED_SPECIMEN,BHZB - Herbário do Jardim Botânico da Fundação Zoo-Botânica de Belo Horizonte,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077495310,Brazil,0,0,3,2002,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095592632,Brazil,0,0,3,2002,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213579327,Brazil,0,0,3,2002,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+199480345,Brazil,,,3,2002,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291048108,Brazil,0,0,4,2002,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089070739,Brazil,0,0,4,2002,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090792789,Brazil,0,0,4,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086949351,Brazil,0,0,4,2002,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086654402,Brazil,,,9,2002,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087616983,Brazil,0,0,1,2001,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090791925,Brazil,0,0,2,2001,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318368385,Brazil,,,2,2001,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087622594,Brazil,0,0,2,2001,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090806726,Brazil,-20.702778,-42.475278,2,2001,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095584674,Brazil,0,0,2,2001,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095601268,Brazil,0,0,3,2001,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090792723,Brazil,0,0,3,2001,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095584636,Brazil,0,0,3,2001,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1322143087,Brazil,,,3,2001,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260729206,Brazil,-21.72222,-44.98527,3,2001,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1098414632,Brazil,-21.722222,-44.985278,3,2001,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077272807,Brazil,0,0,3,2001,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087613941,Brazil,-22.710833,-45.931667,4,2001,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318899786,Brazil,-22.7108,-45.9317,4,2001,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090821864,Brazil,-20.396667,-41.735556,2,2000,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1699431434,Brazil,-20.445833,-41.735278,2,2000,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089061311,Brazil,0,0,3,2000,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090798850,Brazil,0,0,4,2000,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087620415,Brazil,0,0,4,2000,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087177337,Brazil,,,4,2000,PRESERVED_SPECIMEN,BHZB - Herbário do Jardim Botânico da Fundação Zoo-Botânica de Belo Horizonte,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1099301533,Brazil,,,11,2000,PRESERVED_SPECIMEN,HPL - Herbário do Jardim Botânico Plantarum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090793219,Brazil,0,0,1,1999,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1272058128,Brazil,-15.866667,-47.85,1,1999,PRESERVED_SPECIMEN,HEPH - Herbário Ezechias Paulo Heringer,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260729391,Brazil,,,2,1999,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095569340,Brazil,0,0,2,1999,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090793241,Brazil,0,0,2,1999,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+188381731,Brazil,,,2,1999,PRESERVED_SPECIMEN,"Colección de plantas vasculares de Brasil del Herbario ""Jaime Andrés Rodríguez"". LEB-Brasil",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077491654,Brazil,0,0,2,1999,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1699431419,Brazil,,,2,1999,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319795583,Brazil,,,5,1999,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095570846,Brazil,0,0,5,1999,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086896042,Brazil,,,9,1999,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086896152,Brazil,,,9,1999,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086939289,Brazil,0,0,1,1998,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319621125,Brazil,,,1,1998,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291048389,Brazil,0,0,1,1998,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077491255,Brazil,0,0,2,1998,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090821871,Brazil,-20.416667,-41.8,2,1998,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095560127,Brazil,0,0,2,1998,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086892113,Brazil,-23.566667,-48,3,1998,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095363554,Brazil,-23.566667,-48,3,1998,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291047653,Brazil,-23.566667,-48,3,1998,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095212270,Brazil,,,1,1997,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086635169,Brazil,,,2,1997,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318670449,Brazil,,,2,1997,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087594246,Brazil,0,0,2,1997,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+60000694,Brazil,,,2,1997,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095548152,Brazil,0,0,2,1997,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095543753,Brazil,0,0,2,1997,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077352914,Brazil,,,2,1997,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095571008,Brazil,0,0,9,1997,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086937930,Brazil,0,0,12,1997,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291047543,Brazil,0,0,1,1996,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095610441,Brazil,0,0,2,1996,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095567282,Brazil,0,0,2,1996,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1042696820,Brazil,-23.339783,-44.81,2,1996,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095567295,Brazil,0,0,2,1996,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1208829267,Brazil,0,0,2,1996,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1320138189,Brazil,,,2,1996,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087591471,Brazil,0,0,2,1996,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1322812595,Brazil,,,2,1996,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291047544,Brazil,0,0,2,1996,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1042696794,Brazil,-23.339783,-44.81,2,1996,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1321536077,Brazil,,,2,1996,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291047187,Brazil,0,0,3,1996,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086936156,Brazil,0,0,11,1996,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1094710951,Brazil,,,11,1996,PRESERVED_SPECIMEN,CRI - Herbário Pe. Dr. Raulino Reitz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077290074,Brazil,0,0,,1996,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095557558,Brazil,0,0,1,1995,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097713878,Brazil,-25.28,-48.33,1,1995,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086633925,Brazil,,,1,1995,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291047028,Brazil,-23.896111,-46.727778,2,1995,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291047032,Brazil,-24.796111,-48.478694,2,1995,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413721024,Brazil,-23.896111,-46.727778,2,1995,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424204580,Brazil,-22.25,-44.566667,2,1995,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413720998,Brazil,-24.784444,-48.478611,2,1995,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090684944,Brazil,-24.784611,-48.478694,2,1995,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135848133,Brazil,,,2,1995,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413720982,Brazil,-24.793611,-48.471389,2,1995,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291047030,Brazil,-24.79375,-48.471417,2,1995,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090684962,Brazil,,,3,1995,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291047067,Brazil,0,0,3,1995,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090557874,Brazil,-22.694886,-46.668492,3,1995,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090775065,Brazil,0,0,3,1995,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413721048,Brazil,0,0,3,1995,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090601712,Brazil,-29.420556,-50.575556,9,1995,PRESERVED_SPECIMEN,MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1264698566,Brazil,,,2,1994,PRESERVED_SPECIMEN,BOTU - Herbário Irina Delanova Gemtchújnicov,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086635366,Brazil,,,2,1994,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086885856,Brazil,,,3,1994,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1848118045,Brazil,0,0,3,1994,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413720977,Brazil,0,0,3,1994,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135847364,Brazil,,,3,1994,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137865,Brazil,,,3,1994,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086885998,Brazil,,,3,1994,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135853421,Brazil,,,8,1994,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135885471,Brazil,,,1,1993,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135841826,Brazil,,,1,1993,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424731383,Brazil,,,1,1993,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135885563,Brazil,,,1,1993,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135885517,Brazil,,,1,1993,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135885537,Brazil,,,1,1993,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691085,Brazil,-23.17,-44.5,2,1993,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095339270,Brazil,0,0,2,1993,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413720759,Brazil,0,0,2,1993,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135837950,Brazil,,,2,1993,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095541033,Brazil,0,0,2,1993,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086637373,Brazil,,,2,1993,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135876619,Brazil,,,2,1993,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137966,Brazil,,,2,1993,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077347108,Brazil,,,2,1993,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095504484,Brazil,0,0,3,1993,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1264698559,Brazil,,,3,1993,PRESERVED_SPECIMEN,BOTU - Herbário Irina Delanova Gemtchújnicov,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1264698561,Brazil,,,3,1993,PRESERVED_SPECIMEN,BOTU - Herbário Irina Delanova Gemtchújnicov,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135876703,Brazil,,,4,1993,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135876667,Brazil,,,4,1993,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424731297,Brazil,-24,-49,4,1993,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135839257,Brazil,,,8,1993,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077357954,Brazil,,,1,1992,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077365223,Brazil,,,1,1992,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046976,Brazil,0,0,2,1992,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213553472,Brazil,0,0,2,1992,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046986,Brazil,0,0,6,1992,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291047170,Brazil,0,0,6,1992,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086624385,Brazil,,,2,1991,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095491241,Brazil,0,0,4,1991,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089263136,Brazil,0,0,5,1991,PRESERVED_SPECIMEN,HUEM - Herbário UEM,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137730,Brazil,-15.9,-47.9,1,1990,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1320065073,Brazil,-15.9,-47.9,1,1990,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046771,Brazil,-15.9,-47.9,1,1990,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1320366641,Brazil,,,2,1990,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095483606,Brazil,0,0,2,1990,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137729,Brazil,-15.9,-47.9,2,1990,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319019117,Brazil,-15.9,-47.08,2,1990,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137839,Brazil,-15.9,-47.9,2,1990,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135837218,Brazil,,,3,1990,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046837,Brazil,0,0,3,1990,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087175548,Brazil,,,4,1990,PRESERVED_SPECIMEN,BHZB - Herbário do Jardim Botânico da Fundação Zoo-Botânica de Belo Horizonte,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802930331,Brazil,,,5,1990,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077345156,Brazil,,,5,1990,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095296673,Brazil,0,0,5,1990,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095501377,Brazil,0,0,5,1990,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087227998,Brazil,-15.883333,-47.933333,12,1990,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046807,Brazil,0,0,2,1989,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095293021,Brazil,0,0,11,1989,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087056736,Brazil,0,0,12,1989,PRESERVED_SPECIMEN,UFP - Herbário UFP - Geraldo Mariz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095296262,Brazil,0,0,12,1989,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090606467,Brazil,-30.101167,-51.328056,12,1989,PRESERVED_SPECIMEN,MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090600221,Brazil,-27.345556,-51.607222,1,1988,PRESERVED_SPECIMEN,MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319629173,Brazil,,,2,1988,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260733113,Brazil,,,2,1988,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086880887,Brazil,-23.65,-45.866667,2,1988,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095473826,Brazil,0,0,2,1988,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086880845,Brazil,-23.483333,-45.866667,2,1988,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086624591,Brazil,,,2,1988,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137958,Brazil,,,3,1988,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095600334,Brazil,0,0,3,1988,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087630701,Brazil,0,0,3,1988,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089014655,Brazil,0,0,4,1988,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087571910,Brazil,0,0,1,1987,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077343164,Brazil,,,2,1987,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095472331,Brazil,0,0,2,1987,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095467342,Brazil,0,0,2,1987,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086620302,Brazil,,,2,1987,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095463833,Brazil,0,0,2,1986,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1042653018,Brazil,,,2,1986,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046558,Brazil,0,0,2,1986,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095230926,Brazil,,,4,1986,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086943905,Brazil,0,0,11,1986,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089263127,Brazil,0,0,,1986,PRESERVED_SPECIMEN,HUEM - Herbário UEM,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137811,Brazil,,,1,1985,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077268545,Brazil,0,0,3,1985,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077280641,Brazil,0,0,3,1985,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077264046,Brazil,0,0,3,1985,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046636,Brazil,0,0,4,1985,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1264698528,Brazil,-22.75,-45.5,5,1985,PRESERVED_SPECIMEN,BOTU - Herbário Irina Delanova Gemtchújnicov,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046653,Brazil,0,0,5,1985,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077339440,Brazil,,,10,1985,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1143430824,Brazil,0,0,2,1984,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138008,Brazil,,,11,1984,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095461745,Brazil,0,0,1,1983,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087324135,Brazil,0,0,1,1983,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137912,Brazil,,,1,1983,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046557,Brazil,0,0,1,1983,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1321232771,Brazil,,,1,1983,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077581861,Brazil,-21.838889,-46.564722,3,1983,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046429,Brazil,0,0,3,1983,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086931073,Brazil,0,0,3,1983,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413719927,Brazil,0,0,3,1983,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090774606,Brazil,0,0,3,1983,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1096859707,Brazil,-21.84,-46.56,3,1983,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090836852,Brazil,0,0,3,1983,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090607994,Brazil,-30.101167,-51.328056,11,1983,PRESERVED_SPECIMEN,MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089006418,Brazil,0,0,3,1982,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046433,Brazil,0,0,3,1982,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424291862,Brazil,,,3,1982,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1098321289,Brazil,-21.330528505238412,-46.367882106102215,3,1982,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138013,Brazil,,,4,1982,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077347082,Brazil,,,4,1982,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095286326,Brazil,0,0,12,1982,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1322753150,Brazil,,,2,1981,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691031,Brazil,,,2,1981,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319602589,Brazil,,,2,1981,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087247768,Brazil,0,0,2,1981,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087247729,Brazil,0,0,2,1981,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318134043,Brazil,,,2,1981,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137890,Brazil,,,3,1981,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413719578,Brazil,0,0,3,1981,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260674171,Brazil,,,3,1981,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097872409,Brazil,0,0,3,1981,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137852,Brazil,-22.7,-45.483333,4,1981,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095285739,Brazil,0,0,11,1981,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260729746,Brazil,,,1,1980,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1317337386,Brazil,,,1,1980,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087247741,Brazil,0,0,1,1980,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530047,Brazil,0,0,3,1980,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530840,Brazil,0,0,3,1980,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137982,Brazil,,,2,1979,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090554581,Brazil,-23.7169,-46.8492,2,1979,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530054,Brazil,0,0,3,1979,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530845,Brazil,0,0,3,1979,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530041,Brazil,0,0,4,1979,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077432776,Brazil,,,11,1979,PRESERVED_SPECIMEN,HAS - Herbário Alarich Rudolf Holger Schultz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095574024,Brazil,0,0,11,1979,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260731204,Brazil,,,2,1978,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1098160548,Brazil,-25.783087038146363,-49.32640271298928,2,1978,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095592662,Brazil,0,0,2,1978,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095512108,Brazil,0,0,3,1978,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1320556654,Brazil,,,3,1978,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137971,Brazil,,,4,1978,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530073,Brazil,0,0,2,1977,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077260425,Brazil,0,0,3,1977,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090798955,Brazil,0,0,3,1977,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095420576,Brazil,0,0,4,1977,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095281553,Brazil,0,0,11,1977,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413718933,Brazil,0,0,1,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291048338,Brazil,0,0,1,1976,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095293825,Brazil,0,0,1,1976,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413719209,Brazil,0,0,2,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1259041594,Brazil,-23.633333,-46.616667,2,1976,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318255628,Brazil,,,2,1976,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1259055460,Brazil,,,3,1976,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413719231,Brazil,0,0,3,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413719304,Brazil,0,0,3,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413719448,Brazil,0,0,3,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1259062759,Brazil,,,3,1976,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089098021,Brazil,0,0,3,1976,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318484458,Brazil,,,3,1976,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1322203330,Brazil,,,3,1976,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213579334,Brazil,0,0,4,1976,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530062,Brazil,0,0,11,1976,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086926487,Brazil,0,0,11,1976,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087473188,Brazil,0,0,2,1975,PRESERVED_SPECIMEN,"OUPR - Herbário ""Professor José Badini""",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046071,Brazil,0,0,3,1975,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137923,Brazil,,,5,1975,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691079,Brazil,,,5,1975,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691097,Brazil,,,5,1975,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1139840499,Brazil,,,6,1975,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1137903402,Brazil,,,7,1975,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530048,Brazil,0,0,12,1975,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090567714,Brazil,-23.5475,-46.6361,1,1974,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090791418,Brazil,0,0,1,1974,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413718692,Brazil,0,0,1,1974,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291048337,Brazil,0,0,1,1974,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213579294,Brazil,0,0,1,1974,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135895024,Brazil,,,1,1974,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089097712,Brazil,0,0,2,1974,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090791405,Brazil,0,0,2,1974,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413718695,Brazil,0,0,2,1974,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097839084,Brazil,-22.673246,-45.454379,4,1974,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1571561919,Brazil,0,0,11,1974,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530854,Brazil,0,0,3,1973,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1098235425,Brazil,0,0,3,1973,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413718653,Brazil,0,0,3,1973,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413718655,Brazil,0,0,3,1973,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095396382,Brazil,0,0,12,1973,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095411146,Brazil,0,0,1,1972,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095389753,Brazil,0,0,3,1972,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318249907,Brazil,,,11,1972,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1141006306,Brazil,,,11,1972,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691076,Brazil,,,1,1971,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802955599,Brazil,,,12,1971,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138060,Brazil,,,1,1970,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438520161,Brazil,,,1,1970,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213579349,Brazil,0,0,1,1970,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1317852558,Brazil,,,1,1970,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087247749,Brazil,0,0,1,1970,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138075,Brazil,,,1,1970,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691071,Brazil,,,1,1970,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413718707,Brazil,0,0,1,1970,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1322940029,Brazil,,,1,1970,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1098278600,Brazil,-18.0006,-47.77624,1,1970,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097068429,Brazil,-18.9439,-46.9925,1,1970,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077255661,Brazil,0,0,3,1970,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137842,Brazil,,,4,1970,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1571561943,Brazil,0,0,12,1969,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137768,Brazil,,,,1969,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1320517835,Brazil,,,2,1968,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097806889,Brazil,-18.57,-43.68,2,1968,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438520483,Brazil,,,2,1968,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213579311,Brazil,0,0,2,1968,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137954,Brazil,,,2,1968,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1141245479,Brazil,,,3,1968,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095375723,Brazil,0,0,3,1968,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086612982,Brazil,,,3,1968,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095512801,Brazil,0,0,4,1968,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1264698521,Brazil,,,5,1968,PRESERVED_SPECIMEN,BOTU - Herbário Irina Delanova Gemtchújnicov,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424139047,Brazil,,,5,1968,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097736170,Brazil,-15.78342080908068,-47.92987266614884,1,1967,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138032,Brazil,,,1,1967,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095285549,Brazil,0,0,1,1967,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138011,Brazil,,,1,1967,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090791420,Brazil,0,0,2,1967,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1089097694,Brazil,0,0,2,1967,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137894,Brazil,,,2,1967,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413718486,Brazil,0,0,2,1967,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095377657,Brazil,0,0,2,1967,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413718070,Brazil,0,0,1,1966,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691062,Brazil,,,1,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1320963011,Brazil,,,1,1966,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213553452,Brazil,0,0,1,1966,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097170309,Brazil,-15.72,-47.87,1,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1314927461,Brazil,,,1,1966,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1322543148,Brazil,,,1,1966,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260732852,Brazil,,,2,1966,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319301625,Brazil,,,2,1966,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1042539152,Brazil,,,2,1966,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213553461,Brazil,0,0,2,1966,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097372550,Brazil,-15.78342080908068,-47.92987266614884,2,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138042,Brazil,,,2,1966,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095379537,Brazil,0,0,3,1966,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213644161,Brazil,0,0,3,1966,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1098350036,Brazil,0,0,3,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318262641,Brazil,,,3,1966,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691041,Brazil,,,3,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1140046267,Brazil,,,3,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319047570,Brazil,,,12,1966,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095609801,Brazil,0,0,1,1965,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413718501,Brazil,0,0,1,1965,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413718074,Brazil,0,0,2,1965,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1320211897,Brazil,,,2,1965,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691090,Brazil,,,2,1965,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086610949,Brazil,,,3,1965,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691048,Brazil,,,3,1965,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137984,Brazil,,,2,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137819,Brazil,,,2,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138046,Brazil,,,2,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095407142,Brazil,0,0,3,1964,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138004,Brazil,,,3,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086610590,Brazil,,,3,1964,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1137171064,Brazil,,,3,1964,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095418233,Brazil,0,0,4,1964,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137857,Brazil,,,4,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095431512,Brazil,0,0,3,1963,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095384288,Brazil,0,0,3,1963,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077326809,Brazil,,,4,1963,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137910,Brazil,,,4,1963,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530858,Brazil,0,0,7,1963,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137999,Brazil,,,1,1962,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077326776,Brazil,,,2,1962,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138010,Brazil,,,2,1962,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138000,Brazil,,,3,1962,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095407132,Brazil,0,0,3,1962,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095407117,Brazil,0,0,2,1961,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137997,Brazil,,,2,1961,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530063,Brazil,0,0,2,1960,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095407133,Brazil,0,0,3,1960,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086608521,Brazil,,,3,1960,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137956,Brazil,,,3,1960,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086608496,Brazil,,,3,1960,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137986,Brazil,,,3,1960,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691080,Brazil,,,3,1960,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1141571131,Brazil,,,1,1959,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137977,Brazil,,,2,1959,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095407123,Brazil,0,0,2,1959,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1321108159,Brazil,,,4,1959,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530037,Brazil,0,0,9,1959,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137933,Brazil,,,9,1959,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086608560,Brazil,,,10,1959,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319203410,Brazil,,,2,1957,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137818,Brazil,,,2,1957,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137796,Brazil,,,2,1957,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137806,Brazil,,,2,1957,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137874,Brazil,,,2,1957,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1098284832,Brazil,-26.781823,-51.273033,2,1957,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137947,Brazil,,,2,1957,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137885,Brazil,,,3,1957,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138020,Brazil,,,4,1957,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802920240,Brazil,,,5,1957,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802918226,Brazil,,,2,1956,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137946,Brazil,,,3,1956,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291046951,Brazil,0,0,5,1956,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318113484,Brazil,,,2,1955,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802916598,Brazil,,,2,1955,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077251464,Brazil,0,0,4,1955,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137779,Brazil,,,4,1955,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802917344,Brazil,,,11,1955,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802914781,Brazil,,,2,1954,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260729975,Brazil,,,3,1954,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802915946,Brazil,,,11,1954,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095597766,Brazil,0,0,2,1953,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802913943,Brazil,,,7,1953,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090692754,Brazil,,,11,1953,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802915584,Brazil,,,11,1953,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137942,Brazil,,,1,1952,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319440745,Brazil,,,1,1952,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802912075,Brazil,,,2,1952,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802912163,Brazil,,,2,1952,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802929118,Brazil,,,2,1951,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097165502,Brazil,0,0,2,1951,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319573909,Brazil,,,3,1951,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137902,Brazil,,,3,1951,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086609056,Brazil,,,5,1951,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1141463064,Brazil,,,5,1951,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097023107,Brazil,-22.798889,-44.647293,5,1951,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260731005,Brazil,,,5,1951,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090588799,Brazil,0,0,12,1951,PRESERVED_SPECIMEN,FCAB - Herbário Friburguense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+30385759,Brazil,,,12,1951,PRESERVED_SPECIMEN,"Real Jardín Botánico (Madrid), Vascular Plant Herbarium (MA)",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802905915,Brazil,,,1,1950,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802906234,Brazil,,,2,1950,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802906137,Brazil,,,2,1950,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802906603,Brazil,,,3,1950,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802906671,Brazil,,,3,1950,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413716991,Brazil,0,0,6,1950,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137995,Brazil,,,6,1950,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802909296,Brazil,,,11,1950,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1320078249,Brazil,,,12,1950,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802901101,Brazil,,,1,1949,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1317384422,Brazil,,,3,1949,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802904554,Brazil,,,10,1949,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802904672,Brazil,,,10,1949,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802904675,Brazil,,,11,1949,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802905006,Brazil,,,11,1949,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802905492,Brazil,,,12,1949,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802898314,Brazil,,,2,1948,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137934,Brazil,,,2,1948,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137950,Brazil,,,4,1948,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802898823,Brazil,,,11,1948,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090594612,Brazil,-30.019139,-51.237222,11,1947,PRESERVED_SPECIMEN,MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802898234,Brazil,,,,1947,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802893772,Brazil,,,2,1946,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802893974,Brazil,,,2,1946,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691088,Brazil,,,2,1946,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691059,Brazil,,,3,1946,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413721781,Brazil,0,0,3,1946,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424150850,Brazil,,,,1946,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802889183,Brazil,,,1,1945,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802890128,Brazil,,,2,1945,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1320365693,Brazil,,,3,1945,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1098202634,Brazil,0,0,3,1945,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090588783,Brazil,0,0,3,1945,PRESERVED_SPECIMEN,FCAB - Herbário Friburguense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260732392,Brazil,,,3,1945,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137751,Brazil,,,4,1945,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691033,Brazil,,,4,1945,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413717327,Brazil,0,0,4,1945,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1317235045,Brazil,,,4,1945,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802891250,Brazil,,,10,1945,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097668931,Brazil,-30.037029514436625,-51.230764822093995,10,1945,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802894069,Brazil,,,10,1945,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802891534,Brazil,,,11,1945,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413717021,Brazil,0,0,3,1944,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137876,Brazil,,,3,1944,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802889164,Brazil,,,10,1944,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802888773,Brazil,,,,1944,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802891697,Brazil,,,1,1943,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802886932,Brazil,,,,1943,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802884929,Brazil,,,1,1942,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802884944,Brazil,,,1,1942,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087611355,Brazil,0,0,2,1942,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530065,Brazil,0,0,2,1942,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097637587,Brazil,-23.54416359441145,-46.630406352220334,3,1942,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691037,Brazil,,,3,1942,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087563218,Brazil,0,0,3,1942,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095539864,Brazil,0,0,3,1942,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213579350,Brazil,0,0,3,1942,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291047261,Brazil,0,0,3,1942,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087611328,Brazil,0,0,3,1942,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691051,Brazil,,,3,1942,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691063,Brazil,,,3,1942,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413721378,Brazil,0,0,3,1942,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095539872,Brazil,0,0,3,1942,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318367942,Brazil,,,3,1942,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318650149,Brazil,,,3,1942,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1213579283,Brazil,0,0,3,1942,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137845,Brazil,,,3,1942,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413721422,Brazil,0,0,3,1942,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1291047243,Brazil,0,0,3,1942,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137924,Brazil,,,3,1942,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087611385,Brazil,0,0,7,1942,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077520392,Brazil,0,0,1,1941,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095277021,Brazil,0,0,2,1941,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424138050,Brazil,,,4,1941,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260731479,Brazil,,,,1941,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090535900,Brazil,-23.4339,-45.0711,2,1940,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413716916,Brazil,0,0,2,1940,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1077520272,Brazil,0,0,2,1940,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413716815,Brazil,0,0,2,1940,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413716885,Brazil,0,0,2,1939,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090534321,Brazil,-23.5475,-46.6361,2,1939,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090534401,Brazil,-23.1864,-46.8842,4,1939,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090534416,Brazil,-23.1864,-46.8842,4,1939,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413720821,Brazil,0,0,4,1939,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413716893,Brazil,0,0,4,1939,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413716764,Brazil,0,0,3,1938,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095275702,Brazil,0,0,2,1937,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137962,Brazil,,,4,1937,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424150822,Brazil,,,2,1936,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097242470,Brazil,-23.591462,-46.698324,1,1935,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413716590,Brazil,0,0,1,1935,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1320988643,Brazil,,,,1935,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691068,Brazil,,,2,1933,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137988,Brazil,,,5,1931,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1806846595,Brazil,0,0,11,1931,PRESERVED_SPECIMEN,SMDB - Santa Maria Departamento de Biologia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1802877624,Brazil,,,11,1931,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691096,Brazil,,,3,1930,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319542920,Brazil,,,3,1930,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1090833092,Brazil,0,0,3,1930,PRESERVED_SPECIMEN,VIC - Herbário da Universidade Federal de Viçosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260731961,Brazil,,,3,1930,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097820182,Brazil,-20.766686,-42.860644,3,1930,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1138451626,Brazil,,,3,1930,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+439519997,Brazil,-23.78333,-46.31667,2,1929,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691057,Brazil,-23.78,-46.32,2,1929,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1322507196,Brazil,-23.78,-46.32,2,1929,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097259234,Brazil,-23.78,-46.32,2,1929,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1320725104,Brazil,-22.47,-44.63,4,1929,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1098410517,Brazil,-22.47,-44.63,4,1929,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691061,Brazil,-22.47,-44.63,4,1929,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260672720,Brazil,,,3,1925,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1318924882,Brazil,,,7,1923,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260730731,Brazil,,,2,1921,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1317871972,Brazil,,,3,1917,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413715919,Brazil,0,0,6,1917,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1322959046,Brazil,,,2,1915,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413716050,Brazil,0,0,3,1915,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260731199,Brazil,,,,1915,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1321442648,Brazil,,,3,1914,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1098185413,Brazil,0,0,3,1914,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097264366,Brazil,0,0,4,1914,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260730320,Brazil,,,,1914,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137784,Brazil,,,2,1913,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691084,Brazil,,,2,1912,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097719312,Brazil,-24.340602,-49.713647,4,1911,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319969829,Brazil,,,3,1910,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1260728585,Brazil,,,,1909,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1098428922,Brazil,-23.54416359441145,-46.630406352220334,2,1908,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413716201,Brazil,0,0,2,1908,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097607660,Brazil,0,0,2,1908,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+437820762,Brazil,,,1,1907,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413716199,Brazil,0,0,1,1906,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137817,Brazil,,,6,1903,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087277235,Brazil,0,0,2,1899,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087277203,Brazil,0,0,3,1893,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087611372,Brazil,0,0,2,1884,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+439519996,Brazil,,,4,1881,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+439474177,Brazil,,,4,1879,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1319260991,Brazil,,,4,1879,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438141185,Brazil,,,4,1874,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086998941,Brazil,,,1,1873,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+439186933,Brazil,,,1,1873,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+439474178,Brazil,,,4,1870,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1321383450,Brazil,,,4,1869,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438187703,Brazil,,,5,1866,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1839822597,Brazil,,,6,1854,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438853678,Brazil,,,1,1845,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438474588,Brazil,,,11,1842,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+439140995,Brazil,,,1,1841,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438853679,Brazil,,,2,1839,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+437528510,Brazil,,,2,1834,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+437697893,Brazil,,,,1833,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097703037,Brazil,0,0,3,1832,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1051232405,Brazil,,,1,1827,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1051232341,Brazil,,,1,1827,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1051232354,Brazil,,,2,1827,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1051232367,Brazil,,,2,1827,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1051232392,Brazil,,,2,1827,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+439186932,Brazil,,,2,1826,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1051232379,Brazil,,,10,1826,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097797693,Brazil,-23.5941602003288,-48.05020447835628,12,1825,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+464766240,Brazil,,,1,1821,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1257521899,Brazil,,,,1817,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438474565,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438820203,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+437808073,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438474566,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+437155577,Brazil,,,1,1811,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438187372,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1321789414,Brazil,,,,,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1230761948,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+437861363,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135837108,Brazil,,,,,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087473184,Brazil,0,0,,,PRESERVED_SPECIMEN,"OUPR - Herbário ""Professor José Badini""",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691055,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1051232416,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097511239,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1228281898,Brazil,-10.8339,-52.8731,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1440664115,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424137937,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1230772117,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1440664228,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+437488575,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1321461100,Brazil,-23.17,-44.28,,,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691047,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1839822540,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691091,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691049,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1138859109,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691010,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+416922234,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413716327,Brazil,0,0,,,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1440664189,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1097111232,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095530863,Brazil,0,0,,,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1839822550,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1086606439,Brazil,,,,,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424731434,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095423601,Brazil,0,0,,,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+439519994,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1144599243,Brazil,-10.77306,-53.08972,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691060,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1141637970,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1230762274,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095288796,Brazil,0,0,,,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+416922462,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+465197258,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691089,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1135854562,Brazil,,,,,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438860480,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095365372,Brazil,0,0,,,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095275615,Brazil,0,0,,,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+439519998,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+437521652,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1440664176,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1839861436,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1230761888,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691074,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1839822630,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087711602,Brazil,,,,,PRESERVED_SPECIMEN,LUSC - Herbário de Lages da Universidade do Estado de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087473190,Brazil,0,0,,,PRESERVED_SPECIMEN,"OUPR - Herbário ""Professor José Badini""",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+895197426,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1424291910,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1413716213,Brazil,0,0,,,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+437476079,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1440664166,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691050,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+912691021,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+438199096,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+416922237,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1138451639,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1440664126,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095290988,Brazil,0,0,,,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1900839834,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1839822525,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1095290773,Brazil,0,0,,,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1087585523,Brazil,0,0,,,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia
+1440664258,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia

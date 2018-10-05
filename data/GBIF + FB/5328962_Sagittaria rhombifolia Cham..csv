@@ -1,0 +1,402 @@
+key,country,decimalLatitude,decimalLongitude,month,year,basisOfRecord,datasetName,kingdom,phylum,class,order,family,genus,species
+1303590529,Brazil,-22.928222,-53.699361,11,2015,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1094917275,Brazil,-13.016667,-41.4275,8,2013,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1913569333,Brazil,-6.104722,-50.466667,7,2012,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1853942393,Brazil,-18.980722,-53.193528,10,2012,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1853942355,Brazil,-20.544678,-54.399267,10,2012,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1213667368,Brazil,-17.721944,-50.079722,10,2012,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1213667421,Brazil,-17.721944,-50.079722,10,2012,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1563409711,Brazil,-18.667056,-55.179528,11,2012,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424446856,Brazil,-18.666944,-55.295278,11,2012,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090750735,Brazil,-18.667056,-55.179528,11,2012,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090750719,Brazil,-18.667056,-55.179528,11,2012,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1042696483,Brazil,-9.935444,-56.12,9,2011,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089100817,Brazil,0,0,10,2011,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1042690709,Brazil,,,10,2011,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1913567655,Brazil,-6.341944,-50.427778,2,2010,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1913568220,Brazil,-6.027778,-50.2925,5,2010,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1042683783,Brazil,1.420917,-60.99,7,2010,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089089954,Brazil,1.420917,-60.985028,7,2010,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1042684615,Brazil,,,7,2010,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1042683373,Brazil,,,9,2010,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1042684158,Brazil,1.986921,-60.99,9,2010,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089093964,Brazil,0,0,9,2010,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1913567011,Brazil,-6.336111,-50.163333,3,2009,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1844893358,Brazil,-7.850556,-47.943055,5,2009,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1913579815,Brazil,-7.850555,-47.943055,5,2009,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090528039,Brazil,-7.275556,-47.547222,9,2009,PRESERVED_SPECIMEN,HUTO - Herbário da Universidade de Tocantins,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1913574235,Brazil,-18.112778,-53.746194,3,2008,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1042700819,Brazil,,,3,2008,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089249506,Brazil,0,0,6,2008,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1316179025,Brazil,-13.389944,-57.62075,10,2008,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098472513,Brazil,0,0,2,2007,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641904,Brazil,-13.796361,-55.889667,4,2007,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1913566853,Brazil,-6.354722,-50.388056,12,2007,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1889185380,Brazil,0,0,1,2006,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090692364,Brazil,,,1,2006,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087181239,Brazil,,,9,2006,PRESERVED_SPECIMEN,BHZB - Herbário do Jardim Botânico da Fundação Zoo-Botânica de Belo Horizonte,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090736943,Brazil,-20.565333,-54.416972,12,2006,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098472568,Brazil,0,0,12,2006,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098472557,Brazil,0,0,12,2006,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090737010,Brazil,-20.655917,-54.363,12,2006,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098472087,Brazil,0,0,1,2005,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090750921,Brazil,-19.567083,-56.121944,8,2005,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848741763,Brazil,-19.4803,-39.7772,9,2005,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1426752315,Brazil,-16.158667,-55.805083,11,2005,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089244013,Brazil,0,0,2,2004,PRESERVED_SPECIMEN,EAC - Herbário Prisco Bezerra,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095237122,Brazil,-12.914166,-47.5675,3,2004,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090735407,Brazil,,,4,2004,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090734610,Brazil,-18.666861,-52.86275,10,2004,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424244221,Brazil,-14.296667,-46.989444,10,2004,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089073381,Brazil,0,0,1,2003,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095316001,Brazil,0,0,5,2003,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090750947,Brazil,-19.376667,-57.047528,6,2003,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1213620759,Brazil,-18.56593,-48.21478,,2003,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641914,Brazil,-15.050111,-47.067583,1,2002,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090730217,Brazil,,,2,2002,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090803053,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090750942,Brazil,-19.3275,-54.166389,3,2002,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090730279,Brazil,,,3,2002,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090750958,Brazil,-22.324083,-53.448417,4,2002,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087624451,Brazil,-15.666528,0,5,2002,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077281528,Brazil,0,0,5,2002,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095594694,Brazil,0,0,5,2002,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+56654263,Brazil,,,5,2002,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089076176,Brazil,0,0,6,2002,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090750943,Brazil,-18.600556,-54.551139,9,2002,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090803055,Brazil,0,0,9,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090733529,Brazil,,,9,2002,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1426752273,Brazil,-18.604472,-56.831194,9,2002,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090803051,Brazil,0,0,10,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090803067,Brazil,0,0,10,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090803049,Brazil,0,0,10,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090803050,Brazil,0,0,11,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090803052,Brazil,0,0,11,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090803060,Brazil,0,0,11,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090803066,Brazil,0,0,12,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090803057,Brazil,0,0,12,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090803068,Brazil,0,0,12,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089059618,Brazil,0,0,1,2001,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089064981,Brazil,0,0,1,2001,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089068304,Brazil,0,0,7,2001,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1135950431,Brazil,-17.842194,-57.402667,9,2001,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089059908,Brazil,0,0,1,2000,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089063054,Brazil,0,0,9,2000,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089064570,Brazil,-20.706389,-52.577778,10,2000,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090750946,Brazil,,,11,2000,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077323835,Brazil,,,11,2000,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098469987,Brazil,0,0,12,2000,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090730084,Brazil,,,12,2000,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641895,Brazil,,,11,1999,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641566,Brazil,,,11,1999,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641591,Brazil,,,11,1999,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641558,Brazil,,,11,1999,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1657218434,Brazil,-15.540711,-51.242175,11,1999,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090788071,Brazil,0,0,11,1999,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095241510,Brazil,,,11,1999,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1849302769,Brazil,,,11,1999,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090801017,Brazil,0,0,12,1999,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090788179,Brazil,0,0,12,1999,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090788176,Brazil,0,0,12,1999,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077320879,Brazil,-19.926667,-56.217778,4,1998,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077321022,Brazil,-18.678611,-56.896944,5,1998,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090730649,Brazil,-18.251667,-53.463889,8,1998,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+197206064,Brazil,-18.263,-53.466,8,1998,HUMAN_OBSERVATION,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090729494,Brazil,-18.45,-53.428611,8,1998,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090728390,Brazil,,,8,1998,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077321866,Brazil,-19.128333,-55.343056,8,1998,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1455890843,Brazil,-19.128333,-55.343055,8,1998,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090784406,Brazil,0,0,10,1998,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641896,Brazil,,,12,1998,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848118244,Brazil,0,0,1,1997,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197817,Brazil,,,1,1997,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197805,Brazil,,,1,1997,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1086895081,Brazil,,,1,1997,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089047785,Brazil,0,0,1,1997,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095542884,Brazil,0,0,1,1997,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089047787,Brazil,0,0,1,1997,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1135922530,Brazil,,,1,1997,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1135922518,Brazil,,,1,1997,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848118246,Brazil,0,0,1,1997,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089053001,Brazil,0,0,4,1997,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641584,Brazil,,,5,1997,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641632,Brazil,,,5,1997,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641559,Brazil,,,5,1997,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641587,Brazil,,,5,1997,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641609,Brazil,,,5,1997,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641888,Brazil,,,5,1997,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641562,Brazil,,,5,1997,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641563,Brazil,,,5,1997,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641615,Brazil,,,5,1997,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641579,Brazil,,,5,1997,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090727852,Brazil,,,8,1997,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097393455,Brazil,-19,-57.5,9,1997,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197746,Brazil,-19.471944,-57.044167,9,1997,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090748270,Brazil,-19.475556,-57.044167,9,1997,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095575383,Brazil,-19.466667,-57.033333,9,1997,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641232,Brazil,-19.475556,-57.044167,9,1997,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090783548,Brazil,0,0,9,1997,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089049027,Brazil,0,0,10,1997,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089049538,Brazil,0,0,10,1997,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641869,Brazil,,,10,1997,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848118243,Brazil,0,0,10,1997,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089052509,Brazil,0,0,10,1997,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090783588,Brazil,0,0,11,1997,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424482239,Brazil,-15.161111,-45.761667,12,1997,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077318916,Brazil,-18.351944,-54.953611,2,1996,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077318924,Brazil,-16.353611,-56.645,2,1996,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077319593,Brazil,-15.874167,-56.048611,3,1996,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089047804,Brazil,0,0,7,1996,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197832,Brazil,,,7,1996,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848118158,Brazil,0,0,8,1996,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098468605,Brazil,0,0,10,1996,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077318070,Brazil,-15.120833,-57.147778,5,1995,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083862,Brazil,-15.12083,-57.14778,5,1995,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083868,Brazil,,,5,1995,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077563033,Brazil,0,0,6,1995,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197835,Brazil,,,6,1995,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087535473,Brazil,0,0,6,1995,PRESERVED_SPECIMEN,HUESB - Herbário da Universidade Estadual do Sudoeste da Bahia,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1086951351,Brazil,0,0,6,1995,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089047780,Brazil,-22.2,-47.75,7,1995,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848118051,Brazil,-22.2,-47.75,7,1995,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095569600,Brazil,0,0,9,1995,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1138666975,Brazil,-16.366667,-56.616667,11,1995,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095557031,Brazil,0,0,11,1995,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+575343877,Brazil,,,11,1995,PRESERVED_SPECIMEN,Royal Botanic Garden Edinburgh Herbarium,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1094747819,Brazil,-20.811944,-44.567778,1,1994,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077318076,Brazil,-19.016667,-57.65,2,1994,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083853,Brazil,-19.01667,-57.65,2,1994,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641908,Brazil,,,2,1993,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641605,Brazil,,,2,1993,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089069023,Brazil,0,0,3,1993,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098469244,Brazil,-17.941667,-17,3,1993,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083732,Brazil,-17,-56.5,3,1993,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089068981,Brazil,0,0,3,1993,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077315032,Brazil,-19.233333,-56.95,3,1993,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083860,Brazil,-16.16667,-55.8,4,1993,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077315469,Brazil,-16.15,-55.8,4,1993,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089079582,Brazil,0,0,4,1993,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083861,Brazil,-16.15,-55.8,4,1993,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077314683,Brazil,-16.35,-56.633333,4,1993,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077315507,Brazil,-16.166667,-55.8,4,1993,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077315036,Brazil,-18.983333,-57.666667,5,1993,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089069035,Brazil,0,0,5,1993,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089069045,Brazil,0,0,5,1993,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089069008,Brazil,0,0,5,1993,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083731,Brazil,56.58333,-16.38333,6,1993,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087584217,Brazil,0,0,7,1993,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083852,Brazil,,,7,1993,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087584164,Brazil,0,0,7,1993,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1257979362,Brazil,-19.016667,-57.65,9,1993,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077318083,Brazil,-19.016667,-57.65,9,1993,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083854,Brazil,-19.01667,-57.65,9,1993,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077315529,Brazil,,,11,1993,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083863,Brazil,-19.21667,-57.41667,12,1993,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077316173,Brazil,-19.216667,-57.416667,12,1993,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089069041,Brazil,0,0,2,1992,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089027169,Brazil,0,0,4,1992,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089069007,Brazil,0,0,4,1992,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089069032,Brazil,0,0,4,1992,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089068997,Brazil,0,0,4,1992,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098468341,Brazil,-16.933333,-56.883333,5,1992,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098467112,Brazil,-16.4,-56.383333,6,1992,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098469919,Brazil,-16.4,-56.633333,6,1992,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077313693,Brazil,-19.483333,-56.383333,7,1992,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848118224,Brazil,0,0,11,1992,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098468297,Brazil,0,0,11,1992,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848118226,Brazil,0,0,11,1992,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848118227,Brazil,0,0,11,1992,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098468277,Brazil,0,0,11,1992,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077313020,Brazil,-19.483333,-56.383333,2,1991,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089069019,Brazil,0,0,8,1991,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089026689,Brazil,0,0,2,1990,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077312415,Brazil,-19.233333,-57.05,4,1990,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077312396,Brazil,-19.233333,-57.05,4,1990,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089022404,Brazil,0,0,10,1990,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077312789,Brazil,-19.15,-56.85,12,1990,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077310523,Brazil,,,3,1989,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077311057,Brazil,-16.483333,-56.7,5,1989,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090713894,Brazil,0,0,10,1989,PRESERVED_SPECIMEN,UFG - Herbário da Universidade Federal de Goiás,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077310651,Brazil,-18.983333,-56.65,10,1988,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083865,Brazil,-18.98333,-56.65,10,1988,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083864,Brazil,,,11,1988,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077310678,Brazil,,,11,1988,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077310787,Brazil,-19.633333,-57.166667,12,1988,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1077308098,Brazil,-17.833333,-55.333333,2,1987,PRESERVED_SPECIMEN,CPAP - Herbário CPAP,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1796395522,Brazil,2.8926074299130553,-61.49879341402339,3,1987,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1265915315,Brazil,-10.682222,-36.728889,8,1987,PRESERVED_SPECIMEN,MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1265915318,Brazil,-10.682222,-36.728889,9,1987,PRESERVED_SPECIMEN,MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097673628,Brazil,-11.9819,-45.3453,11,1987,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1094726638,Brazil,-11.966667,-45.483333,11,1987,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089075360,Brazil,0,0,11,1987,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1135841660,Brazil,,,1,1985,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095288172,Brazil,0,0,1,1985,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097686884,Brazil,-11.183333,-50.733333,10,1985,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1042664377,Brazil,-11.183333,-50.73,10,1985,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083837,Brazil,-11.18333,-50.73333,10,1985,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1899742211,Brazil,0,0,6,1984,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095457708,Brazil,0,0,9,1984,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083822,Brazil,,,9,1984,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890640143,Brazil,,,11,1984,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890639565,Brazil,,,11,1984,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890641222,Brazil,,,11,1984,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089003589,Brazil,0,0,8,1983,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1899742214,Brazil,0,0,10,1983,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1899742219,Brazil,0,0,10,1983,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1899742226,Brazil,0,0,11,1983,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090724749,Brazil,,,11,1983,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095296808,Brazil,0,0,11,1983,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1899742246,Brazil,0,0,11,1983,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098467080,Brazil,0,0,3,1982,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098467103,Brazil,0,0,5,1982,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098467074,Brazil,0,0,6,1982,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087322255,Brazil,0,0,6,1982,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087575425,Brazil,0,0,7,1982,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1211322709,Brazil,0,0,7,1982,PRESERVED_SPECIMEN,HEPH - Herbário Ezechias Paulo Heringer,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098468080,Brazil,0,0,10,1982,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098467106,Brazil,0,0,5,1981,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197947,Brazil,,,7,1980,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1797075900,Brazil,0,0,7,1980,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098468070,Brazil,0,0,7,1980,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197886,Brazil,,,9,1980,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197937,Brazil,,,10,1980,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098468069,Brazil,0,0,11,1980,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197771,Brazil,-15.966667,-52.1,6,1979,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1140817015,Brazil,,,2,1978,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083834,Brazil,,,3,1978,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1088992043,Brazil,0,0,4,1978,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1088992031,Brazil,0,0,6,1978,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197850,Brazil,,,10,1978,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095419351,Brazil,0,0,1,1977,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+56654261,Brazil,,,1,1977,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083821,Brazil,,,1,1977,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087564786,Brazil,0,0,10,1977,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197959,Brazil,-11.183333,-50.316667,11,1977,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424198262,Brazil,-15.550278,-60.116667,11,1977,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083847,Brazil,,,11,1977,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1042466302,Brazil,,,5,1975,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095404504,Brazil,0,0,9,1975,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1138478433,Brazil,,,11,1975,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197854,Brazil,,,6,1974,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095399991,Brazil,0,0,9,1974,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098072300,Brazil,0,0,9,1974,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1260798797,Brazil,,,9,1974,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097778262,Brazil,-13.9331,-47.3324,3,1973,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097316794,Brazil,-13.9331,-47.3324,3,1973,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095396679,Brazil,0,0,8,1973,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095396660,Brazil,0,0,8,1973,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095385808,Brazil,0,0,4,1971,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097147614,Brazil,-15.8,-48.77,1,1968,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083823,Brazil,,,1,1968,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197896,Brazil,-12.9,-51.866667,4,1968,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097774744,Brazil,-12.9,-51.87,4,1968,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098120891,Brazil,-14.73,-52.33,5,1968,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087257229,Brazil,0,0,5,1968,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1260798737,Brazil,-12.85,-51.75,8,1968,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097231420,Brazil,-12.85,-51.75,8,1968,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848118020,Brazil,0,0,8,1968,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848118235,Brazil,0,0,9,1968,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098016110,Brazil,-12.85,-51.75,9,1968,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097062095,Brazil,-12.82,-51.77,9,1968,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1139851622,Brazil,-12.816667,-51.766667,10,1968,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098033012,Brazil,-12.82,-51.77,10,1968,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197904,Brazil,,,10,1968,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424198227,Brazil,-12.816667,-51.766667,10,1968,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087257248,Brazil,0,0,12,1967,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097549864,Brazil,-15.29047,-47.08283,4,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083824,Brazil,,,4,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083838,Brazil,,,4,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1139372141,Brazil,,,4,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1139908453,Brazil,,,4,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098161979,Brazil,-12.366949404311992,-44.97337391849302,4,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097681392,Brazil,-12.366949404311992,-44.97337391849302,4,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095427640,Brazil,0,0,4,1966,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1138364833,Brazil,,,4,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1137981664,Brazil,,,4,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1260797993,Brazil,,,4,1966,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087257219,Brazil,0,0,9,1965,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087257215,Brazil,0,0,7,1964,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1138843948,Brazil,,,7,1964,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098420292,Brazil,-9.57077590312253,-48.39219095204594,7,1964,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097814973,Brazil,-15.63,-47.78,8,1964,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424198256,Brazil,,,10,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424198360,Brazil,,,8,1963,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098078783,Brazil,0,0,8,1963,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098105824,Brazil,0,0,8,1963,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097482991,Brazil,-22.242,-47.142,12,1959,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095396673,Brazil,0,0,8,1958,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097087590,Brazil,-27.820008837865625,-50.326484642461686,12,1956,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890639549,Brazil,,,12,1956,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890639550,Brazil,,,12,1956,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1042704201,Brazil,,,11,1954,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890639666,Brazil,-19.666667,-43.916667,5,1952,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1097205020,Brazil,-19.67,-43.92,5,1952,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424198378,Brazil,,,8,1950,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848118000,Brazil,0,0,9,1947,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848117792,Brazil,0,0,9,1947,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424198351,Brazil,,,11,1946,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1802895968,Brazil,,,12,1946,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424197863,Brazil,,,4,1945,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848117998,Brazil,0,0,2,1941,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848117997,Brazil,0,0,11,1940,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848117788,Brazil,0,0,9,1939,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089027945,Brazil,0,0,8,1938,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848117992,Brazil,0,0,11,1938,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424198273,Brazil,,,4,1937,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848117987,Brazil,0,0,4,1927,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890639139,Brazil,,,9,1927,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848117781,Brazil,0,0,3,1915,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890640262,Brazil,,,11,1915,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+665653189,Brazil,,,,1913,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848915155,Brazil,-10,-55,,1913,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424198346,Brazil,,,,1912,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890638617,Brazil,,,2,1911,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890638775,Brazil,,,2,1911,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890638598,Brazil,,,6,1911,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890639881,Brazil,,,6,1911,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848117898,Brazil,0,0,10,1910,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890640195,Brazil,,,1,1909,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848117783,Brazil,0,0,10,1907,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1228596278,Brazil,-10.8339,-52.8731,5,1903,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1314815291,Brazil,,,5,1903,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890639006,Brazil,,,12,1903,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890639102,Brazil,,,9,1902,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848118001,Brazil,0,0,1,1901,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848117899,Brazil,0,0,1,1893,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890638562,Brazil,,,9,1892,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1098125145,Brazil,-15.540916979484612,-47.334633050797336,10,1884,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848915047,Brazil,-10,-55,2,1846,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1260798612,Brazil,,,,1839,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+439355867,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+217083851,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089292913,Brazil,-0.116667,-51.1,,,PRESERVED_SPECIMEN,HAMAB - Herbário Amapaense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1264707222,Brazil,0,0,,,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1848914988,Brazil,-10,-55,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1094885860,Brazil,-11.621389,-46.041111,,,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1094885823,Brazil,-11.621389,-46.041111,,,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1094885869,Brazil,-11.621389,-46.041111,,,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089293032,Brazil,-0.016667,-51.1,,,PRESERVED_SPECIMEN,HAMAB - Herbário Amapaense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+912474244,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+417045788,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+574916069,Brazil,,,,,PRESERVED_SPECIMEN,Royal Botanic Garden Edinburgh Herbarium,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1228485387,Brazil,-10.8339,-52.8731,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090477535,Brazil,-19.463333,-57.045,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+665653167,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1314815355,Brazil,-6.341944,-50.427778,,,UNKNOWN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1259773199,Brazil,,,,,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+912474250,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+417045801,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087257224,Brazil,-19.463333,-57.045,,,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090440142,Brazil,,,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1089293021,Brazil,0,-51.116667,,,PRESERVED_SPECIMEN,HAMAB - Herbário Amapaense,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890638958,Brazil,,,,,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1211537196,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1094885834,Brazil,-11.621389,-46.041111,,,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890640633,Brazil,,,,,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1424198307,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1095292124,Brazil,0,0,,,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1094885847,Brazil,-11.621389,-46.041111,,,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1087589641,Brazil,0,0,,,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1228324647,Brazil,-10.8339,-52.8731,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1890640384,Brazil,,,,,PRESERVED_SPECIMEN,R - Herbário do Museu Nacional,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia
+1090453919,Brazil,-11.981944,-45.345278,,,PRESERVED_SPECIMEN,CEPEC - Herbário do Centro de Pesquisas do Cacau,Plantae,Tracheophyta,Liliopsida,Alismatales,Alismataceae,Sagittaria,Sagittaria rhombifolia

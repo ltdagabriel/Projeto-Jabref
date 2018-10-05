@@ -1,0 +1,883 @@
+key,country,decimalLatitude,decimalLongitude,month,year,basisOfRecord,datasetName,kingdom,phylum,class,order,family,genus,species
+1829089037,Brazil,-25.089722,-53.669417,2,2018,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1632856650,Brazil,-28.899167,-50.829722,2,2017,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1587295628,Brazil,-28.899244,-50.829814,2,2017,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1899742366,Brazil,-28.65,-50.9,3,2017,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1587329606,Brazil,-23.545277,-47.2075,1,2016,PRESERVED_SPECIMEN,CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1435461401,Brazil,-22.791667,-49.236944,1,2016,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1270106276,Brazil,-25.257111,-49.993825,1,2016,PRESERVED_SPECIMEN,HUEM - Herbário UEM,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1455706691,Brazil,-23.545278,-47.2075,1,2016,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1848245262,Brazil,-25.545,-49.236111,2,2016,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1837838991,Brazil,-10.8,-48.416667,5,2016,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1234555142,Brazil,-25.526944,-49.223333,1,2015,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1143421815,Brazil,-25.526944,-49.223333,1,2015,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1844430313,Brazil,-25.526944,-49.223333,1,2015,PRESERVED_SPECIMEN,VIES - Herbário Central da Universidade Federal do Espírito Santo VIES,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1275056369,Brazil,0,0,1,2015,PRESERVED_SPECIMEN,DVPR - Herbário da Universidade Tecnológica Federal do Paraná - Dois Vizinhos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1423900661,Brazil,-25.516667,-49.216667,1,2015,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1423905483,Brazil,-25.553333,-49.326944,2,2015,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213523534,Brazil,-26.292778,-49.216667,2,2015,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213678056,Brazil,-25.553333,-49.326944,2,2015,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1265913319,Brazil,0,0,5,2015,PRESERVED_SPECIMEN,HVAT - Herbário do Vale do Taquari,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1226941670,Brazil,-25.603472,-53.809833,10,2015,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1264696377,Brazil,-10.441001,-36.5945,11,2015,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1848244677,Brazil,-25.443611,-49.2375,12,2015,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077478810,Brazil,-24.061747,-52.408258,1,2014,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095633453,Brazil,-25.518156,-49.040083,1,2014,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1632856292,Brazil,,,1,2014,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1848251817,Brazil,-24.061747,-52.408258,1,2014,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424492286,Brazil,-25.518056,-49.04,1,2014,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1658209537,Brazil,-24.034229,-52.242973,1,2014,PRESERVED_SPECIMEN,DVPR - Herbário da Universidade Tecnológica Federal do Paraná - Dois Vizinhos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585201606,Brazil,-25.4493,-49.2385,2,2014,PRESERVED_SPECIMEN,EFC - Herbário Escola de Florestas Curitiba,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1837379473,Brazil,-17.748611,-51.546111,4,2014,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1099619710,Brazil,-29.838611,-50.194681,11,2014,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213677057,Brazil,-24.630131,-49.964264,1,2013,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1135949050,Brazil,-22.9643,-47.1821,2,2013,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1135947709,Brazil,-22.9643,-47.1821,2,2013,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1135947706,Brazil,-22.5262,-44.2232,2,2013,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1829095249,Brazil,-23.412778,-46.531444,4,2013,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087712217,Brazil,,,1,2012,PRESERVED_SPECIMEN,LUSC - Herbário de Lages da Universidade do Estado de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1848249447,Brazil,0,0,2,2012,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1701216110,Brazil,0,0,2,2012,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077418496,Brazil,-28.470833,-51.360556,2,2012,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087711480,Brazil,,,2,2012,PRESERVED_SPECIMEN,LUSC - Herbário de Lages da Universidade do Estado de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077475729,Brazil,-22.762139,-53.296083,3,2012,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095628352,Brazil,-23.911917,-52.754889,3,2012,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077475709,Brazil,-23.911917,-52.754889,3,2012,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086605583,Brazil,,,3,2012,PRESERVED_SPECIMEN,EFC - Herbário Escola de Florestas Curitiba,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077475694,Brazil,-23.2395,-53.247139,3,2012,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1265932732,Brazil,-22.130556,-47.777778,4,2012,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087689493,Brazil,-11.186056,-37.196417,11,2012,PRESERVED_SPECIMEN,ASE - Herbário da Universidade Federal de Sergipe,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1088034722,Brazil,0,0,11,2012,PRESERVED_SPECIMEN,DVPR - Herbário da Universidade Tecnológica Federal do Paraná - Dois Vizinhos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090706478,Brazil,-17.970833,-52.078889,6,2011,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090157353,Brazil,-25.297,-49.050861,1,2010,PRESERVED_SPECIMEN,IRAI - Herbário do Parque da Ciência Newton Freire Maia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090628813,Brazil,-31.3975,-52.688889,1,2010,PRESERVED_SPECIMEN,SPF - Herbário da Universidade de São Paulo,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086909881,Brazil,-24.073889,-49.081111,1,2009,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077473234,Brazil,-24.2095,-52.311667,5,2009,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585962901,Brazil,0,0,1,2008,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095342427,Brazil,-20.583056,-54.398056,2,2008,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095619121,Brazil,0,0,3,2008,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1089088997,Brazil,0,0,3,2008,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090704370,Brazil,-17.923056,-51.717222,5,2008,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090705055,Brazil,-17.859167,-51.725556,5,2008,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090705042,Brazil,-17.859167,-51.725556,6,2008,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077230593,Brazil,0,0,2,2007,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077502176,Brazil,0,0,2,2007,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095612788,Brazil,0,0,2,2007,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077289017,Brazil,0,0,2,2007,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086909876,Brazil,,,2,2007,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095347383,Brazil,0,0,2,2007,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424277757,Brazil,,,2,2007,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086961299,Brazil,0,0,2,2007,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095624120,Brazil,0,0,4,2007,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086964008,Brazil,0,0,4,2007,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077501243,Brazil,0,0,4,2007,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090701841,Brazil,,,8,2007,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424304525,Brazil,,,11,2007,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1314910692,Brazil,,,12,2007,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1089084998,Brazil,0,0,1,2006,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1089085015,Brazil,0,0,1,2006,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095614179,Brazil,0,0,2,2006,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1499617839,Brazil,0,0,2,2006,PRESERVED_SPECIMEN,UFG - Herbário da Universidade Federal de Goiás,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090702022,Brazil,-18.439444,-51.995278,2,2006,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086669783,Brazil,,,3,2006,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086665780,Brazil,,,3,2006,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090702368,Brazil,-18.439444,-51.995278,4,2006,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095335353,Brazil,0,0,1,2005,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077467215,Brazil,,,2,2005,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077467261,Brazil,,,3,2005,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086662314,Brazil,-25.433333,-49.233333,3,2005,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095612457,Brazil,0,0,3,2005,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086669236,Brazil,,,3,2005,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090702365,Brazil,-18.439444,-51.995278,4,2005,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090702352,Brazil,-18.439444,-51.995278,4,2005,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090702393,Brazil,-18.439444,-51.995278,4,2005,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+56603498,Brazil,,,1,2004,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077466069,Brazil,,,1,2004,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077466038,Brazil,,,1,2004,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095606125,Brazil,0,0,1,2004,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090758536,Brazil,,,1,2004,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095607313,Brazil,0,0,1,2004,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077280752,Brazil,0,0,1,2004,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095605387,Brazil,0,0,1,2004,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424144287,Brazil,,,1,2004,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077503344,Brazil,0,0,2,2004,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646718,Brazil,,,2,2004,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077498085,Brazil,0,0,2,2004,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090758533,Brazil,,,2,2004,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090758548,Brazil,,,2,2004,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1135910352,Brazil,,,2,2004,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424144257,Brazil,,,2,2004,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095606573,Brazil,0,0,3,2004,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095606524,Brazil,0,0,3,2004,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1089077311,Brazil,-21.825,-46.954167,3,2004,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090807398,Brazil,0,0,3,2004,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077498319,Brazil,0,0,3,2004,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077379743,Brazil,,,3,2004,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1796119413,Brazil,0,0,3,2004,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1089077306,Brazil,-21.825,-46.954167,3,2004,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1135913324,Brazil,,,3,2004,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090734307,Brazil,-19.304583,-51.089167,4,2004,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090702363,Brazil,-18.439444,-51.995278,7,2004,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090734660,Brazil,-18.369722,-53.003417,10,2004,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090798515,Brazil,0,0,1,2003,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090161726,Brazil,0,0,1,2003,PRESERVED_SPECIMEN,IRAI - Herbário do Parque da Ciência Newton Freire Maia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086914192,Brazil,,,1,2003,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1135906083,Brazil,,,1,2003,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086602856,Brazil,-25.6686,-51.4767,3,2003,PRESERVED_SPECIMEN,EFC - Herbário Escola de Florestas Curitiba,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086651628,Brazil,,,3,2003,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1094795758,Brazil,-12.231944,-39.076389,8,2003,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095603399,Brazil,0,0,10,2003,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090735182,Brazil,,,1,2002,PRESERVED_SPECIMEN,CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095592664,Brazil,0,0,1,2002,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585962612,Brazil,0,0,1,2002,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086898972,Brazil,,,1,2002,PRESERVED_SPECIMEN,SPSF - Herbário Dom Bento José Pickel,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090814175,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1094785677,Brazil,,,2,2002,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087628516,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1440665684,Brazil,,,2,2002,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077277462,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1272059727,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,HEPH - Herbário Ezechias Paulo Heringer,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090145937,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,HUFSJ - Herbário da Universidade Federal de São João Del Rei,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090690538,Brazil,,,2,2002,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213581290,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095592631,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095592618,Brazil,0,0,2,2002,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1423931774,Brazil,,,3,2002,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1135905108,Brazil,,,3,2002,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086950535,Brazil,0,0,3,2002,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1094789425,Brazil,,,3,2002,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077496748,Brazil,0,0,3,2002,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077497389,Brazil,0,0,3,2002,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1675525970,Brazil,0,0,3,2002,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424144274,Brazil,,,3,2002,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802940525,Brazil,,,3,2002,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095593518,Brazil,0,0,3,2002,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141810,Brazil,,,3,2002,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077280250,Brazil,0,0,3,2002,PRESERVED_SPECIMEN,CESJ - Herbário Leopoldo Krieger,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1632856283,Brazil,0,0,11,2002,PRESERVED_SPECIMEN,ALCB - Herbário Alexandre Leal Costa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077423671,Brazil,,,11,2002,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077580895,Brazil,0,0,11,2002,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077481648,Brazil,,,11,2002,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424498293,Brazil,,,11,2002,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090797843,Brazil,0,0,11,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090796550,Brazil,0,0,11,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090797845,Brazil,0,0,12,2002,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090794003,Brazil,0,0,2,2001,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095333230,Brazil,0,0,4,2001,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1571565885,Brazil,0,0,4,2001,PRESERVED_SPECIMEN,UFMT - Herbário UFMT,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585962627,Brazil,-14.978611,-45.903889,11,2001,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090800313,Brazil,-14.978611,-45.903889,12,2001,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090798404,Brazil,0,0,1,2000,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095305163,Brazil,0,0,1,2000,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1099301485,Brazil,,,1,2000,PRESERVED_SPECIMEN,HPL - Herbário do Jardim Botânico Plantarum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077493192,Brazil,0,0,2,2000,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+188382996,Brazil,,,2,2000,PRESERVED_SPECIMEN,"Colección de plantas vasculares de Brasil del Herbario ""Jaime Andrés Rodríguez"". LEB-Brasil",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413721755,Brazil,0,0,2,2000,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+188382879,Brazil,,,2,2000,PRESERVED_SPECIMEN,"Colección de plantas vasculares de Brasil del Herbario ""Jaime Andrés Rodríguez"". LEB-Brasil",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1234422019,Brazil,,,2,2000,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077493706,Brazil,0,0,2,2000,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097110283,Brazil,-29.068136,-50.973769,2,2000,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+199486384,Brazil,,,2,2000,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1099301456,Brazil,,,3,2000,PRESERVED_SPECIMEN,HPL - Herbário do Jardim Botânico Plantarum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087238168,Brazil,0,0,3,2000,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1275056419,Brazil,0,0,3,2000,PRESERVED_SPECIMEN,DVPR - Herbário da Universidade Tecnológica Federal do Paraná - Dois Vizinhos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086948604,Brazil,0,0,3,2000,PRESERVED_SPECIMEN,FUEL - Herbário da Universidade Estadual de Londrina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1234550743,Brazil,,,3,2000,PRESERVED_SPECIMEN,FURB - Herbário Dr. Roberto Miguel Klein,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095593539,Brazil,0,0,10,2000,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260753981,Brazil,,,,2000,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585962554,Brazil,-22.333333,-49.383333,2,1999,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1318440298,Brazil,-15.2308,-45.8164,2,1999,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1321252435,Brazil,-15.2319,-45.6475,2,1999,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1135917633,Brazil,,,2,1999,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090785014,Brazil,0,0,2,1999,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213580823,Brazil,0,0,3,1999,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090564813,Brazil,-22.85608,-47.09312,3,1999,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1094757934,Brazil,,,3,1999,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585199975,Brazil,-25.4473,-49.2361,3,1999,PRESERVED_SPECIMEN,EFC - Herbário Escola de Florestas Curitiba,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319442192,Brazil,,,3,1999,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090788556,Brazil,0,0,12,1999,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090699899,Brazil,-17.923056,-51.717222,8,1998,PRESERVED_SPECIMEN,HJ - Herbario Jataiense Prof. Germano Guarim Neto,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1089053250,Brazil,0,0,1,1997,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1571563196,Brazil,0,0,1,1997,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213581288,Brazil,0,0,4,1997,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090783151,Brazil,0,0,10,1997,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095535240,Brazil,0,0,2,1996,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086599066,Brazil,,,2,1996,PRESERVED_SPECIMEN,EFC - Herbário Escola de Florestas Curitiba,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095537342,Brazil,0,0,2,1996,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413721666,Brazil,-21.6,-47.566667,2,1996,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086977420,Brazil,,,3,1996,PRESERVED_SPECIMEN,TEPB - Herbário Graziela Barroso,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095537315,Brazil,0,0,3,1996,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213581321,Brazil,0,0,3,1996,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090779043,Brazil,0,0,3,1996,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090774141,Brazil,0,0,1,1995,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090774049,Brazil,0,0,1,1995,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090773987,Brazil,0,0,1,1995,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1318187411,Brazil,,,1,1995,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213581304,Brazil,0,0,1,1995,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1500374970,Brazil,0,0,2,1995,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087591301,Brazil,0,0,2,1995,PRESERVED_SPECIMEN,BHCB - Herbário da Universidade Federal de Minas Gerais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1316172126,Brazil,0,0,2,1995,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1096823372,Brazil,,,2,1995,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090557829,Brazil,-22.9056,-47.0608,2,1995,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260757637,Brazil,,,10,1995,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095528400,Brazil,0,0,12,1995,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095559312,Brazil,0,0,2,1994,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095305807,Brazil,0,0,2,1994,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090771982,Brazil,0,0,3,1994,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086628880,Brazil,,,4,1994,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1228387364,Brazil,-18,-44,6,1994,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090772440,Brazil,0,0,6,1994,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1316182799,Brazil,0,0,6,1994,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1837439753,Brazil,0,0,2,1993,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413720690,Brazil,0,0,3,1992,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413720577,Brazil,0,0,1,1991,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086624696,Brazil,,,2,1991,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095298229,Brazil,0,0,3,1990,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1135841669,Brazil,,,5,1989,PRESERVED_SPECIMEN,ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585961949,Brazil,0,0,5,1989,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095473903,Brazil,0,0,2,1987,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095473802,Brazil,0,0,2,1987,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532185,Brazil,0,0,3,1987,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532181,Brazil,0,0,1,1986,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585961941,Brazil,0,0,1,1986,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141815,Brazil,,,1,1986,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095469558,Brazil,0,0,1,1986,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532191,Brazil,0,0,2,1986,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585961876,Brazil,0,0,3,1986,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095320674,Brazil,0,0,3,1986,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260678470,Brazil,,,1,1985,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424143588,Brazil,,,1,1985,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424144992,Brazil,,,1,1984,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585961820,Brazil,-22.3,-47.216667,2,1984,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585961848,Brazil,0,0,2,1984,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086629584,Brazil,,,2,1984,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090680912,Brazil,-22.3,-47.216667,2,1984,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413720016,Brazil,0,0,3,1984,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087248629,Brazil,-20.8,-51.716667,3,1984,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087323173,Brazil,-23.783333,-46.316667,5,1984,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087319667,Brazil,0,0,3,1983,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142737,Brazil,-9.583333,-54.583333,4,1983,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098067213,Brazil,-25.431982428804794,-49.2736972819373,1,1982,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095434334,Brazil,0,0,1,1982,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260755617,Brazil,,,1,1982,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1042533339,Brazil,,,2,1982,PRESERVED_SPECIMEN,"Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213581260,Brazil,0,0,2,1982,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095434327,Brazil,0,0,2,1982,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086617572,Brazil,,,2,1982,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1322422952,Brazil,,,2,1982,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585961774,Brazil,0,0,2,1982,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095434344,Brazil,0,0,2,1982,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413719892,Brazil,0,0,3,1982,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413719560,Brazil,0,0,1,1981,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095430233,Brazil,0,0,2,1981,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1320696313,Brazil,,,2,1981,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095295496,Brazil,0,0,7,1981,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095429472,Brazil,0,0,1,1980,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532174,Brazil,0,0,2,1980,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532186,Brazil,0,0,2,1980,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532201,Brazil,0,0,2,1980,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095432371,Brazil,0,0,6,1980,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532197,Brazil,0,0,1,1979,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319339100,Brazil,,,1,1979,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077431773,Brazil,,,1,1979,PRESERVED_SPECIMEN,HAS - Herbário Alarich Rudolf Holger Schultz,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532177,Brazil,0,0,3,1979,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532189,Brazil,0,0,3,1979,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532178,Brazil,0,0,3,1979,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532171,Brazil,0,0,4,1979,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532215,Brazil,0,0,1,1978,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1322605832,Brazil,,,1,1978,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095282843,Brazil,0,0,1,1978,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1259769091,Brazil,,,1,1978,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095420217,Brazil,0,0,1,1978,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095540313,Brazil,0,0,2,1978,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095422026,Brazil,0,0,2,1978,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1321324124,Brazil,,,2,1978,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1094729961,Brazil,,,2,1978,PRESERVED_SPECIMEN,HUEFS - Herbario da Universidade Estadual de Feira de Santana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319321285,Brazil,,,8,1978,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1317731444,Brazil,,,8,1978,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097464065,Brazil,-10.797204718067277,-49.62387185662098,8,1978,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095284341,Brazil,0,0,2,1977,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095284287,Brazil,0,0,2,1977,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141844,Brazil,,,2,1977,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532162,Brazil,0,0,3,1977,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141863,Brazil,,,3,1977,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1259041556,Brazil,,,2,1976,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141682,Brazil,,,2,1976,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413719222,Brazil,0,0,2,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413719357,Brazil,0,0,2,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413719349,Brazil,0,0,2,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424143523,Brazil,,,2,1976,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260755256,Brazil,,,2,1976,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413719229,Brazil,0,0,2,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319649368,Brazil,,,2,1976,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095428620,Brazil,0,0,2,1976,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413719362,Brazil,0,0,2,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1322623803,Brazil,,,3,1976,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413719289,Brazil,0,0,3,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1259057720,Brazil,,,3,1976,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1259059869,Brazil,,,3,1976,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413719293,Brazil,0,0,3,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319104450,Brazil,,,3,1976,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585961534,Brazil,0,0,3,1976,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413719330,Brazil,0,0,3,1976,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097316149,Brazil,0,0,3,1976,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1259055775,Brazil,,,3,1976,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532188,Brazil,0,0,1,1975,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086615796,Brazil,,,1,1975,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095400788,Brazil,0,0,1,1975,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532195,Brazil,0,0,2,1975,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532192,Brazil,0,0,2,1975,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532204,Brazil,0,0,3,1975,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1438490475,Brazil,0,0,4,1975,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087488557,Brazil,,,2,1974,PRESERVED_SPECIMEN,BOTU - Herbário Irina Delanova Gemtchújnicov,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532200,Brazil,0,0,3,1973,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532179,Brazil,0,0,4,1973,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424143525,Brazil,,,12,1973,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090799055,Brazil,0,0,2,1972,PRESERVED_SPECIMEN,HUFU - Herbarium Uberlandense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532172,Brazil,0,0,2,1972,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095512729,Brazil,0,0,2,1972,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095389775,Brazil,0,0,2,1972,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532222,Brazil,0,0,2,1972,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532163,Brazil,0,0,3,1972,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1139273674,Brazil,,,4,1972,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095274329,Brazil,0,0,4,1972,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095385690,Brazil,0,0,1,1971,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095385659,Brazil,0,0,1,1971,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141665,Brazil,,,2,1971,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095386344,Brazil,0,0,2,1971,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1317834985,Brazil,,,2,1971,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141759,Brazil,,,3,1971,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141895,Brazil,,,1,1970,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095385604,Brazil,0,0,2,1970,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090549370,Brazil,-24.0058,-48.3494,1,1969,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142443,Brazil,,,1,1969,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141864,Brazil,,,1,1969,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090549327,Brazil,-24.0058,-48.3494,1,1969,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142509,Brazil,,,1,1969,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413720817,Brazil,0,0,1,1969,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585962035,Brazil,0,0,1,1969,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095338374,Brazil,0,0,2,1969,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097963991,Brazil,-25.411967052493686,-52.416615216847475,2,1969,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095378894,Brazil,0,0,2,1969,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142449,Brazil,,,2,1969,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090550006,Brazil,-25.4078,-52.4161,2,1969,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090549695,Brazil,-23.5475,-46.6361,7,1969,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095376474,Brazil,0,0,1,1968,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437766430,Brazil,-12.81667,-51.76667,3,1968,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090550186,Brazil,-24.08,-54.2558,4,1968,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1317295204,Brazil,,,4,1968,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1318511380,Brazil,,,4,1968,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095376491,Brazil,0,0,4,1968,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097820131,Brazil,-24.083838358862035,-54.2565318092387,4,1968,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646733,Brazil,,,4,1968,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1137475068,Brazil,,,4,1968,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438143916,Brazil,,,5,1968,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646708,Brazil,,,5,1968,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646732,Brazil,-12.82,-51.77,10,1968,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141792,Brazil,-12.816667,-51.766667,10,1968,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097420127,Brazil,-12.82,-51.77,10,1968,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1141435956,Brazil,-12.816667,-51.766667,10,1968,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087248642,Brazil,0,0,10,1968,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438765369,Brazil,-12.81667,-51.76667,10,1968,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087248637,Brazil,0,0,10,1968,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090549273,Brazil,-22.870251,-47.077171,11,1968,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090549298,Brazil,-22.870251,-47.077171,11,1968,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095378333,Brazil,0,0,12,1968,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142472,Brazil,,,12,1968,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1139273684,Brazil,,,1,1967,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1138373767,Brazil,,,1,1967,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213581281,Brazil,0,0,2,1967,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1139273685,Brazil,,,2,1967,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413720863,Brazil,0,0,2,1967,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532170,Brazil,0,0,2,1967,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090548188,Brazil,-22.870251,-47.077171,2,1967,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1324596819,Brazil,,,2,1967,PRESERVED_SPECIMEN,HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413718590,Brazil,0,0,3,1967,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1137839920,Brazil,,,3,1967,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1140199536,Brazil,,,3,1967,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095377804,Brazil,0,0,3,1967,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097467992,Brazil,-25.930947,-52.075896,3,1967,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319469307,Brazil,,,3,1967,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646695,Brazil,,,7,1967,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097095228,Brazil,-15.78342080908068,-47.92987266614884,1,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213644158,Brazil,0,0,1,1966,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098218382,Brazil,0,0,1,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213554572,Brazil,0,0,1,1966,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1141569514,Brazil,,,1,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213554588,Brazil,0,0,1,1966,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1322818898,Brazil,,,1,1966,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142508,Brazil,,,1,1966,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319468532,Brazil,,,1,1966,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413718281,Brazil,0,0,1,1966,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087248671,Brazil,0,0,1,1966,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1139896039,Brazil,,,1,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646727,Brazil,,,1,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098068310,Brazil,-15.72,-47.9,1,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646748,Brazil,,,1,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095377625,Brazil,0,0,1,1966,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646746,Brazil,,,1,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1139485730,Brazil,,,2,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095418243,Brazil,0,0,2,1966,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1139629453,Brazil,,,2,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141636,Brazil,,,2,1966,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646697,Brazil,,,2,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095370850,Brazil,0,0,2,1966,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141698,Brazil,,,2,1966,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260753833,Brazil,,,5,1966,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087248620,Brazil,0,0,5,1966,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087248685,Brazil,0,0,5,1966,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213554575,Brazil,0,0,5,1966,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319032910,Brazil,,,5,1966,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097248852,Brazil,-14.13,-52.15,5,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098129801,Brazil,-12.945549969100009,-51.824917996180645,5,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1321449088,Brazil,,,5,1966,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1318471047,Brazil,,,5,1966,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095430145,Brazil,0,0,5,1966,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098084470,Brazil,-15.79234,-47.9167,5,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646740,Brazil,,,6,1966,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097734305,Brazil,-14.92,-52.32,6,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097350363,Brazil,-14.82,-52.32,6,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1314891149,Brazil,,,6,1966,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1318245708,Brazil,,,6,1966,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098218257,Brazil,-15.78342080908068,-47.92987266614884,12,1966,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141716,Brazil,,,12,1966,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141740,Brazil,,,12,1966,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142538,Brazil,,,1,1965,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424143504,Brazil,,,2,1965,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141757,Brazil,,,3,1965,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142511,Brazil,,,3,1965,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532166,Brazil,0,0,3,1965,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097676550,Brazil,-15.6333,-47.8167,10,1965,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413718344,Brazil,0,0,10,1965,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1320420909,Brazil,,,10,1965,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646745,Brazil,,,10,1965,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142484,Brazil,,,11,1965,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213554578,Brazil,0,0,11,1965,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260753189,Brazil,,,,1965,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095362843,Brazil,0,0,1,1964,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141689,Brazil,,,1,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141671,Brazil,,,1,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141658,Brazil,,,1,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646762,Brazil,,,1,1964,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646743,Brazil,,,1,1964,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141722,Brazil,,,1,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142588,Brazil,,,1,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646680,Brazil,,,1,1964,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141736,Brazil,,,1,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1320529901,Brazil,,,2,1964,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141650,Brazil,,,2,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142502,Brazil,,,2,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141890,Brazil,,,2,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142441,Brazil,,,2,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142461,Brazil,,,2,1964,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413717949,Brazil,0,0,3,1964,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1259769581,Brazil,,,,1964,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1318576363,Brazil,,,2,1963,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142516,Brazil,,,2,1963,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141732,Brazil,,,2,1963,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1272052417,Brazil,0,0,1,1962,PRESERVED_SPECIMEN,HEPH - Herbário Ezechias Paulo Heringer,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213554584,Brazil,0,0,1,1962,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141657,Brazil,,,1,1962,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098237826,Brazil,0,0,2,1962,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141886,Brazil,,,2,1962,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1141344107,Brazil,,,2,1962,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1321059721,Brazil,,,2,1962,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141703,Brazil,,,2,1962,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077326792,Brazil,,,2,1962,PRESERVED_SPECIMEN,FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142577,Brazil,,,2,1961,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095396402,Brazil,0,0,2,1961,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1272052268,Brazil,0,0,2,1961,PRESERVED_SPECIMEN,HEPH - Herbário Ezechias Paulo Heringer,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413717747,Brazil,0,0,2,1961,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213554569,Brazil,0,0,2,1961,PRESERVED_SPECIMEN,UB - Herbário da Universidade de Brasília,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1141335252,Brazil,,,4,1961,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095410537,Brazil,0,0,4,1961,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141727,Brazil,,,4,1961,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646701,Brazil,,,2,1960,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646710,Brazil,,,2,1960,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086608536,Brazil,,,3,1960,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141661,Brazil,,,3,1960,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086609096,Brazil,,,2,1959,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532182,Brazil,0,0,2,1959,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142545,Brazil,,,2,1959,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1141626632,Brazil,,,4,1959,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086607145,Brazil,,,1,1958,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142565,Brazil,,,1,1958,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1321262496,Brazil,,,1,1957,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1321045121,Brazil,,,1,1957,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319106375,Brazil,,,2,1957,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1321089121,Brazil,,,2,1957,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1320064805,Brazil,,,2,1957,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1318798661,Brazil,,,2,1957,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646736,Brazil,,,2,1957,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1317453455,Brazil,,,2,1957,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319625686,Brazil,,,2,1957,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097862762,Brazil,-26.19639287150527,-49.2662006010121,2,1957,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142574,Brazil,,,2,1957,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319738487,Brazil,,,2,1957,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095410498,Brazil,0,0,2,1957,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1318793983,Brazil,,,3,1957,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319381971,Brazil,,,3,1957,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802920892,Brazil,,,2,1956,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802920902,Brazil,,,2,1956,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802966392,Brazil,,,2,1956,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090693126,Brazil,,,2,1956,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090693128,Brazil,,,2,1956,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090693115,Brazil,,,2,1956,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802956462,Brazil,,,2,1956,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090693113,Brazil,,,2,1956,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1141674419,Brazil,,,6,1956,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141717,Brazil,,,9,1956,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319367239,Brazil,,,12,1956,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141637,Brazil,,,,1956,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141688,Brazil,,,,1956,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141648,Brazil,,,,1956,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141694,Brazil,,,,1956,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141697,Brazil,,,,1956,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141647,Brazil,,,,1956,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141674,Brazil,,,,1956,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090693099,Brazil,,,1,1955,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802917712,Brazil,,,1,1955,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802916489,Brazil,,,2,1955,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802916537,Brazil,,,2,1955,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802916518,Brazil,,,2,1955,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802914960,Brazil,,,2,1954,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142585,Brazil,,,4,1954,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1089107790,Brazil,0,0,4,1954,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802912114,Brazil,,,2,1952,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1320170056,Brazil,,,2,1952,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413717898,Brazil,0,0,2,1952,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141693,Brazil,,,2,1952,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319509013,Brazil,-29.3,-49.83,2,1952,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142610,Brazil,,,1,1951,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098217859,Brazil,0,0,1,1951,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095374935,Brazil,0,0,2,1951,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141708,Brazil,,,2,1951,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1141809285,Brazil,,,12,1951,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095276341,Brazil,0,0,1,1950,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142442,Brazil,,,1,1950,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090593593,Brazil,-31.771944,-52.342222,1,1950,PRESERVED_SPECIMEN,MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141905,Brazil,,,1,1950,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1322466666,Brazil,,,1,1950,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095276386,Brazil,0,0,1,1950,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646724,Brazil,,,3,1950,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585962189,Brazil,0,0,3,1950,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142481,Brazil,,,3,1950,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413721387,Brazil,0,0,3,1950,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260755039,Brazil,,,,1950,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413718890,Brazil,0,0,1,1949,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095276549,Brazil,0,0,1,1949,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141724,Brazil,,,1,1949,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1837439759,Brazil,0,0,1,1949,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585962479,Brazil,0,0,1,1949,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142453,Brazil,,,2,1949,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260678054,Brazil,,,2,1949,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424143550,Brazil,,,12,1949,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413717323,Brazil,0,0,1,1948,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141719,Brazil,,,1,1948,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1317978092,Brazil,,,1,1948,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142485,Brazil,,,2,1948,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319477600,Brazil,,,2,1948,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646728,Brazil,,,3,1948,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1259768823,Brazil,,,12,1948,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424143527,Brazil,,,,1948,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413717310,Brazil,0,0,1,1947,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802896238,Brazil,,,1,1947,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095410491,Brazil,0,0,1,1947,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802898023,Brazil,,,1,1947,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141720,Brazil,,,11,1947,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413717750,Brazil,0,0,11,1947,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1837439758,Brazil,0,0,11,1947,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802892908,Brazil,,,1,1946,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095276725,Brazil,0,0,2,1946,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095276545,Brazil,0,0,2,1946,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141816,Brazil,,,5,1946,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585962911,Brazil,0,0,5,1946,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585962190,Brazil,0,0,11,1946,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424143535,Brazil,,,11,1946,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1837439769,Brazil,-15.116667,-55.1,1,1944,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1322643200,Brazil,,,1,1944,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413717190,Brazil,0,0,1,1944,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413717188,Brazil,0,0,1,1944,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095277052,Brazil,0,0,2,1944,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090594361,Brazil,-28.284167,-52.786111,2,1944,PRESERVED_SPECIMEN,MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260754232,Brazil,,,,1944,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095410522,Brazil,0,0,1,1943,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090594410,Brazil,-29.918056,-51.183611,8,1943,PRESERVED_SPECIMEN,MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095276528,Brazil,0,0,1,1942,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802885476,Brazil,,,1,1942,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141696,Brazil,,,1,1942,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802885667,Brazil,,,1,1942,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802884880,Brazil,,,1,1942,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1585962912,Brazil,0,0,1,1942,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802885633,Brazil,,,1,1942,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802885724,Brazil,,,1,1942,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1802885791,Brazil,,,1,1942,PRESERVED_SPECIMEN,PACA-AGP - Herbarium Anchieta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095277043,Brazil,0,0,2,1942,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141712,Brazil,,,3,1942,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095276991,Brazil,0,0,2,1941,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1077520359,Brazil,0,0,1,1940,PRESERVED_SPECIMEN,IPA - Herbário - IPA Dárdano de Andrade Lima,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413716819,Brazil,0,0,1,1940,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095280401,Brazil,0,0,1,1940,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142496,Brazil,,,3,1940,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413716927,Brazil,0,0,6,1940,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413716888,Brazil,0,0,1,1939,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090534515,Brazil,-22.9056,-47.0608,1,1939,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1321716112,Brazil,,,1,1939,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090534340,Brazil,-22.9467,-47.3158,3,1939,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1318467202,Brazil,,,3,1939,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090763213,Brazil,0,0,12,1939,PRESERVED_SPECIMEN,SMDB - Santa Maria Departamento de Biologia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1265913315,Brazil,0,0,2,1937,PRESERVED_SPECIMEN,HVAT - Herbário do Vale do Taquari,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095275746,Brazil,0,0,2,1937,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095275718,Brazil,0,0,2,1937,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095275758,Brazil,0,0,3,1937,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1090531160,Brazil,-22.9056,-47.0608,1,1936,PRESERVED_SPECIMEN,IAC - Herbário do Instituto Agronômico de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319445639,Brazil,,,2,1934,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413716528,Brazil,0,0,4,1932,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1137521966,Brazil,,,4,1931,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1316171148,Brazil,0,0,5,1927,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097197075,Brazil,-22.434053,-46.809771,5,1927,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1316171149,Brazil,0,0,5,1927,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260755326,Brazil,,,5,1925,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1321570109,Brazil,,,2,1922,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1321652648,Brazil,,,3,1922,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1318819198,Brazil,,,5,1922,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413715978,Brazil,0,0,1,1919,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097962005,Brazil,0,0,6,1918,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1317962245,Brazil,,,1,1915,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098321789,Brazil,-24.340602,-49.713647,1,1915,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646722,Brazil,,,2,1915,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1320652388,Brazil,,,2,1915,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260754265,Brazil,,,2,1915,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438099533,Brazil,,,2,1915,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413716040,Brazil,0,0,1,1914,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141731,Brazil,,,1,1914,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646703,Brazil,,,5,1914,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097968207,Brazil,-24.340602,-49.713647,5,1914,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1322312586,Brazil,,,5,1914,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095581266,Brazil,0,0,5,1914,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413716041,Brazil,0,0,2,1913,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424142563,Brazil,,,4,1913,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646712,Brazil,,,2,1912,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260754555,Brazil,,,,1912,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1321280958,Brazil,,,2,1911,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097631583,Brazil,0,0,2,1911,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095581259,Brazil,0,0,2,1911,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413716179,Brazil,0,0,3,1908,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098085260,Brazil,-23.33,-46.77,7,1905,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413716184,Brazil,0,0,7,1905,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1096356611,Brazil,,,1,1902,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413716182,Brazil,0,0,12,1901,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087277076,Brazil,0,0,3,1898,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087277100,Brazil,0,0,1,1893,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087277107,Brazil,0,0,9,1889,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087277089,Brazil,0,0,5,1888,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098421581,Brazil,-22.413843272066163,-47.56046664147022,5,1888,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1087277085,Brazil,0,0,8,1888,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+439098886,Brazil,,,4,1881,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+439098888,Brazil,,,4,1881,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+439098887,Brazil,,,7,1881,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437104268,Brazil,,,6,1879,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438435525,Brazil,,,6,1879,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097540550,Brazil,-21.927438428090852,-46.3861849281818,12,1876,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1139896067,Brazil,,,1,1874,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+439098889,Brazil,,,1,1874,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437101357,Brazil,,,3,1870,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+439432422,Brazil,,,1,1862,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1322793234,Brazil,,,1,1855,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438102393,Brazil,,,1,1845,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437766428,Brazil,,,11,1843,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438432746,Brazil,,,11,1843,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+574686315,Brazil,,,,1837,PRESERVED_SPECIMEN,Royal Botanic Garden Edinburgh Herbarium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438765368,Brazil,,,2,1834,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438099535,Brazil,,,2,1834,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438099534,Brazil,,,2,1834,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437766426,Brazil,,,9,1834,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097725425,Brazil,0,0,,1834,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437766427,Brazil,,,1,1833,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437434276,Brazil,,,1,1833,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252630670,Brazil,,,2,1827,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252630646,Brazil,,,3,1827,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252630703,Brazil,,,3,1827,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098011354,Brazil,0,0,3,1826,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438765370,Brazil,,,3,1826,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437101356,Brazil,,,5,1819,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438768269,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437434275,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438102394,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437101355,Brazil,,,1,1816,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078581,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1231202880,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079666,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078576,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1839511647,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437104269,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078573,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512393,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512370,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078560,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079676,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079656,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512378,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646704,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095532176,Brazil,0,0,,,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1231211198,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+417088092,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078564,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095581260,Brazil,0,0,,,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079678,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1839407066,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097001086,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512377,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079668,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646709,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078579,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512394,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512372,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1086617747,Brazil,,,,,PRESERVED_SPECIMEN,UPCB - Herbário do Departamento de Botânica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424143520,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512401,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512421,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095338307,Brazil,0,0,,,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1099053868,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1231210958,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078574,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078568,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438102941,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438765364,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724511454,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512369,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512395,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079693,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097635088,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1228305148,Brazil,-10.8339,-52.8731,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1424141683,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512373,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078563,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078583,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512396,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079687,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512398,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413716163,Brazil,0,0,,,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079654,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+575111788,Brazil,,,,,PRESERVED_SPECIMEN,Royal Botanic Garden Edinburgh Herbarium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079670,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1231203040,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+417088093,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512423,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724511446,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079689,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1440666189,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1259770259,Brazil,,,,,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512392,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512425,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1231202955,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095373086,Brazil,0,0,,,PRESERVED_SPECIMEN,MBM - Herbário do Museu Botânico Municipal,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1213528056,Brazil,0,0,,,PRESERVED_SPECIMEN,HUCS - Herbário da Universidade de Caxias do Sul,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724511439,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+417088586,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512424,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079674,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512397,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1319032788,Brazil,,,,,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512399,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1099053885,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097448444,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+439432423,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079680,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724511452,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512391,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078585,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1144993400,Brazil,-18.78778,-45.44222,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724511450,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1675531100,Brazil,0,0,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079661,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724511443,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438765366,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413715958,Brazil,0,0,,,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+417088501,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097794897,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724511441,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512420,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646738,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1231210369,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078565,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095365427,Brazil,0,0,,,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1098427838,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078570,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512422,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+417088474,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+439252815,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646761,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1837439760,Brazil,0,0,,,PRESERVED_SPECIMEN,UEC - Herbário da Universidade Estadual de Campinas,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512400,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646690,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079681,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512376,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1260753796,Brazil,,,,,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646707,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+912404813,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+417088073,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1231202914,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438432745,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438432750,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646676,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1231202977,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079688,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095280459,Brazil,0,0,,,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097511591,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252638644,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512426,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438765367,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437919989,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1259769541,Brazil,,,,,PRESERVED_SPECIMEN,Tropicos,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646702,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512375,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079659,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079665,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512363,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079691,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438278767,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512374,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438101763,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+912404702,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078567,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437434278,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1317329348,Brazil,,,,,PRESERVED_SPECIMEN,NMNH Extant Biology,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079684,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512364,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+438765365,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512366,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1252646696,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079685,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1095275800,Brazil,0,0,,,PRESERVED_SPECIMEN,ICN - Herbário do Instituto de Ciências Naturais,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078562,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079672,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1144993305,Brazil,-18.78778,-45.44222,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1211547290,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1231203298,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097155487,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512368,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079683,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1144993322,Brazil,-10.77306,-53.08972,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724511448,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097239894,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078571,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079677,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512379,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1440666284,Brazil,,,,,PRESERVED_SPECIMEN,RB - Rio de Janeiro Botanical Garden Herbarium Collection,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+727382442,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078584,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512365,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1144797180,Brazil,-10.77306,-53.08972,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512371,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1144993403,Brazil,-18.78778,-45.44222,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+724512367,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+437436477,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1097132454,Brazil,0,0,,,PRESERVED_SPECIMEN,Vascular plants,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1099053873,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1840929652,Brazil,,,,,PRESERVED_SPECIMEN,HRCB - Herbário Rioclarense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699078577,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079657,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+699079663,Brazil,,,,,UNKNOWN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+912655019,Brazil,,,,,PRESERVED_SPECIMEN,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
+1413715955,Brazil,0,0,,,PRESERVED_SPECIMEN,"SP - Herbário do Estado ""Maria Eneyda P. Kaufmann Fidalgo"" - Coleção de Fanerógamas",Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus
