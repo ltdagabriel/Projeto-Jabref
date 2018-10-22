@@ -106,7 +106,7 @@ Cronograma do projeto | Modificar a documentação para refletir as mudanças ne
 -----------------------------|-------------------|-----------
 Release 01                   | 21/09/2018 | Gerenciamento do projeto e estudo das tecnologias
 Release 02                   | 05/10/2018 | Extração dos dados
-Release 03                   | 19/10/2018 | Visualização e correlação dos dados
+Release 03                   | 02/11/2018 | Visualização e correlação dos dados
 Release 04                   | 07/12/2018 | Entrega de documentos e avaliação do projeto
 
 # 9. Custo estimado do projeto
