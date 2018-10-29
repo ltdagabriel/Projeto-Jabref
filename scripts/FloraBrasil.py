@@ -1,8 +1,13 @@
-import csv
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import json
+from queue import Queue
+
+import pandas as pd
 from pathlib import Path
 
 import requests
+from bs4 import BeautifulSoup
 
 
 class FloraBrasil:
@@ -11,43 +16,75 @@ class FloraBrasil:
         self.scientific_name = None
         self.result = None
         self.path = Path('.')
-        exists = False
-        if len(list(self.path.glob('FloraBrasil_log.csv'))) > 0:
-            exists = True
-            with open('FloraBrasil_log.csv', 'r', encoding='utf-8') as f:
-                self.last = list(csv.reader(f))[-1]
-        self.f = open('FloraBrasil_log.csv', 'a+', encoding='utf-8')
-
-        self.log = csv.writer(self.f, lineterminator="\n")
-        if not exists:
-            self.log.writerow(["linha", "entrada", "Corridido", "Sucesso"])
+        self.file_name = 'FloraBrasil_log.csv'
+        self.file = Queue()
 
     def close(self):
-        self.f.close()
+        file = pd.DataFrame(columns=['Nome entrada', 'Status', 'Nome', 'Sinonimos'])
 
-    def search(self, query):
-        self.scientific_name = query.split(" ")
-        url = self.get_specie_info_url(query)
+        while not self.file.empty():
+            x = self.file.get()
+            file.loc[len(file)] = x
+            self.file.task_done()
+
+        file.to_csv(self.file_name, index=False)
+
+    def auto_complete(self, query):
+        text = query.split(" ")
 
         try:
+            while len(text) > 0:
+                q = ""
+                for x in text:
+                    q += x + " "
+                q = q[0:-1]
+                url = "http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/BemVindoConsultaPublicaAutoCompleteNomeCompleto.do?&idGrupo=5&nomeCompleto=" + q
+                y = requests.get(url)
+                x = json.loads(y.text)
+                if len(x) == 1:
+                    return x[0]
+                del text[-1]
+
+        except:
+            print("Err", query)
+            return ""
+
+    def search(self, query):
+        url = self.get_specie_info_url(query)
+        result = requests.get(url)
+        if result.status_code == 404:
+            return []
+
+        specie_json = json.loads(result.content)
+        if not specie_json['result']:
+            name = self.get_name_by_id(self.get_identificador(self.auto_complete(query)))
+
+            url = self.get_specie_info_url(name)
             result = requests.get(url)
+            if result.status_code == 404:
+                return []
+
             specie_json = json.loads(result.content)
 
-            if specie_json['result'] is None:
-                self.accepted_name = self.request_loop(self.scientific_name)
-            else:
-                self.accepted_name = self.get_corrected_specie_name(specie_json)
-            return self.accepted_name
-        except ConnectionError as e:
-            print(e)
+        if not specie_json['result']:
+            return []
+        return specie_json['result']
 
-        return None
+    def write(self, row):
+        self.file.put(row)
 
-    def run(self, query, index=None):
-        name = self.search(query)
-        self.log.writerow([index, query, name, name is not None])
-        self.f.flush()
-        return name
+    def run(self, query):
+        li = [query, "Não encontrado", None, []]
+        search = self.search(query)
+        if search:
+            i = search[0]
+            sinonimos = []
+            try:
+                sinonimos = [x['scientificname'] for x in i['SINONIMO']]
+            except:
+                pass
+            li = [query, i['taxonomicstatus'], i['scientificname'], sinonimos]
+        self.write(li)
 
     def get_corrected_specie_name(self, specie_json):  # called when result is not empty
         specie = specie_json['result']
@@ -98,6 +135,56 @@ class FloraBrasil:
                 print(e)
         return None
 
+    def get_name_by_id(self, id):
+        if not id:
+            return None
+        response = requests.get(
+            'http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do?&idDadosListaBrasil=' + id)
+        j = json.loads(response.text)
+        return j['nomeStr']
+
+    def get_identificador(self, query):
+        if not query: return None
+        params = (
+            ('invalidatePageControlCounter', '6'),
+            ('idsFilhosAlgas', '[2]'),
+            ('idsFilhosFungos', '[1,10,11]'),
+            ('lingua', ''),
+            ('grupo', '5'),
+            ('familia', 'null'),
+            ('genero', ''),
+            ('especie', ''),
+            ('autor', ''),
+            ('nomeVernaculo', ''),
+            ('nomeCompleto', query),
+            ('formaVida', 'null'),
+            ('substrato', 'null'),
+            ('ocorreBrasil', 'QUALQUER'),
+            ('ocorrencia', 'OCORRE'),
+            ('endemismo', 'TODOS'),
+            ('origem', 'TODOS'),
+            ('regiao', 'QUALQUER'),
+            ('estado', 'QUALQUER'),
+            ('ilhaOceanica', '32767'),
+            ('domFitogeograficos', 'QUALQUER'),
+            ('bacia', 'QUALQUER'),
+            ('vegetacao', 'TODOS'),
+            ('mostrarAte', 'SUBESP_VAR'),
+            ('opcoesBusca', 'TODOS_OS_NOMES'),
+            ('loginUsuario', 'Visitante'),
+            ('senhaUsuario', ''),
+            ('contexto', 'consulta-publica'),
+        )
+
+        response = requests.get(
+            'http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/BemVindoConsultaPublicaConsultar.do',
+            params=params)
+        x = BeautifulSoup(response.text, features="html.parser")
+        a = x.select_one("#carregaTaxonGrupoIdDadosListaBrasil")
+        return a['value']
+
     def get_specie_info_url(self, specie):
+        if not specie:
+            specie = ""
         url = "http://servicos.jbrj.gov.br/flora/taxon/" + specie
         return url
