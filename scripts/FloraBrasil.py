@@ -55,7 +55,7 @@ class FloraBrasil:
         if result.status_code == 404:
             return []
 
-        specie_json = json.loads(result.content)
+        specie_json = json.loads(result.text)
         if not specie_json['result']:
             name = self.get_name_by_id(self.get_identificador(self.auto_complete(query)))
 
@@ -64,7 +64,7 @@ class FloraBrasil:
             if result.status_code == 404:
                 return []
 
-            specie_json = json.loads(result.content)
+            specie_json = json.loads(result.text)
 
         if not specie_json['result']:
             return []
