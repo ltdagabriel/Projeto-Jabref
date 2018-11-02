@@ -87,7 +87,6 @@ class GBIF:
         parametros = ['scientificName', 'country', 'specificEpithet', 'decimalLatitude', 'decimalLongitude', 'month', 'year',
                       'datasetName', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'recordedBy']
         arr = []
-        print(occorencias[0].keys())
         for i in occorencias:
 
             obj = {}

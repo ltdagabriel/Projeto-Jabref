@@ -92,8 +92,17 @@ class Main:
 
     def run(self, threads=1, force=False):
         Tarefas(threads, self.species, self, ['flora', 'gbif', 'plant'], force=force)
+        self.close_flora(self.species)
+        self.close_gbif(self.species)
+        self.close_plant(self.species)
+
         a = pd.read_csv((self.path / 'FloraBrasil_log.csv').open('r', encoding='utf-8'))
         Tarefas(threads, a['species'].dropna(), self, ['splink'])
+        self.close_splink(a['species'].dropna())
+
+        b = pd.read_csv((self.path / 'ThePlantList_log.csv').open('r', encoding='utf-8'))
+        Tarefas(threads, b['species'].dropna(), self, ['splink'])
+        self.close_splink(b['species'].dropna())
         # self.plantXflora()
         # self.names_not_found()
 
@@ -135,13 +144,6 @@ class Tarefas:
                 self.q.put((j, item, 'do_work', force))
 
         self.q.join()
-        for item in attr:
-            for j in attr:
-                self.q.put((j, item, 'close', False))
-        t = threading.Thread(target=self.worker)
-        t.daemon = True
-        t.start()
-        self.q.join()
 
     def do_work(self, func, item, force):
         getattr(self.work, "do_work_" + func)(item, force)
@@ -163,4 +165,14 @@ if __name__ == "__main__":
         threads = int(sys.argv[1])
     main = Main()
     main.run(threads)
-    main.close()
+    del main
+
+    # sinonimos_FloraBrasil_log
+    main = Main('sinonimos_FloraBrasil_log.csv')
+    main.run(threads)
+    del main
+
+    # sinonimos_ThePlantList_log
+    main = Main('sinonimos_ThePlantList_log.csv')
+    main.run(threads)
+    del main

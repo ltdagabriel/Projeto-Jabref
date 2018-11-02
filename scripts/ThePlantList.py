@@ -57,12 +57,12 @@ class ThePlantList:
 
             x = html.select('h1')[1]
             if x:
-                genus =x.select_one(".genus").text
-                species =x.select_one(".species").text
-                autor =x.select_one(".authorship").text
-                obj.update({"scientificname": [genus +" "+ species+ " " + autor],
+                genus = x.select_one(".genus").text
+                species = x.select_one(".species").text
+                autor = x.select_one(".authorship").text
+                obj.update({"scientificname": [genus + " " + species + " " + autor],
                             "scientificnameauthorship": [autor],
-                            'species': [genus +" "+ species],
+                            'species': [genus + " " + species],
                             "status": [x.select_one('.subtitle > a').text]})
                 if len(rows) > 0:
                     sinonimos = []
@@ -82,10 +82,11 @@ class ThePlantList:
     def search(self, query):
         url = self.get_url(query)
         x = self.handle_genus_response(url)
-        if x:
+        if x and type(x) != type({}):
             x = self.handle_genus_response('http://www.theplantlist.org' + x)
-        x.update({"Nome entrada": query})
-        return x
+        if x:
+            x.update({"Nome entrada": query})
+            return x
 
     def close(self, plants):
         try:
@@ -102,16 +103,14 @@ class ThePlantList:
 
             file2 = []
             for x in list(plants):
-                z = list(self.output.glob('**/*%s.csv' % x))
+                z = list(self.output.glob('%s.csv' % x))
                 if len(z) > 0:
-                    file2.append(pd.read_csv(z[0].open('r', encoding='utf-8')))
+                    ass = pd.read_csv(z[0])
+                    file2.append(ass)
                 else:
                     file2.append(pd.DataFrame.from_dict({'Nome Entrada': [x]}))
-            x = list(filter(lambda x: len(x) > 0, file2))
             file = pd.concat(file2, sort=False)
-
             file.to_csv(self.path / self.file_name, index=False)
-
             print("Plantas salvas em:", self.path / self.file_name)
         except OSError as e:
             print(e)
@@ -129,10 +128,15 @@ class ThePlantList:
             file.loc[len(file)] = [i]
         file.to_csv(self.output / ('_' + query + '.sinonimos.csv'), index=False)
 
-    def run(self, query, index=None):
-        li = self.search(query)
+    def run(self, query, force=False):
+        if not force and len(list(self.output.glob('**/*%s.csv' % query))) > 0:
+            print('Ja encontrado: %s' % query)
+            return
 
-        self.write(li)
+        li = self.search(query)
+        print(li)
+        if li:
+            self.write(li, query)
         return li
 
 
