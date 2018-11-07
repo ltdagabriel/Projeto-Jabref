@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup
 
 from project import Project
 
-
 class ThePlantList:
     def __init__(self, file="ThePlantList_log.csv", path=Path('.')):
         self.sinonimos = []

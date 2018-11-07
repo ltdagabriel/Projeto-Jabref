@@ -16,13 +16,13 @@ from FloraBrasil import FloraBrasil
 from GBIF import GBIF
 from SpeciesLink import SpeciesLink
 from ThePlantList import ThePlantList
-
+import macrofitas_GUI
 
 class Main:
     def __init__(self, file=None):
-        self.Planilha1 = 'Planilha 1.xlsx'
-        self.Planilha2 = 'Planilha 2.xlsx'
-        self.Planilha3 = 'Planilha 3.xlsx'
+        self.Planilha1 = 'Planilha 1.xls'
+        self.Planilha2 = 'Planilha 2.xls'
+        self.Planilha3 = 'Planilha 3.xls'
         self.itens = []
 
         self.f_plant = True
@@ -93,37 +93,14 @@ class Main:
     def do_work_splink(self, query):
         self.splink.run(query, False)
 
-    def close_flora(self, plants):
-        return self.florabrasil.close(plants)
-
-    def close_plant(self, query):
-        return self.theplantlist.close(query)
-
-    def close_gbif(self, query):
-        return self.gbif.close(query)
-
-    def close_splink(self, header):
-        pass
-
-    def create_flora(self, header):
-        pass
-
-    def create_plant(self, header):
-        pass
-
-    def create_gbif(self, query):
-        pass
-
-    def create_splink(self, query):
-        pass
-
     def run_(self, site, queue, thread_list, index):
         while not self.task_done:
             task = self['queue_' + site].get()
             self['do_work_' + site](task)
             queue.put(('value', 1))
             self['queue_' + site].task_done()
-        sys.exit(1)
+            if macrofitas_GUI.stop_event.is_set():
+                exit(1)
 
     def run_occorence_(self, site, queue, thread_list, index):
         while not self.task_occorence_done:
@@ -132,17 +109,11 @@ class Main:
             queue.put(('value', 1))
             self['queue_' + site].task_done()
             self.queue_g_s.put((site, task))
-        sys.exit(1)
-
-    def names_not_found(self, files):
-        names = pd.read_csv(self.Planilha1)
-        x = names.loc[(names['plant status'].isnull() & names['flora status'].isnull())]
-        a = x['Nome Entrada']
-        a.to_csv('Nao encontrados.csv', index_label=False, index=False, header=True)
-        files.put(['Nao encontrados.csv'])
+            if macrofitas_GUI.stop_event.is_set():
+                exit(1)
 
     def gbif_splink(self, files, thread_list, index):
-        book = xlwt.Workbook(encoding="utf-8")
+        book = xlwt.Workbook()
         sheet1 = book.add_sheet("Planilha 3")
         sheet12 = book.add_sheet("Planilha 3 Não encontrados")
         header = ['Nome Entrada','Família', 'Filo', 'Ordem', 'Gênero', 'Classe', 'Espécie', 'Coletor', 'País', 'Latitude', 'Longitude']
@@ -178,14 +149,16 @@ class Main:
                     k += 1
                 except: pass
             self.queue_g_s.task_done()
+            if macrofitas_GUI.stop_event.is_set():
+                break
         book.save(self.Planilha3)
         files.put(self.Planilha3)
         print("File Save: %s" % self.Planilha3)
 
     def plantXflora(self, files, thread_list, index):
         # Initialize a workbook
-        book = xlwt.Workbook(encoding="utf-8")
-        book2 = xlwt.Workbook(encoding="utf-8")
+        book = xlwt.Workbook()
+        book2 = xlwt.Workbook()
 
         # Add a sheet to the workbook
         sheet1 = book.add_sheet("Planilha 1")
@@ -201,10 +174,8 @@ class Main:
         for i in range(len(header2)):
             sheet2.write(0, i, header2[i])
         k = 1
-        t = 1
+        t = 0
         t2 = 0
-        sheet12.write(0, 0, "Plant")
-        sheet12.write(0, 1, "Flora")
         while not self.task_done:
             task = self.queue_f_p.get()
             sheet1.write(k, 0, task)
@@ -270,20 +241,24 @@ class Main:
                             sheet2.write(k, 10, plant['sinonimos'][0])
                     continue_plant = True
                 if not continue_plant:
-                    sheet12.write(t, 0, task)
-                if not continue_flora2:
+                    sheet12.write(t, 0, 'plant')
                     sheet12.write(t, 1, task)
+                    t+=1
+                if not continue_flora2:
+                    sheet12.write(t, 0, 'flora')
+                    sheet12.write(t, 1, task)
+                    t+=1
                 if not continue_plant and not continue_flora2:
                     sheet22.write(t2, 0, task)
                     t2+=1
-                if not continue_plant or not continue_flora2:
-                    t += 1
                 sheet1.write(k, 5, xlwt.Formula(
                     'IF(AND(B%s = "",D%s = "");"";IF(AND(B%s=D%s, C%s = E%s) ;"Igual";"Diferente"))' % (
                         k + 1, k + 1, k + 1, k + 1, k + 1, k + 1)))
             except: pass
             self.queue_f_p.task_done()
             k += 1
+            if macrofitas_GUI.stop_event.is_set():
+                break
         # Save the workbook
         book.save(self.Planilha1)
         files.put(self.Planilha1)
@@ -292,27 +267,3 @@ class Main:
 
         print("File Save: %s" % self.Planilha1)
         print("File Save: %s" % self.Planilha2)
-        x = thread_list[index]
-        sys.exit(1)
-        #
-        # plant = pd.read_csv(self.theplantlist.file_name)
-        # flora = pd.read_csv(self.florabrasil.file_name)
-        #
-        # plantXflora = plant[['Nome Entrada', 'status', 'scientificname']].set_index('Nome Entrada').join(
-        #     flora[['Nome Entrada', 'taxonomicstatus', 'scientificname']].set_index('Nome Entrada'), lsuffix="_plant",
-        #     rsuffix='_flora').sort_values('Nome Entrada')
-        # plantXflora = plantXflora.replace('accepted', 'Aceito')
-        # plantXflora = plantXflora.replace('NOME_ACEITO', 'Aceito')
-        # plantXflora = plantXflora.replace('SINONIMO', 'Sinonimo')
-        # plantXflora = plantXflora.replace('synonym', 'Sinonimo')
-        # plantXflora['Flora x Plant'] = pd.np.where(
-        #     ((plantXflora['status'] == plantXflora['taxonomicstatus']) & (
-        #             plantXflora['scientificname_plant'] == plantXflora['scientificname_flora'])),
-        #     'Igual', 'Diferente')
-        # plantXflora = plantXflora.rename(index=str, columns={"status": "plant status",
-        #                                                      "scientificname_plant": "plant nome",
-        #                                                      "taxonomicstatus": "flora status",
-        #                                                      "scientificname_flora": "flora nome"})
-        # plantXflora.to_csv(self.plantxflora_name)
-        # files.put([self.plantxflora_name])
-        # self.names_not_found(files)
