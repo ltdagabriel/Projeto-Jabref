@@ -1,30 +1,36 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import json
+from pathlib import Path
 from queue import Queue
 
 import pandas as pd
-from pathlib import Path
-
 import requests
 from bs4 import BeautifulSoup
 from requests import ReadTimeout
 
+from project import Project
+
 
 class FloraBrasil:
-    def __init__(self, file="FloraBrasil_log.csv"):
+    def __init__(self, file="FloraBrasil_log.csv", path=Path('.')):
         self.accepted_name = None
         self.scientific_name = None
         self.result = None
-        self.path = Path('.')
+        self.path = path
         self.output = self.path / 'flora'
         self.output.mkdir(parents=True, exist_ok=True)
         self.file_name = file
         self.file = Queue()
         self.x = None
         self.y = None
-        self.header = None
-        self.sinonimos = Queue()
+        self.planilha = None
+
+    def _get(self, query):
+        z = list(self.output.glob('**/*%s.csv' % query))
+        if len(z) > 0:
+            return pd.read_csv(z[0].open('r', encoding='utf-8'))
+        return False
 
     def close(self, plants=[]):
         try:
@@ -35,8 +41,8 @@ class FloraBrasil:
                     file2.append(pd.read_csv(z[0].open('r', encoding='utf-8')))
             x = list(filter(lambda x: len(x) > 0, file2))
             file = pd.concat(x)
-
-            file.to_csv(self.path / ('sinonimos_' + self.file_name), index=False)
+            save = self.path / ('sinonimos_' + self.file_name)
+            file.to_csv(save, index=False)
             print("Sinonimos salvo em:", self.path / ('sinonimos_' + self.file_name))
 
             file2 = []
@@ -48,10 +54,11 @@ class FloraBrasil:
                     file2.append(pd.DataFrame.from_dict({'Nome Entrada': [x]}))
             x = list(filter(lambda x: len(x) > 0, file2))
             file = pd.concat(file2, sort=False)
-
+            save2 = self.path / self.file_name
             file.to_csv(self.path / self.file_name, index=False)
 
             print("Plantas salvas em:", self.path / self.file_name)
+            return [save, save2]
         except OSError as e:
             print(e)
             return
@@ -80,6 +87,7 @@ class FloraBrasil:
             print(e)
 
     def search(self, query):
+        if not query: return
         z = self.auto_complete(query)
         if not z:
             return None
@@ -111,9 +119,12 @@ class FloraBrasil:
     def run(self, query, force=False):
         try:
             if not force and len(list(self.output.glob('**/*%s.csv' % query))) > 0:
-                print('Ja encontrado: %s' % query)
+                print('[Flora log]: %s' % query)
                 return
             i = self.search(query)
+            if not i:
+                assss = Project()
+                i = self.search(assss.correct_name(query))
             if i:
                 out = {'Nome Entrada': [query], 'family': [None], 'genus': [None], 'scientificname': [None],
                        'specificepithet': [None],
@@ -134,7 +145,9 @@ class FloraBrasil:
                         out.update({j: [i[j]]})
                 out.update({'species': [i['nomeStr'][:i['nomeStr'].index(i['scientificnameauthorship'])]]})
 
-                self.write(out, query)
+                if out:
+                    self.write(out, query)
+                    print('[flora download]: %s' % query)
         except ReadTimeout as e:
             print(e)
         except ConnectionError as e:
@@ -178,7 +191,7 @@ class FloraBrasil:
             sci_name = sci_name.strip()
             url = self.get_specie_info_url(sci_name)
             try:
-                result = requests.get(url)
+                result = requests.get(url, timeout=20)
                 specie_json = json.loads(result.content)
                 if specie_json['result'] is not None:
                     # print(name_length)

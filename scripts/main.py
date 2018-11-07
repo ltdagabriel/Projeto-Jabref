@@ -1,178 +1,255 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import csv
+import os
 import sys
 import threading
+from pathlib import Path
 from queue import Queue
+from tkinter import Tk, Label, Frame, TOP, Scrollbar, RIGHT, Y, Listbox, SINGLE, LEFT, END, BOTTOM, filedialog
+from tkinter.ttk import Progressbar
 
 import pandas as pd
+import xlwt
 
-from SpeciesLink import SpeciesLink
-from ThePlantList import ThePlantList
 from FloraBrasil import FloraBrasil
 from GBIF import GBIF
-from pathlib import Path
-
-from Windows import Windows
+from SpeciesLink import SpeciesLink
+from ThePlantList import ThePlantList
 
 
 class Main:
     def __init__(self, file=None):
-        janela = Windows()
+        self.Planilha1 = 'Planilha 1.xlsx'
+        self.Planilha2 = 'Planilha 2.xlsx'
+        self.itens = []
 
+        self.f_plant = True
+        self.f_splink = True
+        self.f_flora = True
+        self.f_gbif = True
+
+        self.n_plant = 0
+        self.n_splink = 0
+        self.n_flora = 0
+        self.n_gbif = 0
+        self.n_plant_max = 0
+        self.n_splink_max = 0
+        self.n_flora_max = 0
+        self.n_gbif_max = 0
         try:
-            self.path = Path('.')
-            self.path.mkdir(parents=True, exist_ok=True)
 
-            if not file:
-                A = janela.openCSV()
-                file_input = Path(A)
-                janela.close()
-            else:
-                file_input = self.path / file
-            columns = ['species']
-            column_data = pd.read_csv(file_input.open("r", encoding='utf-8'))
-            self.species = column_data['species']
-            self.florabrasil = FloraBrasil()
-            self.theplantlist = ThePlantList()
-            self.splink = SpeciesLink()
-            self.gbif = GBIF()
-            # close Windows
+            file_input = Path(file)
+            self.path = file_input.parent
+            column_data = pd.ExcelFile(file_input)
+            self.species = column_data.parse(column_data.sheet_names[0])
+            head = self.species.columns.values.tolist()
+            self.species = head[:1] + list(self.species[head[0]])
+            self.queue_plant = Queue()
+            self.queue_flora = Queue()
+            self.queue_splink = Queue()
+            self.queue_gbif = Queue()
+            self.queue_f_p = Queue()
+            for i in self.species:
+                self.queue_flora.put(i)
+                # self.queue_gbif.put(i)
+                self.queue_plant.put(i)
+                # self.queue_splink.put(i)
 
-            file = self.path / 'MAIN_log.csv'
-            exists = False
-            if file.exists():
-                exists = True
-                with open('MAIN_log.csv', 'r', encoding='utf-8') as f:
-                    self.last = list(csv.reader(f))[-1]
-            self.f = open('MAIN_log.csv', 'a+', encoding='utf-8')
-
-            self.log = csv.writer(self.f, lineterminator="\n")
-            if not exists:
-                self.log.writerow(["linha", "entrada", "Corrigido", "baixado", 'comentario'])
+            # path = file_input.parent
+            path = Path('.')
+            self.florabrasil = FloraBrasil(path=path)
+            self.theplantlist = ThePlantList(path=path)
+            self.splink = SpeciesLink(path=path)
+            self.gbif = GBIF(path=path)
+            self.task_done = False
         except OSError as e:
             print(e)
 
-    def find_file(self, file):
-        if len(list(self.path.glob('**/*' + file + '.csv'))):
-            return True
-        return False
+    def __getitem__(self, x):
+        return getattr(self, x)
 
-    def close(self):
-        pass
-        # self.f.close()
-        # self.gbif.close()
-        # self.florabrasil.close()
-        # self.theplantlist.close()
+    def __setitem__(self, key, value):
+        setattr(self, key, value)
 
-    def do_work_flora(self, query, force):
-        self.florabrasil.run(query, force)
+    def get_item(self):
+        return self.itens
 
-    def do_work_gbif(self, query, force):
+    def get_(self, name, max=False):
+        return getattr(self, name + "_max" if max else "")
+
+    def do_work_flora(self, query):
+        self.florabrasil.run(query)
+
+    def do_work_gbif(self, query):
         self.gbif.run(query, False)
 
-    def do_work_plant(self, query, force):
-        self.theplantlist.run(query, force)
+    def do_work_plant(self, query):
+        self.theplantlist.run(query)
 
-    def do_work_splink(self, query, force):
+    def do_work_splink(self, query):
         self.splink.run(query, False)
 
     def close_flora(self, plants):
-        self.florabrasil.close(plants)
+        return self.florabrasil.close(plants)
 
     def close_plant(self, query):
-        self.theplantlist.close(query)
+        return self.theplantlist.close(query)
 
     def close_gbif(self, query):
-        self.gbif.close(query)
+        return self.gbif.close(query)
 
-    def close_splink(self, query):
-        self.splink.close(query)
+    def close_splink(self, header):
+        pass
 
-    def run(self, threads=1, force=False):
-        Tarefas(threads, self.species, self, ['flora', 'gbif', 'plant'], force=force)
-        self.close_flora(self.species)
-        self.close_gbif(self.species)
-        self.close_plant(self.species)
+    def create_flora(self, header):
+        pass
 
-        a = pd.read_csv((self.path / 'FloraBrasil_log.csv').open('r', encoding='utf-8'))
-        Tarefas(threads, a['species'].dropna(), self, ['splink'])
-        self.close_splink(a['species'].dropna())
+    def create_plant(self, header):
+        pass
 
-        b = pd.read_csv((self.path / 'ThePlantList_log.csv').open('r', encoding='utf-8'))
-        Tarefas(threads, b['species'].dropna(), self, ['splink'])
-        self.close_splink(b['species'].dropna())
-        # self.plantXflora()
-        # self.names_not_found()
+    def create_gbif(self, query):
+        pass
 
-    def names_not_found(self):
-        names = pd.read_csv("ThePlantList_x_FloraBrasil.csv")
-        x = names.loc[(names['Status_plant'].isnull() & names['Status_flora'].isnull())]
-        a = x['Nome entrada']
-        a.to_csv('Null_names.csv', index_label=False, index=False, header=True)
+    def create_splink(self, query):
+        pass
 
-    def plantXflora(self):
-        plant = pd.read_csv("ThePlantList_log.csv")
-        flora = pd.read_csv("FloraBrasil_log.csv")
+    def run_(self, site, queue, thread_list,index):
+        while not self.task_done:
+            task = self['queue_' + site].get()
+            self['do_work_' + site](task)
+            queue.put(('value', len(self.species) - self['queue_' + site].qsize()))
+            self['queue_' + site].task_done()
+        x = thread_list[index]
+        sys.exit(1)
+        # if self['f_' + site]:
+        #     self['f_' + site] = False
+        #     x = self['close_' + site](self.species)
+        #     for i in x:
+        #         files.put([i])
 
-        plantXflora = plant[['Nome entrada', 'Status', 'Nome']].set_index('Nome entrada').join(
-            flora[['Nome entrada', 'Status', 'Nome']].set_index('Nome entrada'), lsuffix="_plant",
-            rsuffix='_flora').sort_values('Nome entrada')
-        plantXflora = plantXflora.replace('accepted', 'Aceito')
-        plantXflora = plantXflora.replace('NOME_ACEITO', 'Aceito')
-        plantXflora = plantXflora.replace('SINONIMO', 'Sinonimo')
-        plantXflora = plantXflora.replace('Não encontrado', '')
-        plantXflora['Flora x Plant'] = pd.np.where(
-            ((plantXflora['Status_plant'] == plantXflora['Status_flora']) & (
-                    plantXflora['Nome_plant'] == plantXflora['Nome_flora'])),
-            'Igual', 'Diferente')
-        plantXflora.to_csv("ThePlantList_x_FloraBrasil.csv")
+    def names_not_found(self, files):
+        names = pd.read_csv(self.Planilha1)
+        x = names.loc[(names['plant status'].isnull() & names['flora status'].isnull())]
+        a = x['Nome Entrada']
+        a.to_csv('Nao encontrados.csv', index_label=False, index=False, header=True)
+        files.put(['Nao encontrados.csv'])
 
+    def plantXflora(self, files, thread_list,index):
+        # Initialize a workbook
+        book = xlwt.Workbook(encoding="utf-8")
+        book2 = xlwt.Workbook(encoding="utf-8")
 
-class Tarefas:
-    def __init__(self, num_worker_threads, tarefas, classe, attr, force=False):
-        self.q = Queue()
-        self.tarefas = tarefas
-        self.work = classe
-        for i in range(num_worker_threads):
-            t = threading.Thread(target=self.worker)
-            t.daemon = True
-            t.start()
-        for item in tarefas:
-            for j in attr:
-                self.q.put((j, item, 'do_work', force))
+        # Add a sheet to the workbook
+        sheet1 = book.add_sheet("Planilha 1")
+        sheet2 = book2.add_sheet("Planilha 2")
+        header = ['Nome Entrada', 'plant status', 'plant nome', 'flora status', 'flora nome', 'Flora x Plant']
+        header2 = ['Nome Entrada', 'family', 'genus', 'scientificname', 'scientificnameauthorship', 'taxonomicstatus',
+                   'formaVida', 'substrato', 'tipoVegetacao', 'origem', 'sinonimos']
+        # Write to the sheet of the workbook
+        for i in range(len(header)):
+            sheet1.write(0, i, header[i])
+        for i in range(len(header2)):
+            sheet2.write(0, i, header2[i])
+        k = 1
+        while not self.task_done:
+            task = self.queue_f_p.get()
+            sheet1.write(k, 0, task)
+            sheet2.write(k, 0, task)
+            continue_flora = False
+            continue_flora2 = False
 
-        self.q.join()
+            flora = self.florabrasil._get(task)
+            if type(flora) == type(pd.DataFrame()):
+                sheet1.write(k, 3, "Aceito" if flora['taxonomicstatus'][0] == 'NOME_ACEITO' else "Sinonimo")
+                sheet1.write(k, 4, flora['scientificname'][0])
+                if flora['taxonomicstatus'][0] == 'NOME_ACEITO':
+                    self.queue_gbif.put(task)
+                    self.queue_splink.put(task)
+                    continue_flora = True
 
-    def do_work(self, func, item, force):
-        getattr(self.work, "do_work_" + func)(item, force)
+                if 'family' in flora.columns.values.tolist():
+                    sheet2.write(k, 1, flora['family'][0])
 
-    def close(self, func, item, force):
-        getattr(self.work, "close_" + func)(self.tarefas)
+                if 'genus' in flora.columns.values.tolist():
+                    sheet2.write(k, 2, flora['genus'][0])
 
-    def worker(self):
-        while True:
-            item = self.q.get()
-            print("%s" % self.q.qsize())
-            getattr(self, item[2])(item[0], item[1], item[3])
-            self.q.task_done()
+                if 'scientificname' in flora.columns.values.tolist():
+                    sheet2.write(k, 3, flora['scientificname'][0])
 
+                if 'scientificnameauthorship' in flora.columns.values.tolist():
+                    sheet2.write(k, 4, flora['scientificnameauthorship'][0])
 
-if __name__ == "__main__":
-    threads = 100
-    if len(sys.argv) > 1:
-        threads = int(sys.argv[1])
-    main = Main()
-    main.run(threads)
-    del main
+                if 'taxonomicstatus' in flora.columns.values.tolist():
+                    sheet2.write(k, 5, "Aceito" if flora['taxonomicstatus'][0] == 'NOME_ACEITO' else "Sinonimo")
 
-    # sinonimos_FloraBrasil_log
-    main = Main('sinonimos_FloraBrasil_log.csv')
-    main.run(threads)
-    del main
+                if 'formaVida' in flora.columns.values.tolist():
+                    sheet2.write(k, 6, flora['formaVida'][0])
 
-    # sinonimos_ThePlantList_log
-    main = Main('sinonimos_ThePlantList_log.csv')
-    main.run(threads)
-    del main
+                if 'substrato' in flora.columns.values.tolist():
+                    sheet2.write(k, 7, flora['substrato'][0])
+
+                if 'tipoVegetacao' in flora.columns.values.tolist():
+                    sheet2.write(k, 8, flora['tipoVegetacao'][0])
+
+                if 'origem' in flora.columns.values.tolist():
+                    sheet2.write(k, 9, flora['origem'][0])
+
+                if 'sinonimos' in flora.columns.values.tolist():
+                    sheet2.write(k, 10, flora['sinonimos'][0])
+                continue_flora2 = True
+            plant = self.theplantlist._get(task)
+            if type(plant) == type(pd.DataFrame()):
+                sheet1.write(k, 1, "Aceito" if plant['status'][0] == 'accepted' else "Sinonimo")
+                sheet1.write(k, 2, plant['scientificname'][0])
+
+                if not continue_flora:
+                    if plant['status'][0] == 'accepted':
+                        self.queue_gbif.put(task)
+                        self.queue_splink.put(task)
+                if not continue_flora2:
+                    if 'scientificname' in plant.columns.values.tolist():
+                        sheet2.write(k, 3, plant['scientificname'][0])
+                    if 'scientificnameauthorship' in plant.columns.values.tolist():
+                        sheet2.write(k, 4, plant['scientificnameauthorship'][0])
+                    if 'status' in plant.columns.values.tolist():
+                        sheet2.write(k, 5, "Aceito" if plant['status'][0] == 'accepted' else "Sinonimo")
+                    if 'sinonimos' in plant.columns.values.tolist():
+                        sheet2.write(k, 10, plant['sinonimos'][0])
+
+            sheet1.write(k, 5, xlwt.Formula('IF(AND(B%s = "",D%s = "");"";IF(AND(B%s=D%s, C%s = E%s) ;"Igual";"Diferente"))' % (
+            k + 1,k + 1, k + 1, k + 1, k + 1, k + 1)))
+            self.queue_f_p.task_done()
+            k += 1
+        # Save the workbook
+        book.save(self.Planilha1)
+        files.put(self.Planilha1)
+        book2.save(self.Planilha2)
+        files.put(self.Planilha2)
+
+        print("File Save: %s" % self.Planilha1)
+        print("File Save: %s" % self.Planilha2)
+        x = thread_list[index]
+        sys.exit(1)
+        #
+        # plant = pd.read_csv(self.theplantlist.file_name)
+        # flora = pd.read_csv(self.florabrasil.file_name)
+        #
+        # plantXflora = plant[['Nome Entrada', 'status', 'scientificname']].set_index('Nome Entrada').join(
+        #     flora[['Nome Entrada', 'taxonomicstatus', 'scientificname']].set_index('Nome Entrada'), lsuffix="_plant",
+        #     rsuffix='_flora').sort_values('Nome Entrada')
+        # plantXflora = plantXflora.replace('accepted', 'Aceito')
+        # plantXflora = plantXflora.replace('NOME_ACEITO', 'Aceito')
+        # plantXflora = plantXflora.replace('SINONIMO', 'Sinonimo')
+        # plantXflora = plantXflora.replace('synonym', 'Sinonimo')
+        # plantXflora['Flora x Plant'] = pd.np.where(
+        #     ((plantXflora['status'] == plantXflora['taxonomicstatus']) & (
+        #             plantXflora['scientificname_plant'] == plantXflora['scientificname_flora'])),
+        #     'Igual', 'Diferente')
+        # plantXflora = plantXflora.rename(index=str, columns={"status": "plant status",
+        #                                                      "scientificname_plant": "plant nome",
+        #                                                      "taxonomicstatus": "flora status",
+        #                                                      "scientificname_flora": "flora nome"})
+        # plantXflora.to_csv(self.plantxflora_name)
+        # files.put([self.plantxflora_name])
+        # self.names_not_found(files)
