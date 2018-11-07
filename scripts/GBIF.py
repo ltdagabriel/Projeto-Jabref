@@ -17,6 +17,12 @@ class GBIF:
         self.output = self.path / 'Gbif'
         self.output.mkdir(parents=True, exist_ok=True)
 
+    def _get(self, query):
+        z = list(self.output.glob('**/*%s.csv' % query))
+        if len(z) > 0:
+            return pd.read_csv(z[0].open('r', encoding='utf-8'))
+        return []
+
     def close(self, plants):
         try:
             file2 = []
@@ -125,4 +131,8 @@ class GBIF:
 if __name__ == '__main__':
     gbif = GBIF()
     gbif.run('Justicia laevilinguis (Nees) Lindau')
-    gbif.close(['Justicia laevilinguis (Nees) Lindau'])
+    # gbif.close(['Justicia laevilinguis (Nees) Lindau'])
+    x = gbif._get('Justicia laevilinguis (Nees) Lindau')
+    for i in range(len(x)):
+        y = x.loc[i]
+        print(y.keys().tolist())

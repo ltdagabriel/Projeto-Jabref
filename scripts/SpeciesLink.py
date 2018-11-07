@@ -65,6 +65,13 @@ class SpeciesLink:
             self.load(query, file)
             print('[splink download]: %s' % query)
 
+    def _get(self, query):
+        x = (" ".join(query.split(" ")[:2]), query)
+        z = list(self.output.glob('**/*%s.csv' % x[0]))
+        if len(z) > 0:
+            return pd.read_csv(z[0].open('r', encoding='utf-8'))
+        return []
+
     def close(self, plants):
         try:
             file2 = []

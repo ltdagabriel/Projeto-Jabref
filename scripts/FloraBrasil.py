@@ -67,24 +67,21 @@ class FloraBrasil:
             return
 
     def auto_complete(self, query):
-        text = query.split(" ")
+        text = query
 
         try:
             while len(text) > 0:
-                q = ""
-                for x in text:
-                    q += x + " "
+                q = query
                 q = q[0:-1]
                 url = "http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/BemVindoConsultaPublicaAutoCompleteNomeCompleto.do?&idGrupo=5&nomeCompleto=" + q
                 y = requests.get(url, timeout=5)
                 x = json.loads(y.text)
                 if len(x) == 1:
                     return x[0]
-                del text[-1]
-        except ReadTimeout as e:
-            print(e)
-        except ConnectionError as e:
-            print(e)
+                if len(x) > 1:
+                    break
+                text= text[:-1]
+        except: pass
 
     def search(self, query):
         if not query: return

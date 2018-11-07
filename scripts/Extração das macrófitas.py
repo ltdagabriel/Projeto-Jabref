@@ -135,6 +135,9 @@ class ThreadedClient:
         self.run_flora()
         self.run_plant()
         self.run_flora_x_plant()
+        self.run_gbif()
+        self.run_splink()
+        self.run_gbif_splink()
         # Start the periodic call in the GUI to check if the queue contains
         # anything
         self.periodicCall()
@@ -151,15 +154,38 @@ class ThreadedClient:
                 self.main.queue_plant.qsize() < self.len_n_flora_plant:
             self.main.queue_f_p.put(self.main.species[self.len_n_flora_plant - 1])
             self.len_n_flora_plant -= 1
+
         while self.n_flora.qsize():
             s = self.n_flora.get()
-            self.flora[s[0]] = s[1]
+            if s[0] == 'value':
+                self.flora[s[0]] += s[1]
+            else:
+                self.flora[s[0]] = s[1]
             self.n_flora.task_done()
 
         while self.n_plant.qsize():
             s = self.n_plant.get()
-            self.plant[s[0]] = s[1]
+            if s[0] == 'value':
+                self.plant[s[0]] += s[1]
+            else:
+                self.plant[s[0]] = s[1]
             self.n_plant.task_done()
+
+        while self.n_gbif.qsize():
+            s = self.n_gbif.get()
+            if s[0] == 'value':
+                self.gbif[s[0]] += s[1]
+            else:
+                self.gbif[s[0]] = s[1]
+            self.n_gbif.task_done()
+
+        while self.n_splink.qsize():
+            s = self.n_splink.get()
+            if s[0] == 'value':
+                self.splink[s[0]] += s[1]
+            else:
+                self.splink[s[0]] = s[1]
+            self.n_splink.task_done()
 
         while self.files.qsize():
             s = self.files.get()
@@ -174,6 +200,11 @@ class ThreadedClient:
 
         if self.main.queue_flora.qsize() == 0 and self.main.queue_plant.qsize() == 0:
             self.main.task_done = True
+            if self.main.queue_gbif.qsize() == 0 and self.main.queue_splink.qsize() == 0:
+                self.gbif['value'] = len(self.main.species)
+                self.splink['value'] = len(self.main.species)
+                self.main.task_occorence_done = True
+
         self.master.after(100, self.periodicCall)
 
     def run_flora(self):
@@ -190,18 +221,23 @@ class ThreadedClient:
 
     def run_gbif(self):
         self.n_gbif.put(('maximum', len(self.main.species)))
-        thread = threading.Thread(target=self.main.run_, args=('gbif', self.n_gbif, self.thread,len(self.thread)))
+        thread = threading.Thread(target=self.main.run_occorence_, args=('gbif', self.n_gbif, self.thread,len(self.thread)))
         thread.start()
         self.thread.append(thread)
 
     def run_splink(self):
         self.n_splink.put(('maximum', len(self.main.species)))
-        thread = threading.Thread(target=self.main.run_, args=('splink', self.n_splink, self.thread,len(self.thread)))
+        thread = threading.Thread(target=self.main.run_occorence_, args=('splink', self.n_splink, self.thread,len(self.thread)))
         thread.start()
         self.thread.append(thread)
 
     def run_flora_x_plant(self):
         thread = threading.Thread(target= lambda :self.main.plantXflora(self.files, self.thread,len(self.thread)))
+        thread.start()
+        self.thread.append(thread)
+
+    def run_gbif_splink(self):
+        thread = threading.Thread(target= lambda :self.main.gbif_splink(self.files, self.thread,len(self.thread)))
         thread.start()
         self.thread.append(thread)
 
