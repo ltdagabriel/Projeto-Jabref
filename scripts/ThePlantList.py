@@ -93,7 +93,7 @@ class ThePlantList:
         z = list(self.output.glob('**/*%s.csv' % query))
         if len(z) > 0:
             return pd.read_csv(z[0].open('r', encoding='utf-8'))
-        return False
+        return []
 
     def close(self, plants):
         try:
@@ -116,7 +116,7 @@ class ThePlantList:
                     file2.append(ass)
                 else:
                     file2.append(pd.DataFrame.from_dict({'Nome Entrada': [x]}))
-            file = pd.concat(file2, sort=False)
+            file = pd.concat(file2) # sort=False
             save2 = self.path / self.file_name
             file.to_csv(save2, index=False)
             print("Plantas salvas em:", self.path / self.file_name)
@@ -155,5 +155,4 @@ class ThePlantList:
 
 if __name__ == "__main__":
     pl = ThePlantList()
-    print(pl._get('Panicum sabulorum Lam.')['status'][0])
-    # pl.run('Justicia laevilinguis (Nees) Lindau')
+    print(pl._get('Panicum sabulorum Lam.'))

@@ -12,14 +12,10 @@ from project import Project
 
 class SpeciesLink:
     def __init__(self, file='SpeciesLink_log.csv', path=Path('.')):
-        self.data = None
         self.array = []
         self.path = path
         self.output = self.path / 'Splink'
         self.output.mkdir(parents=True, exist_ok=True)
-        self.file_name = file
-        self.error = self.output / 'error'
-        self.error.mkdir(parents=True, exist_ok=True)
 
     def search(self, query):
         if not query: return
@@ -72,27 +68,6 @@ class SpeciesLink:
             return pd.read_csv(z[0].open('r', encoding='utf-8'))
         return []
 
-    def close(self, plants):
-        try:
-            file2 = []
-            for x in [(" ".join(i.split(" ")[:2]), i) for i in plants]:
-                z = list(self.output.glob('**/*%s.csv' % x[0]))
-                if len(z) > 0:
-                    file2.append(pd.read_csv(z[0].open('r', encoding='utf-8')))
-                else:
-                    file2.append(pd.DataFrame.from_dict({'Nome Entrada': [x[1]]}))
-            file = pd.concat(file2, sort=False)
-
-            file.to_csv(self.path / self.file_name, index=False)
-
-            print("Plantas salvas em:", self.path / self.file_name)
-            return [self.path / self.file_name]
-        except OSError as e:
-            print(e)
-            return
-        except ValueError as e:
-            print(e)
-            return
 
     def load(self, query, save_as):
         lista = []

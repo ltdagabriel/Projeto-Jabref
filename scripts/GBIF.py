@@ -23,31 +23,6 @@ class GBIF:
             return pd.read_csv(z[0].open('r', encoding='utf-8'))
         return []
 
-    def close(self, plants):
-        try:
-            file2 = []
-            save_as = self.path / self.file_name
-
-            for x in list(plants):
-                z = list(self.output.glob('**/*%s.csv' % x))
-
-                if len(z) > 0:
-                    x = pd.read_csv(z[0].open('r', encoding='utf-8'))
-                    file2.append(x)
-                else:
-                    file2.append(pd.DataFrame.from_dict({'Nome Entrada': [x]}))
-            file = pd.concat(file2, sort=False)
-
-            file.to_csv(save_as, index=False)
-            print("Plantas salvas em:", save_as)
-            return [save_as]
-        except OSError as e:
-            print(e)
-            return
-        except ValueError as e:
-            print(e)
-            return
-
     def search(self, plant):
         if not plant: return
         params = [('q', plant), ('locale', 'en')]
@@ -106,7 +81,7 @@ class GBIF:
                     obj.update({j: [i[j]]})
             arr.append(pd.DataFrame.from_dict(obj))
         if len(arr) > 0:
-            file = pd.concat(arr, sort=False)
+            file = pd.concat(arr) # foi apagado o sort = False
             file.to_csv(save_as.open('w', encoding='utf-8'), index=False, index_label=False)
 
     def run(self, query, force=False):
@@ -131,7 +106,6 @@ class GBIF:
 if __name__ == '__main__':
     gbif = GBIF()
     gbif.run('Justicia laevilinguis (Nees) Lindau')
-    # gbif.close(['Justicia laevilinguis (Nees) Lindau'])
     x = gbif._get('Justicia laevilinguis (Nees) Lindau')
     for i in range(len(x)):
         y = x.loc[i]
