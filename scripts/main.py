@@ -143,7 +143,8 @@ class Main:
                     for j in range(1,len(row_header)):
                         if type(row_header[j]) == type(''):
                             if row_header[j] in row.keys().tolist():
-                                sheet1.write(k, j, row[row_header[j]])
+                                if row[row_header[j]] == row[row_header[j]]:
+                                    sheet1.write(k, j, row[row_header[j]])
                         else:
                             sheet1.write(k, j, str(row[row_header[j][0]]) + ' ' + str(row[row_header[j][1]]))
                     k += 1
