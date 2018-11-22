@@ -63,7 +63,8 @@ class ThePlantList:
                 obj.update({"scientificname": [genus + " " + species + " " + autor],
                             "scientificnameauthorship": [autor],
                             'species': [genus + " " + species],
-                            "status": [x.select_one('.subtitle > a').text]})
+                            "status": [x.select_one('.subtitle > a').text],
+                            "acceptednameusage": [x.select(".name")[1].text]})
                 if len(rows) > 0:
                     sinonimos = []
                     for row in rows:
@@ -146,7 +147,7 @@ class ThePlantList:
         if not li:
             assss = Project()
             li = self.search(assss.correct_name(query))
-
+        print(li)
         if li:
             self.write(li, query)
             print('[plant download]: %s' % query)
@@ -155,4 +156,4 @@ class ThePlantList:
 
 if __name__ == "__main__":
     pl = ThePlantList()
-    print(pl._get('Panicum sabulorum Lam.'))
+    print(pl.run('Hebanthe paniculata Mart.'))

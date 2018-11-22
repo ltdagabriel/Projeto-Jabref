@@ -187,10 +187,11 @@ class Main:
                 flora = self.florabrasil._get(task)
                 if type(flora) == type(pd.DataFrame()):
                     sheet1.write(k, 3, "Aceito" if flora['taxonomicstatus'][0] == 'NOME_ACEITO' else "Sinonimo")
-                    sheet1.write(k, 4, flora['scientificname'][0])
+                    name = flora['scientificname'][0] if flora['taxonomicstatus'][0] == 'NOME_ACEITO' else flora['acceptednameusage'][0]
+                    sheet1.write(k, 4, name)
                     if flora['taxonomicstatus'][0] == 'NOME_ACEITO':
-                        self.queue_gbif.put(task)
-                        self.queue_splink.put(task)
+                        self.queue_gbif.put(name)
+                        self.queue_splink.put(name)
 
                     if 'family' in flora.columns.values.tolist():
                         sheet2.write(k, 1, flora['family'][0])
@@ -199,6 +200,7 @@ class Main:
                         sheet2.write(k, 2, flora['genus'][0])
 
                     if 'scientificname' in flora.columns.values.tolist():
+
                         sheet2.write(k, 3, flora['scientificname'][0])
 
                     if 'scientificnameauthorship' in flora.columns.values.tolist():
@@ -225,12 +227,13 @@ class Main:
                 plant = self.theplantlist._get(task)
                 if type(plant) == type(pd.DataFrame()):
                     sheet1.write(k, 1, "Aceito" if plant['status'][0] == 'accepted' else "Sinonimo")
-                    sheet1.write(k, 2, plant['scientificname'][0])
+                    name = flora['scientificname'][0] if flora['status'][0] == 'accepted' else flora['acceptednameusage'][0]
+                    sheet1.write(k, 2, name)
 
                     if not continue_flora2:
                         if plant['status'][0] == 'accepted':
-                            self.queue_gbif.put(task)
-                            self.queue_splink.put(task)
+                            self.queue_gbif.put(name)
+                            self.queue_splink.put(name)
                     if not continue_flora2:
                         if 'scientificname' in plant.columns.values.tolist():
                             sheet2.write(k, 3, plant['scientificname'][0])

@@ -82,6 +82,9 @@ class FloraBrasil:
             if not i:
                 assss = Project()
                 i = self.search(assss.correct_name(query))
+            print(i.keys())
+            for k in i.keys():
+                print("%s : %s\n" % (k,i[k]))
             if i:
                 out = {'Nome Entrada': [query], 'family': [None], 'genus': [None], 'scientificname': [None],
                        'specificepithet': [None],
@@ -90,7 +93,8 @@ class FloraBrasil:
                        'formaVida': [None],
                        'nomeStr': [None],
                        'substrato': [None], 'sinonimos': [None], 'species': [None],
-                       'tipoVegetacao': [None], 'origem': [None]}
+                       'tipoVegetacao': [None], 'origem': [None],
+                       'acceptednameusage': [None]}
                 sinonimos = []
                 try:
                     sinonimos = [x['scientificname'] for x in i['SINONIMO']]
@@ -189,4 +193,5 @@ class FloraBrasil:
 
 if __name__ == '__main__':
     df = FloraBrasil()
-    df.run('Justicia laevilinguis (Nees) Lindau')
+    # df.run('Justicia laevilinguis (Nees) Lindau')
+    df.run('Hebanthe paniculata Mart.')
