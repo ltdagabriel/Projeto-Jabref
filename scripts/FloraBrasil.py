@@ -23,8 +23,6 @@ class FloraBrasil:
         z = list(self.output.glob('**/*%s.csv' % query))
         if len(z) > 0:
             return pd.read_csv(z[0].open('r', encoding='utf-8'))
-        return False
-
 
     def auto_complete(self, query):
         text = query
@@ -40,8 +38,9 @@ class FloraBrasil:
                     return x[0]
                 if len(x) > 1:
                     break
-                text= text[:-1]
-        except: pass
+                text = text[:-1]
+        except:
+            pass
 
     def search(self, query):
         if not query: return
@@ -68,10 +67,6 @@ class FloraBrasil:
         file = pd.DataFrame.from_dict(row)
         file.to_csv(self.output / (query + '.csv'), index=False)
 
-        file = pd.DataFrame(columns=['species'])
-        for i in row.get('sinonimos', [[]])[0]:
-            file.loc[len(file)] = [i]
-        file.to_csv(self.output / ('_' + query + '.sinonimos.csv'), index=False)
 
     def run(self, query, force=False):
         try:
@@ -82,9 +77,6 @@ class FloraBrasil:
             if not i:
                 assss = Project()
                 i = self.search(assss.correct_name(query))
-            print(i.keys())
-            for k in i.keys():
-                print("%s : %s\n" % (k,i[k]))
             if i:
                 out = {'Nome Entrada': [query], 'family': [None], 'genus': [None], 'scientificname': [None],
                        'specificepithet': [None],
@@ -113,8 +105,6 @@ class FloraBrasil:
             print(e)
         except ConnectionError as e:
             print(e)
-
-
 
     def get_name_by_id(self, id):
         try:

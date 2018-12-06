@@ -5,7 +5,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-from project import Project
+from scripts.project import Project
 
 
 class GBIF:
@@ -21,7 +21,6 @@ class GBIF:
         z = list(self.output.glob('**/*%s.csv' % query))
         if len(z) > 0:
             return pd.read_csv(z[0].open('r', encoding='utf-8'))
-        return []
 
     def search(self, plant):
         if not plant: return
@@ -81,7 +80,7 @@ class GBIF:
                     obj.update({j: [i[j]]})
             arr.append(pd.DataFrame.from_dict(obj))
         if len(arr) > 0:
-            file = pd.concat(arr) # foi apagado o sort = False
+            file = pd.concat(arr, sort=False) # foi apagado o sort = False
             file.to_csv(save_as.open('w', encoding='utf-8'), index=False, index_label=False)
 
     def run(self, query, force=False):

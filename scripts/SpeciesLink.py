@@ -7,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 from requests import ReadTimeout
 
-from project import Project
+from scripts.project import Project
 
 
 class SpeciesLink:
@@ -24,7 +24,7 @@ class SpeciesLink:
         max = 100
         while offset < max:
             try:
-                response = requests.get(
+                response = requests.post(
                     'http://www.splink.org.br/mod_perl/searchHint?ts_genus=%s&offset=%s' % (query, offset), timeout=20)
                 if response.status_code == 200:
                     data = BeautifulSoup(response.text, features="html.parser")
@@ -58,7 +58,7 @@ class SpeciesLink:
             x = self.search(assss.correct_name(query))
 
         if x:
-            self.load(query, file)
+            self.write(query, file)
             print('[splink download]: %s' % query)
 
     def _get(self, query):
@@ -66,10 +66,8 @@ class SpeciesLink:
         z = list(self.output.glob('**/*%s.csv' % x[0]))
         if len(z) > 0:
             return pd.read_csv(z[0].open('r', encoding='utf-8'))
-        return []
 
-
-    def load(self, query, save_as):
+    def write(self, query, save_as):
         lista = []
         for i in self.array:
             obj = {}

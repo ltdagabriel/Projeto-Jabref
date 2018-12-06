@@ -7,7 +7,8 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-from project import Project
+from scripts.project import Project
+
 
 class ThePlantList:
     def __init__(self, file="ThePlantList_log.csv", path=Path('.')):
@@ -54,7 +55,6 @@ class ThePlantList:
                     cells = row.select("td")
                     if cells[1].get_text() == 'Accepted':
                         return cells[0].select_one('a')['href']
-
             x = html.select('h1')[1]
             if x:
                 genus = x.select_one(".genus").text
@@ -63,8 +63,12 @@ class ThePlantList:
                 obj.update({"scientificname": [genus + " " + species + " " + autor],
                             "scientificnameauthorship": [autor],
                             'species': [genus + " " + species],
-                            "status": [x.select_one('.subtitle > a').text],
-                            "acceptednameusage": [x.select(".name")[1].text]})
+                            "status": [x.select_one('.subtitle > a').text]})
+                temp = x.select('.name')
+                if len(temp) > 1:
+                    obj.update({"acceptednameusage": [temp[1].text]})
+
+                # "acceptednameusage": [x.select(".name")[1].text]
                 if len(rows) > 0:
                     sinonimos = []
                     for row in rows:
@@ -94,7 +98,6 @@ class ThePlantList:
         z = list(self.output.glob('**/*%s.csv' % query))
         if len(z) > 0:
             return pd.read_csv(z[0].open('r', encoding='utf-8'))
-        return []
 
     def close(self, plants):
         try:
@@ -133,11 +136,6 @@ class ThePlantList:
         file = pd.DataFrame.from_dict(row)
         file.to_csv(self.output / (query + '.csv'), index=False)
 
-        file = pd.DataFrame(columns=['species'])
-        for i in row.get('sinonimos', [[]])[0]:
-            file.loc[len(file)] = [i]
-        file.to_csv(self.output / ('_' + query + '.sinonimos.csv'), index=False)
-
     def run(self, query, force=False):
         if not force and len(list(self.output.glob('**/*%s.csv' % query))) > 0:
             print('[Plant log]: %s' % query)
@@ -147,7 +145,7 @@ class ThePlantList:
         if not li:
             assss = Project()
             li = self.search(assss.correct_name(query))
-        print(li)
+
         if li:
             self.write(li, query)
             print('[plant download]: %s' % query)
@@ -156,4 +154,4 @@ class ThePlantList:
 
 if __name__ == "__main__":
     pl = ThePlantList()
-    print(pl.run('Hebanthe paniculata Mart.'))
+    print(pl.run('Hebanthe eriantha (Poir.) Pedersen'))

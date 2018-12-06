@@ -13,7 +13,10 @@ from tkinter.ttk import Progressbar
 # from main import Main
 import main
 
+from scripts.main import Main
+
 stop_event = threading.Event()
+
 
 class GuiPart:
     def __init__(self, master, queue, endCommand, list=[]):
@@ -129,13 +132,14 @@ class ThreadedClient:
 
         # Set up the thread to do asynchronous I/O
         # More can be made if necessary
-        self.main = main.Main(self.openCSV())
-        self.len_n_flora_plant = len(self.main.species)
+        self.main = Main(self.openCSV())
+        self.len_n_flora_plant = 0
         self.running = 1
         self.thread = []
         self.run_flora()
         self.run_plant()
-        self.run_flora_x_plant()
+        self.run_Planilha_1()
+        self.run_Planilha_2()
         self.run_gbif()
         self.run_splink()
         self.run_gbif_splink()
@@ -151,10 +155,12 @@ class ThreadedClient:
         """
         Check every 100 ms if there is something new in the queue.
         """
-        if self.len_n_flora_plant >= 0 and self.main.queue_flora.qsize() < self.len_n_flora_plant and \
-                self.main.queue_plant.qsize() < self.len_n_flora_plant:
-            self.main.queue_f_p.put(self.main.species[self.len_n_flora_plant - 1])
-            self.len_n_flora_plant -= 1
+
+        if self.len_n_flora_plant < self.plant['value'] and \
+                self.len_n_flora_plant < self.flora['value'] and \
+                self.len_n_flora_plant < len(self.main.species):
+            self.main.queue_planilha_1.put(self.main.species[self.len_n_flora_plant])
+            self.len_n_flora_plant += 1
 
         while self.n_flora.qsize():
             s = self.n_flora.get()
@@ -201,44 +207,51 @@ class ThreadedClient:
 
         if self.main.queue_flora.qsize() == 0 and self.main.queue_plant.qsize() == 0:
             self.main.task_done = True
-            if self.main.queue_gbif.qsize() == 0 and self.main.queue_splink.qsize() == 0:
-                self.gbif['value'] = len(self.main.species)
-                self.splink['value'] = len(self.main.species)
-                self.main.task_occorence_done = True
-
-        self.master.after(100, self.periodicCall)
+        if self.main.task_done and self.main.queue_g_s.qsize() == 0 :
+            self.gbif['value'] = len(self.main.species)
+            self.splink['value'] = len(self.main.species)
+            self.main.task_occorence_done = True
+        if not stop_event.is_set():
+            self.master.after(100, self.periodicCall)
 
     def run_flora(self):
         self.n_flora.put(('maximum', len(self.main.species)))
-        thread = threading.Thread(target=lambda :self.main.run_('flora', self.n_flora, self.thread,len(self.thread)))
+        thread = threading.Thread(target=lambda: self.main.run_('flora', self.n_flora, self.thread, len(self.thread)))
         thread.start()
         self.thread.append(thread)
 
     def run_plant(self):
         self.n_plant.put(('maximum', len(self.main.species)))
-        thread = threading.Thread(target=lambda :self.main.run_('plant', self.n_plant, self.thread,len(self.thread)))
+        thread = threading.Thread(target=lambda: self.main.run_('plant', self.n_plant, self.thread, len(self.thread)))
         thread.start()
         self.thread.append(thread)
 
     def run_gbif(self):
         self.n_gbif.put(('maximum', len(self.main.species)))
-        thread = threading.Thread(target=self.main.run_occorence_, args=('gbif', self.n_gbif, self.thread,len(self.thread)))
+        thread = threading.Thread(target=self.main.run_occorence_,
+                                  args=('gbif', self.n_gbif, self.thread, len(self.thread)))
         thread.start()
         self.thread.append(thread)
 
     def run_splink(self):
         self.n_splink.put(('maximum', len(self.main.species)))
-        thread = threading.Thread(target=self.main.run_occorence_, args=('splink', self.n_splink, self.thread,len(self.thread)))
+        thread = threading.Thread(target=self.main.run_occorence_,
+                                  args=('splink', self.n_splink, self.thread, len(self.thread)))
         thread.start()
         self.thread.append(thread)
 
-    def run_flora_x_plant(self):
-        thread = threading.Thread(target= lambda :self.main.plantXflora(self.files, self.thread,len(self.thread)))
+    def run_Planilha_1(self):
+        thread = threading.Thread(target=lambda: self.main.Planilha_1(self.files, self.thread, len(self.thread)))
+        thread.start()
+        self.thread.append(thread)
+
+    def run_Planilha_2(self):
+        thread = threading.Thread(target=lambda: self.main.Planilha_2(self.files, self.thread, len(self.thread)))
         thread.start()
         self.thread.append(thread)
 
     def run_gbif_splink(self):
-        thread = threading.Thread(target= lambda :self.main.gbif_splink(self.files, self.thread,len(self.thread)))
+        thread = threading.Thread(target=lambda: self.main.Planilha_3(self.files, self.thread, len(self.thread)))
         thread.start()
         self.thread.append(thread)
 
@@ -300,4 +313,3 @@ class ThreadedClient:
             self.running = False
             self.master.destroy()
             stop_event.set()
-

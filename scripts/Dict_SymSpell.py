@@ -13,7 +13,7 @@ class Dict:
     def __init__(self, dict_name):
         self.dic = []
         self.dic_name = dict_name
-        self.nlp = spacy.load('en')
+        self.nlp = spacy.write('en')
 
     def create_dict(self, planilha):
         chars = ['.', '&', ',', ')', '(']
