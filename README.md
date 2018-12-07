@@ -51,3 +51,4 @@ Desta forma, o produto pretendido é definido por um sistema capaz de:
 | 4 | [novo]Realizar maior cobertura de testes no script Flora do Brasil | 2 horas | 2 horas | Caio |
 | 4 | [novo]Realizar maior cobertura de testes no script GBIF | 2 horas | 2 horas | Eduardo |
 | 4 | [novo]Incluir apenas os nomes aceitos na Planilha 2 | 1 hora | 0.5 hora | Gabriel |
+||Total|77.6|82.5||
