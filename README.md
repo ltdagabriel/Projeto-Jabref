@@ -21,10 +21,22 @@ Desta forma, o produto pretendido é definido por um sistema capaz de:
 | 1       | Plano de Tempo                     |                | 6 horas       | Caio, Eduardo, Gabriel |
 | 1       | Plano de Escopo                    |                | 4 horas       | Caio, Eduardo          |
 | 1       | Termo de Abertura                  |                | 4 horas       | Caio, Eduardo, Gabriel |
-| 1       | Manipulação dos dados de entrada   |                | 0.18 horas    | Gabriel                |
-| 2       | Correção dos dados: GBIF           | nao foi feito  | nao foi feito | ninguém                |
+| 1       | Manipulação dos dados de entrada   |                | 0.17 hora    | Gabriel                |
+| 2       | [excluído]Correção dos dados: GBIF           | N/A  | N/A | N/A     |
 | 2       | Extração dos dados:The Plant List  | 11 horas       | 4 horas       | Gabriel, Eduardo       |
 | 2       | Extração dos dados:Splink          | 15 horas       | 20 horas      | Gabriel, Eduardo       |
 | 2       | Extração dos dados:GBIF            | 7 horas        | 4 horas       | Gabriel, Caio          |
-| 2       | Extração dos dados:Flora do Brasil | 7h             | 8h            | Eduardo                |
-|         |                                    |                |               |                        |
+| 2       | Extração dos dados:Flora do Brasil | 7 horas             | 8 horas            | Eduardo      |
+| 3       | Estudo de técnicas para correção dos dados | 7 horas | 3 horas | Caio, Eduardo, Gabriel |
+| 3       | Gerar tabela de saída com os atributos corretos | 3 horas | 14 horas | Caio, Eduardo, Gabriel |
+| 3       | [excluído]Correção dos dados: SpLink | N/A | N/A | N/A |
+| 3       | [novo]Alterar no TAP a data das entregas | 0.1 horas | 0.1 horas | Eduardo |
+| 3       | [novo]Arrumar bug na planilha de entrada | 2 horas | 0.5 hora | Gabriel |
+| 3       | Gerar uma planilha dos dados do Flora e PlantList | 3 horas | 0.5 hora | Gabriel |
+| 4 | Correção dos dados de entrada | 10.5 horas | 0.5 hora | Caio |
+| 4 | [novo]Realizar casos de teste | 3 horas | 1.5 hora | Caio |
+| 4 | [novo]Gerar planilha do GBIF e THEPLANTLIST | 3 horas | 1.5 hora | Gabriel |
+| 4 | [novo]Gerar o executável do programa | 1 hora | 0.03 hora | Gabriel |
+| 4 | [novo]Realizar maior cobertura de testes no script Flora do Brasil | 2 horas | 2 horas | Caio |
+| 4 | [novo]Realizar maior cobertura de testes no script GBIF | 2 horas | 2 horas | Eduardo |
+| 4 | [novo]Incluir apenas os nomes aceitos na Planilha 2 | 1 hora | 0.5 hora | Gabriel |
