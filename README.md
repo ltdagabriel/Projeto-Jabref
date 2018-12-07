@@ -14,6 +14,10 @@ Desta forma, o produto pretendido é definido por um sistema capaz de:
   2) Congregar informações de registros de ocorrências dessas espécies de macrófitas no continente da seguinte forma:
       - Correção de erros;
       - Indicação de padrões e tendências considerando as bacias hidrográficas Sul-Americanas. 
+## Requerimentos e como inicializar
+ - [Python 3](https://www.python.org/downloads/)
+ - [Pyinstaller](https://sourceforge.net/projects/pywin32/files/)
+
 ## Relação de Tempo
 | Release | Tarefa                             | Tempo estimado | Tempo real    | Quem fez               |
 |---------|------------------------------------|----------------|---------------|------------------------|
