@@ -17,8 +17,8 @@ Desta forma, o produto pretendido é definido por um sistema capaz de:
 ## Requerimentos e como inicializar
  - Instalar [Python 3](https://www.python.org/downloads/)
  - Instalar [Pyinstaller](https://sourceforge.net/projects/pywin32/files/)
- - pip install -r scripts/requeriments.txt
- - pyinstaller scripts/"Extração das macrófitas.py"
+ - `pip install -r scripts/requeriments.txt`
+ - `pyinstaller scripts/"Extração das macrófitas.py"`
  - copiar scripts/dict_final.txt para "scripts/dist/Extração das macrófitas/"
  
  Muito bem o executavel foi gerado agora basta executar
