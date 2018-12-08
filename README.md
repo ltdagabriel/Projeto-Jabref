@@ -4,7 +4,7 @@
       + Planilha 1: Busca-se em ambos os sites os nomes de plantas os quais serão verificados se o nome é aceito ou se é um sinônimo, caso seja sinônimo salva-se na planilha de qual planta ele é sinonimo, a partir do resultado dos sites fazemos uma coluna de comparação da informação recebida de ambos os sites. Exemplo: [Planilha1.xls](https://drive.google.com/open?id=1nMqeB6XsE3pa2GnyGkm7MOuJW1OrZAqi)
       + Planilha 2: Após obter os resultados da Planilha 1, temos os nomes das plantas de entrada que são aceitos, para popular a segunda planilha, das buscamos o nome aceito pelo 'Flora do Brasil 2020' e caso a planta não foi encontrada utilizamos a planta aceita pelo The Plant List. Exemplo: [Planilha 2](https://drive.google.com/open?id=1LsiR5USOr9cncUSnRav3oPQpg9FkHSA8)
  - Busca-se nos sites [GBIF](https://www.gbif.org/) e [speciesLink](http://splink.cria.org.br/):
-      + Planilha 3: Buscamos todas as occorencias das plantas apartir da planilha 2. Exemplo: [Planilha 3](https://drive.google.com/open?id=1NAAeLY_DM8izMAIgykjJIWw3LNwLdIUo)
+      + Planilha 3: Buscamos todas as occorencias das plantas apartir da planilha 2 situadas no Brasil. Exemplo: [Planilha 3](https://drive.google.com/open?id=1NAAeLY_DM8izMAIgykjJIWw3LNwLdIUo)
 ## Requerimentos e como inicializar
  - Instalar [Python 3](https://www.python.org/downloads/)
  - Instalar [Pyinstaller](https://sourceforge.net/projects/pywin32/files/)
