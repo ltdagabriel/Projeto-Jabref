@@ -1,19 +1,9 @@
-## Classificação de Macrófitas
-Com base em dados de ocorrência dessas plantas, os quais serão correlacionados à varáveis ambientais para a predição da área de distribuição geográfica da espécies no presente e no futuro, pretendemos identificar os seguintes fatores: 
-  
-  - Áreas de maior diversidade;
-  - Famílias e táxons amplamente distribuídas;
-  - Famílias e táxons com áreas restritas de ocorrência. 
-
-Desta forma, o produto pretendido é definido por um sistema capaz de: 
-  
-  1) Validar os nomes das espécies de macrófitas em banco de dados disponíveis online (Specieslink e GBIF), trazendo também informações relacionadas à:
-      - Taxonomia;
-      - Ecologia;
-      - Biologia.
-  2) Congregar informações de registros de ocorrências dessas espécies de macrófitas no continente da seguinte forma:
-      - Correção de erros;
-      - Indicação de padrões e tendências considerando as bacias hidrográficas Sul-Americanas. 
+## Funcionalidades implementadas
+ - Apartir de uma planilha no formato .xlsx, contendo uma lista de nomes de plantas Exemplo: [ListaMacrofita.xlsx](https://drive.google.com/open?id=1fA6JNh1JR7GgCHdb0Iz2Ukn64kER3t5x)
+ - Busca-se nos sites [Flora do Brasil 2020](http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/PrincipalUC/PrincipalUC.do;jsessionid=9E74D968268C52C66B2E2EB0FFB82B96) e [The Plant List](http://www.theplantlist.org/) dados dos quais serão utilizados para geração de duas planilhas:
+      + Planilha 1: Busca-se em ambos os sites os nomes de plantas os quais serão verificados se o nome é aceito ou se é um sinônimo, caso seja sinônimo salva-se na planilha de qual planta ele é sinonimo, a partir do resultado dos sites fazemos uma coluna de comparação da informação recebida de ambos os sites. Exemplo: [Planilha1.xls](https://drive.google.com/open?id=1nMqeB6XsE3pa2GnyGkm7MOuJW1OrZAqi)
+      + Planilha 2: Após obter os resultados da Planilha 1, temos os nomes das plantas de entrada que são aceitos, para popular a segunda planilha, das buscamos o nome aceito pelo 'Flora do Brasil 2020' e caso a planta não foi encontrada utilizamos a planta aceita pelo The Plant List. Exemplo: [Planilha 2](https://drive.google.com/open?id=1LsiR5USOr9cncUSnRav3oPQpg9FkHSA8)
+      + Planilha 3: Buscamos todas as occorencias das plantas apartir da planilha 2 nos sites [GBIF](https://www.gbif.org/) e [speciesLink](http://splink.cria.org.br/). Exemplo: [Planilha 3](https://drive.google.com/open?id=1NAAeLY_DM8izMAIgykjJIWw3LNwLdIUo)
 ## Requerimentos e como inicializar
  - Instalar [Python 3](https://www.python.org/downloads/)
  - Instalar [Pyinstaller](https://sourceforge.net/projects/pywin32/files/)
