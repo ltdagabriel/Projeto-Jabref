@@ -1,4 +1,4 @@
-## Funcionalidades implementadas
+## Macrófitas
  - Apartir de uma planilha no formato .xlsx, contendo uma lista de nomes de plantas Exemplo: [ListaMacrofita.xlsx](https://drive.google.com/open?id=1fA6JNh1JR7GgCHdb0Iz2Ukn64kER3t5x)
  - Busca-se nos sites [Flora do Brasil 2020](http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/PrincipalUC/PrincipalUC.do;jsessionid=9E74D968268C52C66B2E2EB0FFB82B96) e [The Plant List](http://www.theplantlist.org/):
       + Planilha 1: Busca-se em ambos os sites os nomes de plantas os quais serão verificados se o nome é aceito ou se é um sinônimo, caso seja sinônimo salva-se na planilha de qual planta ele é sinonimo, a partir do resultado dos sites fazemos uma coluna de comparação da informação recebida de ambos os sites. Exemplo: [Planilha1.xls](https://drive.google.com/open?id=1nMqeB6XsE3pa2GnyGkm7MOuJW1OrZAqi)
