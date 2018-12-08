@@ -17,14 +17,19 @@ Desta forma, o produto pretendido é definido por um sistema capaz de:
 ## Requerimentos e como inicializar
  - Instalar [Python 3](https://www.python.org/downloads/)
  - Instalar [Pyinstaller](https://sourceforge.net/projects/pywin32/files/)
- - Baixar o projeto
+ - clonar ou baixar o projeto zipado
+ - `git clone https://github.com/ltdagabriel/Database-Macrophytes.git`
+ - `cd Database-Macrophytes`
  - `pip install -r scripts/requeriments.txt`
  - `pyinstaller "scripts/Extração das macrófitas.py"`
  - `copy "scripts/dict_final.txt" "scripts/dist/Extração das macrófitas/"`
  - `"scripts/dist/Extração das macrófitas/Extração das macrófitas.exe"`
  Executar
  - `"scripts/dist/Extração das macrófitas/Extração das macrófitas.exe"`
- 
+
+## Projeto compilado para arquitetura Windows 32
+- Google DRIVE: [Extração das macrófitas.zip](https://drive.google.com/open?id=1XQ3fnZDMxEqzEO-Tt_RQwQ8-ErOVf1P0)
+
 ## Relação de Tempo
 | Release | Tarefa                             | Tempo estimado | Tempo real    | Quem fez               |
 |---------|------------------------------------|----------------|---------------|------------------------|
