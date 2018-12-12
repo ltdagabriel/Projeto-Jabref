@@ -17,6 +17,19 @@
  - `"scripts/dist/Extração das macrófitas/Extração das macrófitas.exe"`
  Executar
  - `"scripts/dist/Extração das macrófitas/Extração das macrófitas.exe"`
+ 
+## Inicialização no Linux
+ - Instalar [Python 3](https://www.python.org/downloads/)
+ - Instalar [Pyinstaller](https://sourceforge.net/projects/pywin32/files/)
+ - clonar ou baixar o projeto zipado
+ - `git clone https://github.com/ltdagabriel/Database-Macrophytes.git`
+ - `cd Database-Macrophytes`
+ - `pip install -r scripts/requeriments_linux.txt`
+ - `pyinstaller "scripts/Extração das macrófitas.py"`
+ - `cp scripts/dict_final.txt dist/Extração\ das\ macrófitas/`
+ - `cd cd dist/Extração\ das\ macrófitas/`
+ Executar
+ - `./Extração\ das\ macrófitas`
 
 ## Projeto compilado para arquitetura Windows 32
 - Google DRIVE: [Extração das macrófitas.zip](https://drive.google.com/open?id=1XQ3fnZDMxEqzEO-Tt_RQwQ8-ErOVf1P0)
