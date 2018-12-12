@@ -24,10 +24,10 @@
  - clonar ou baixar o projeto zipado
  - `git clone https://github.com/ltdagabriel/Database-Macrophytes.git`
  - `cd Database-Macrophytes`
- - `pip install -r scripts/requeriments_linux.txt`
+ - `pip install -r scripts/requirements_linux.txt`
  - `pyinstaller "scripts/Extração das macrófitas.py"`
  - `cp scripts/dict_final.txt dist/Extração\ das\ macrófitas/`
- - `cd cd dist/Extração\ das\ macrófitas/`
+ - `cd dist/Extração\ das\ macrófitas/`
  - Para executar: `./Extração\ das\ macrófitas`
 
 ## Projeto compilado para arquitetura Windows 32
