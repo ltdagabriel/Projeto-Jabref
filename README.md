@@ -28,8 +28,7 @@
  - `pyinstaller "scripts/Extração das macrófitas.py"`
  - `cp scripts/dict_final.txt dist/Extração\ das\ macrófitas/`
  - `cd cd dist/Extração\ das\ macrófitas/`
- Executar
- - `./Extração\ das\ macrófitas`
+ - Para executar: `./Extração\ das\ macrófitas`
 
 ## Projeto compilado para arquitetura Windows 32
 - Google DRIVE: [Extração das macrófitas.zip](https://drive.google.com/open?id=1XQ3fnZDMxEqzEO-Tt_RQwQ8-ErOVf1P0)
