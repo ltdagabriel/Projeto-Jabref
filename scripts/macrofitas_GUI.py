@@ -13,7 +13,7 @@ from tkinter.ttk import Progressbar
 # from main import Main
 import main
 
-from scripts.main import Main
+from main import Main
 
 stop_event = threading.Event()
 

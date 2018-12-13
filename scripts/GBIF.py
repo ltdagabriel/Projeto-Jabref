@@ -5,7 +5,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-from scripts.project import Project
+from project import Project
 
 
 class GBIF:

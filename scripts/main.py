@@ -12,11 +12,11 @@ from tkinter.ttk import Progressbar
 import pandas as pd
 import xlwt
 
-from scripts import macrofitas_GUI
-from scripts.FloraBrasil import FloraBrasil
-from scripts.GBIF import GBIF
-from scripts.SpeciesLink import SpeciesLink
-from scripts.ThePlantList import ThePlantList
+import macrofitas_GUI
+from FloraBrasil import FloraBrasil
+from GBIF import GBIF
+from SpeciesLink import SpeciesLink
+from ThePlantList import ThePlantList
 
 
 class Main:
